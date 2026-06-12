@@ -213,7 +213,7 @@ The dataset contains **2,000 inventory records** with real-world data quality is
 [Download Dashboard](YOUR_EXCEL_DASHBOARD_LINK_HERE)
 
 ### 📁 Dataset File
-[Download Dataset](YOUR_DATASET_LINK_HERE)
+[Download Dataset](https://github.com/bhagyashrininawe/Inventory-Supply-Chain-Dashboard/blob/main/Inventory_SupplyChain_Messy_Dataset_2000_Rows.csv)
 
 ---
 
