@@ -1,0 +1,2001 @@
+SKU ID,Product Name,Category,Supplier,Warehouse,Opening Stock,Received Qty,Sold Qty,Closing Stock,Reorder Level,Unit Cost,Date
+SKU10000,Seagate Hard Drive,electronics,Vertex Solutions,Pune WH,-377,57,12,-332,,36849.91,23-11-2025
+SKU10001,Lenovo Tablet,Electronics,TechNova Pvt Ltd,Mumbai WH,429,279,89,619,95,11010.03,01-06-2025
+SKU10002,Blue Yeti Microphone,IT Equipment,Vertex Solutions,Delhi WH,358,13,287,84,45,29504.36,07-01-2024
+SKU10003,Seagate Hard Drive,electronics,Vertex Solutions,Nagpur WH,438,81,432,87,63,5200.29,24-01-2025
+SKU10004,Seagate Hard Drive,Electronics,,Bengaluru WH,99,183,176,106,97,6328.83,22-01-2025
+SKU10005,LG LED Screen,Electronic,Vertex Solutions,Mumbai WH,90,282,150,222,100,2386.64,21-08-2024
+SKU10006,Dell Mouse,IT Equipment,Apex Distributors,Delhi WH,445,148,81,512,49,31820.65,08-01-2025
+SKU10007,Seagate Hard Drive,office supplies,Prime Supplies,Bengaluru WH,133,189,181,141,46,31785.42,30-06-2025
+SKU10008,HP Scanner,Electronic,Vertex Solutions,Nagpur WH,423,125,167,381,79,42158.31,27-02-2024
+SKU10009,HP Scanner,Electronic,Prime Supplies,Pune WH,167,16,206,-23,60,45665.49,03-08-2025
+SKU10010,HP Scanner,office supplies,,Pune WH,498,161,217,442,83,13317.52,09-09-2024
+SKU10011,Office Desk,IT Equipment,,Nagpur WH,431,287,551,167,53,11044.11,21-05-2024
+SKU10012,Dell Mouse,electronics,Global Traders,Delhi WH,310,252,93,469,26,29860.81,29-01-2025
+SKU10013,Dell Laptop,office supplies,Prime Supplies,Bengaluru WH,245,239,257,227,90,37568.8,18-10-2025
+SKU10014,TP-Link Router,IT Equipment,TechNova Pvt Ltd,Nagpur WH,224,57,150,131,75,48597.22,01-07-2024
+SKU10015,Dell Docking Station,Office Supplies,Vertex Solutions,Pune WH,309,54,320,43,58,18758.3,14-06-2024
+SKU10016,Office Chair,IT Equipment,TechNova Pvt Ltd,Mumbai WH,326,271,0,597,96,46462.02,10-11-2024
+SKU10017,Logitech Keyboard,Electronics,,Mumbai WH,172,29,61,140,92,48901.43,29-06-2025
+SKU10018,Blue Yeti Microphone,electronics,Apex Distributors,Bengaluru WH,442,64,131,375,80,43634.41,09-03-2025
+SKU10019,Logitech Webcam,IT Equipment,NextGen Systems,Delhi WH,158,276,386,48,45,44990.74,07-04-2025
+SKU10020,Office Chair,Electronics,Vertex Solutions,Bengaluru WH,111,126,115,122,28,11088.85,13-03-2024
+SKU10021,HP Monitor,Electronic,Prime Supplies,Bengaluru WH,412,30,117,325,28,11976.43,16-11-2025
+SKU10022,Office Desk,Office Supplies,,Pune WH,298,109,276,131,36,39252.51,20-02-2025
+SKU10023,Epson Projector,IT Equipment,,Delhi WH,147,48,24,171,75,43205.45,25-02-2024
+SKU10024,Office Chair,Electronics,Vertex Solutions,Pune WH,394,50,31,413,71,9591.42,04-04-2025
+SKU10025,APC UPS,electronics,Prime Supplies,Delhi WH,121,216,93,244,55,40420.31,17-07-2025
+SKU10026,Dell Laptop,Electronics,Vertex Solutions,Pune WH,100,25,166,-41,89,20380.06,07-05-2025
+SKU10027,HP Scanner,Electronics,,Nagpur WH,159,205,30,334,41,46333.25,10-04-2025
+SKU10028,Cisco Switch,electronics,Vertex Solutions,Nagpur WH,196,216,356,56,91,10963.27,29-02-2024
+SKU10029,HP Monitor,Electronics,,Bengaluru WH,346,277,62,561,60,45977.42,27-06-2025
+SKU10030,TP-Link Router,Electronics,Prime Supplies,Pune WH,130,29,130,29,30,20248.4,06-08-2025
+SKU10031,Logitech Keyboard,IT Equipment,NextGen Systems,Nagpur WH,176,296,40,432,99,10292.53,17-11-2024
+SKU10032,Logitech Webcam,IT Equipment,NextGen Systems,Mumbai WH,172,135,202,105,36,564.84,28-09-2025
+SKU10033,JBL Headset,Office Supplies,Apex Distributors,Pune WH,338,51,37,352,88,46669.64,11-03-2024
+SKU10034,TP-Link Router,IT Equipment,Apex Distributors,Bengaluru WH,500,125,378,247,56,49194.28,31-10-2025
+SKU10035,Logitech Webcam,office supplies,Prime Supplies,Pune WH,320,4,341,-17,90,13296.85,19-04-2024
+SKU10036,Logitech Webcam,Office Supplies,Vertex Solutions,Nagpur WH,430,283,159,554,54,10259.51,11-10-2025
+SKU10037,Seagate Hard Drive,Electronics,Prime Supplies,Delhi WH,486,135,517,104,82,41484.47,15-02-2024
+SKU10038,TP-Link Router,office supplies,,Bengaluru WH,51,170,66,155,53,35312.81,28-07-2025
+SKU10039,Blue Yeti Microphone,Electronics,NextGen Systems,Bengaluru WH,54,57,19,92,39,27671.0,16-03-2025
+SKU10040,HP Monitor,Electronic,Vertex Solutions,Pune WH,115,21,78,58,66,33379.98,28-12-2024
+SKU10041,Canon Printer,electronics,Global Traders,Pune WH,449,286,416,319,99,44082.67,26-01-2024
+SKU10042,Seagate Hard Drive,electronics,Prime Supplies,Delhi WH,141,170,210,101,51,43621.12,26-04-2025
+SKU10043,Logitech Webcam,electronics,Vertex Solutions,Mumbai WH,163,102,235,30,64,33035.66,12-02-2025
+SKU10044,Epson Projector,office supplies,,Bengaluru WH,218,142,35,325,55,16624.38,29-01-2024
+SKU10045,Seagate Hard Drive,Electronics,Prime Supplies,Bengaluru WH,109,133,91,151,94,21784.73,17-11-2024
+SKU10046,Office Desk,electronics,Apex Distributors,Mumbai WH,273,261,118,416,69,35468.39,02-01-2024
+SKU10047,Lenovo Tablet,Electronics,NextGen Systems,Bengaluru WH,316,275,201,390,66,15764.39,07-05-2024
+SKU10048,Lenovo Tablet,Electronic,,Nagpur WH,418,153,519,52,59,27765.18,15-07-2024
+SKU10049,LG LED Screen,Office Supplies,Apex Distributors,Delhi WH,265,194,346,113,42,27442.07,01-01-2024
+SKU10050,Lenovo Tablet,Office Supplies,NextGen Systems,Delhi WH,205,146,107,244,,22145.12,22-11-2025
+SKU10051,Logitech Keyboard,Electronic,NextGen Systems,Mumbai WH,159,261,242,178,41,40939.33,28-08-2024
+SKU10052,Canon Printer,Electronics,TechNova Pvt Ltd,Pune WH,394,158,230,322,45,49198.41,17-09-2025
+SKU10053,Office Desk,electronics,,Delhi WH,485,37,466,56,73,20042.68,31-05-2024
+SKU10054,Lenovo Tablet,electronics,Global Traders,Bengaluru WH,385,2,384,3,33,23281.04,24-07-2025
+SKU10055,APC UPS,office supplies,NextGen Systems,Delhi WH,177,62,233,6,37,30671.35,31-05-2025
+SKU10056,Cisco Switch,IT Equipment,Apex Distributors,Pune WH,268,280,456,92,40,42009.16,10-10-2024
+SKU10057,Samsung SSD,Electronic,,Mumbai WH,442,266,496,212,100,35705.89,28-08-2024
+SKU10058,Logitech Keyboard,electronics,Global Traders,Pune WH,189,171,163,197,89,19213.46,05-06-2024
+SKU10059,Lenovo Tablet,Electronic,,Delhi WH,411,109,65,455,73,3207.06,06-03-2025
+SKU10059,HP Scanner,IT Equipment,TechNova Pvt Ltd,Nagpur WH,249,299,20,528,93,15000.77,03-02-2025
+SKU10061,LG LED Screen,electronics,,Pune WH,486,214,551,149,89,13719.47,12-05-2025
+SKU10062,TP-Link Router,IT Equipment,Global Traders,Bengaluru WH,64,199,172,91,71,26752.77,07-02-2025
+SKU10063,Logitech Keyboard,office supplies,,Pune WH,353,288,678,-37,23,43355.88,05-07-2024
+SKU10064,JBL Headset,IT Equipment,NextGen Systems,Nagpur WH,75,133,194,14,61,38085.36,23-01-2025
+SKU10065,Cisco Switch,Electronics,TechNova Pvt Ltd,Nagpur WH,192,215,129,278,30,11288.69,11-03-2024
+SKU10066,JBL Headset,Electronics,Global Traders,Pune WH,449,20,31,438,51,6398.43,16-11-2025
+SKU10067,Seagate Hard Drive,Electronic,Global Traders,Bengaluru WH,108,288,111,285,79,30401.65,27-04-2024
+SKU10068,Office Desk,Electronics,Apex Distributors,Bengaluru WH,448,83,318,213,33,33899.63,19-01-2025
+SKU10069,Samsung SSD,Electronics,Apex Distributors,Bengaluru WH,253,101,38,316,95,40295.85,02-08-2025
+SKU10070,Lenovo Tablet,office supplies,NextGen Systems,Mumbai WH,450,21,355,116,88,25347.44,15-12-2024
+SKU10071,Lenovo Tablet,Electronic,,Pune WH,56,215,250,21,33,21830.81,18-06-2025
+SKU10072,APC UPS,IT Equipment,Apex Distributors,Nagpur WH,383,138,551,-30,81,42600.49,29-03-2024
+SKU10073,Office Desk,Office Supplies,,Nagpur WH,192,230,124,298,79,1532.13,28-11-2024
+SKU10074,Seagate Hard Drive,Electronic,Apex Distributors,Bengaluru WH,143,249,108,284,65,35089.07,09-10-2024
+SKU10075,Logitech Keyboard,electronics,,Delhi WH,-334,5,264,-593,44,27803.29,03-09-2024
+SKU10076,APC UPS,Electronics,Prime Supplies,Nagpur WH,403,243,661,-15,82,11157.66,09-12-2025
+SKU10077,Epson Projector,IT Equipment,NextGen Systems,Delhi WH,174,156,339,-9,94,49831.91,17-07-2025
+SKU10078,Seagate Hard Drive,Electronic,Apex Distributors,Pune WH,219,180,359,40,78,6120.73,16-07-2024
+SKU10079,JBL Headset,electronics,,Nagpur WH,211,61,274,-2,43,36256.79,21-06-2025
+SKU10080,Logitech Webcam,electronics,NextGen Systems,Pune WH,355,144,102,397,44,15183.15,26-12-2025
+SKU10081,HP Monitor,Office Supplies,Apex Distributors,Pune WH,323,64,140,247,25,31929.7,17-05-2025
+SKU10082,Cisco Switch,IT Equipment,,Nagpur WH,102,6,146,-38,56,9299.75,22-02-2024
+SKU10083,HP Scanner,IT Equipment,Prime Supplies,Bengaluru WH,179,244,58,365,28,31509.34,24-02-2024
+SKU10084,Logitech Webcam,Electronics,Vertex Solutions,Mumbai WH,127,76,207,-4,92,27947.84,02-03-2025
+SKU10085,APC UPS,Electronic,,Nagpur WH,360,115,389,86,77,28474.61,02-03-2024
+SKU10086,JBL Headset,Electronic,Prime Supplies,Pune WH,362,50,390,22,46,12069.27,19-07-2025
+SKU10087,APC UPS,office supplies,,Nagpur WH,88,80,0,168,72,1728.73,22-10-2024
+SKU10088,Samsung SSD,Electronic,Vertex Solutions,Delhi WH,411,144,464,91,29,5827.34,18-08-2024
+SKU10089,Canon Printer,Electronics,TechNova Pvt Ltd,Pune WH,381,76,465,-8,54,39652.17,01-09-2025
+SKU10090,Dell Mouse,IT Equipment,Apex Distributors,Delhi WH,433,291,295,429,76,47139.54,27-05-2025
+SKU10091,LG LED Screen,Electronics,,Nagpur WH,326,252,448,130,30,30225.31,27-01-2024
+SKU10092,Office Desk,Electronics,Global Traders,Delhi WH,96,117,10,203,54,25996.3,28-03-2025
+SKU10093,Cisco Switch,Electronics,,Nagpur WH,192,92,299,-15,75,20476.57,24-11-2024
+SKU10094,Office Chair,IT Equipment,,Nagpur WH,393,53,439,7,40,33162.92,14-02-2025
+SKU10095,Logitech Keyboard,Electronic,Apex Distributors,Nagpur WH,466,281,37,710,78,5884.49,17-02-2025
+SKU10096,APC UPS,IT Equipment,TechNova Pvt Ltd,Pune WH,492,263,1,754,89,25970.13,29-09-2025
+SKU10097,HP Monitor,electronics,Apex Distributors,Bengaluru WH,437,255,640,52,76,6637.56,21-10-2024
+SKU10098,LG LED Screen,electronics,Global Traders,Nagpur WH,274,248,124,398,23,27586.87,19-07-2025
+SKU10099,APC UPS,Electronics,Global Traders,Delhi WH,258,47,115,190,34,46639.39,25-10-2024
+SKU10100,Cisco Switch,IT Equipment,Vertex Solutions,Delhi WH,310,139,212,237,,27608.13,27-01-2025
+SKU10101,Logitech Keyboard,Electronic,,Nagpur WH,147,260,382,25,37,46718.99,03-06-2025
+SKU10102,Office Desk,Office Supplies,,Pune WH,186,1,72,115,58,22382.71,10-05-2025
+SKU10103,HP Scanner,IT Equipment,NextGen Systems,Pune WH,226,170,282,114,89,49040.65,01-09-2024
+SKU10104,HP Monitor,Electronic,,Delhi WH,342,196,239,299,72,19365.33,10-11-2025
+SKU10105,Canon Printer,Office Supplies,NextGen Systems,Mumbai WH,455,77,507,25,24,43722.1,26-03-2025
+SKU10106,Canon Printer,IT Equipment,Global Traders,Mumbai WH,101,269,233,137,21,23527.58,28-09-2024
+SKU10107,Office Chair,office supplies,,Nagpur WH,223,203,332,94,30,31377.28,14-05-2025
+SKU10108,Logitech Keyboard,electronics,Apex Distributors,Pune WH,496,277,36,737,99,37363.64,20-03-2025
+SKU10109,Logitech Webcam,Electronics,TechNova Pvt Ltd,Nagpur WH,100,51,113,38,41,39827.56,27-10-2024
+SKU10110,Samsung SSD,Office Supplies,,Bengaluru WH,233,191,220,204,38,34121.84,03-07-2024
+SKU10111,HP Scanner,Office Supplies,Vertex Solutions,Delhi WH,137,89,40,186,98,45650.17,26-05-2024
+SKU10112,APC UPS,Electronic,TechNova Pvt Ltd,Delhi WH,168,236,326,78,52,45070.35,24-11-2025
+SKU10113,Epson Projector,Office Supplies,Apex Distributors,Delhi WH,329,80,37,372,76,34546.64,12-04-2025
+SKU10114,Cisco Switch,Electronics,Vertex Solutions,Delhi WH,482,154,203,433,69,28638.94,11-08-2025
+SKU10115,Seagate Hard Drive,Electronics,TechNova Pvt Ltd,Bengaluru WH,201,151,11,341,70,37284.09,20-10-2024
+SKU10116,JBL Headset,Office Supplies,Apex Distributors,Pune WH,447,117,360,204,48,31449.58,04-10-2025
+SKU10117,HP Monitor,Office Supplies,NextGen Systems,Pune WH,380,20,158,242,76,4597.66,29-10-2024
+SKU10118,Canon Printer,Office Supplies,NextGen Systems,Bengaluru WH,217,212,89,340,45,25139.56,06-10-2024
+SKU10119,Logitech Webcam,office supplies,NextGen Systems,Mumbai WH,475,84,263,296,81,23469.74,18-03-2024
+SKU10119,Epson Projector,Electronics,,Mumbai WH,122,115,203,34,91,13296.48,06-05-2024
+SKU10121,HP Scanner,office supplies,NextGen Systems,Mumbai WH,282,188,268,202,94,33774.34,27-04-2025
+SKU10122,Samsung SSD,office supplies,Prime Supplies,Delhi WH,62,287,167,182,98,45478.44,05-11-2024
+SKU10123,HP Monitor,Electronics,Apex Distributors,Delhi WH,382,209,119,472,37,5894.41,28-08-2024
+SKU10124,Epson Projector,office supplies,,Bengaluru WH,325,69,198,196,78,37139.22,07-06-2024
+SKU10125,Lenovo Tablet,Electronic,TechNova Pvt Ltd,Nagpur WH,262,50,250,62,98,10941.76,31-03-2025
+SKU10126,Blue Yeti Microphone,office supplies,NextGen Systems,Mumbai WH,170,185,50,305,67,19967.17,13-07-2024
+SKU10127,LG LED Screen,Electronics,TechNova Pvt Ltd,Nagpur WH,112,232,46,298,47,12254.09,08-05-2024
+SKU10128,Blue Yeti Microphone,electronics,Vertex Solutions,Pune WH,452,289,210,531,28,16495.12,31-05-2024
+SKU10129,Canon Printer,Office Supplies,Apex Distributors,Pune WH,453,1,141,313,38,5585.32,27-01-2024
+SKU10130,Office Desk,Electronic,TechNova Pvt Ltd,Pune WH,117,7,91,33,50,13341.84,09-05-2024
+SKU10131,Logitech Keyboard,IT Equipment,,Nagpur WH,429,215,538,106,34,25710.57,21-04-2024
+SKU10132,HP Monitor,office supplies,Apex Distributors,Delhi WH,281,257,226,312,98,32202.7,01-02-2024
+SKU10133,Dell Mouse,IT Equipment,,Mumbai WH,81,245,205,121,74,44973.41,25-11-2024
+SKU10134,Seagate Hard Drive,Office Supplies,NextGen Systems,Delhi WH,361,75,33,403,36,49731.93,27-06-2025
+SKU10135,Lenovo Tablet,Electronics,Prime Supplies,Bengaluru WH,200,232,258,174,97,36069.91,08-08-2024
+SKU10136,Office Chair,IT Equipment,,Delhi WH,270,231,233,268,72,36507.66,16-11-2024
+SKU10137,Epson Projector,electronics,,Mumbai WH,268,160,340,88,52,4652.12,28-03-2024
+SKU10138,Canon Printer,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,97,221,49,269,67,47835.57,29-07-2025
+SKU10139,Lenovo Tablet,office supplies,TechNova Pvt Ltd,Nagpur WH,218,62,210,70,65,30060.46,26-12-2024
+SKU10140,Canon Printer,office supplies,,Pune WH,103,295,259,139,47,42379.01,24-12-2024
+SKU10141,Seagate Hard Drive,Office Supplies,Vertex Solutions,Delhi WH,482,284,376,390,34,42273.24,28-09-2025
+SKU10142,Seagate Hard Drive,Electronics,Global Traders,Nagpur WH,364,285,26,623,97,35164.67,12-11-2024
+SKU10143,Canon Printer,Office Supplies,,Mumbai WH,223,179,3,399,43,7179.55,10-10-2025
+SKU10144,HP Scanner,IT Equipment,,Nagpur WH,65,46,135,-24,47,7954.72,15-11-2024
+SKU10145,Logitech Keyboard,Electronics,Global Traders,Pune WH,419,166,581,4,96,37746.35,20-02-2024
+SKU10146,Lenovo Tablet,IT Equipment,,Delhi WH,395,41,139,297,76,13731.03,08-06-2025
+SKU10147,Logitech Webcam,office supplies,,Bengaluru WH,108,176,220,64,34,33389.91,16-02-2024
+SKU10148,Dell Laptop,electronics,Apex Distributors,Pune WH,162,202,306,58,27,38390.74,18-09-2024
+SKU10149,Cisco Switch,office supplies,,Pune WH,198,167,61,304,20,6546.37,29-06-2025
+SKU10150,Blue Yeti Microphone,office supplies,NextGen Systems,Mumbai WH,-410,117,512,-805,,19913.85,13-02-2024
+SKU10151,Office Chair,Office Supplies,,Bengaluru WH,273,9,235,47,29,20280.7,17-10-2025
+SKU10152,Dell Laptop,Electronic,Global Traders,Bengaluru WH,263,148,58,353,71,23058.84,07-12-2025
+SKU10153,Samsung SSD,IT Equipment,,Bengaluru WH,235,45,223,57,33,4024.49,13-11-2024
+SKU10154,TP-Link Router,Electronics,Prime Supplies,Bengaluru WH,431,173,226,378,62,25546.61,23-12-2024
+SKU10155,Canon Printer,Electronic,Vertex Solutions,Pune WH,229,75,120,184,33,30159.71,02-11-2025
+SKU10156,Cisco Switch,IT Equipment,,Bengaluru WH,88,90,197,-19,100,32185.29,01-10-2025
+SKU10157,Logitech Keyboard,IT Equipment,,Nagpur WH,215,161,77,299,76,39836.85,28-08-2025
+SKU10158,Logitech Webcam,IT Equipment,,Mumbai WH,78,180,259,-1,29,2938.81,20-10-2024
+SKU10159,Dell Docking Station,IT Equipment,,Bengaluru WH,89,46,157,-22,96,27760.39,12-02-2024
+SKU10160,LG LED Screen,IT Equipment,Global Traders,Mumbai WH,280,292,192,380,61,22581.1,17-12-2024
+SKU10161,HP Monitor,electronics,,Delhi WH,415,43,258,200,42,26251.02,16-09-2025
+SKU10162,HP Scanner,IT Equipment,NextGen Systems,Bengaluru WH,131,186,190,127,56,2713.04,08-10-2025
+SKU10163,Dell Mouse,Office Supplies,,Nagpur WH,381,171,67,485,62,12674.59,03-11-2025
+SKU10164,Office Desk,office supplies,Global Traders,Nagpur WH,358,76,170,264,30,15580.56,02-11-2025
+SKU10165,Logitech Keyboard,Electronic,,Nagpur WH,407,200,132,475,96,40677.92,17-11-2025
+SKU10166,Dell Docking Station,Electronic,TechNova Pvt Ltd,Nagpur WH,409,269,95,583,74,15512.42,07-08-2024
+SKU10167,Canon Printer,electronics,Prime Supplies,Nagpur WH,224,248,196,276,48,42236.98,13-04-2024
+SKU10168,Office Chair,Office Supplies,Global Traders,Bengaluru WH,309,276,539,46,24,18898.32,15-06-2024
+SKU10169,Lenovo Tablet,Electronic,Vertex Solutions,Delhi WH,142,84,224,2,25,30568.71,04-04-2025
+SKU10170,Cisco Switch,electronics,NextGen Systems,Bengaluru WH,169,273,122,320,59,49223.55,17-04-2025
+SKU10171,Dell Docking Station,IT Equipment,Global Traders,Pune WH,443,144,391,196,84,40082.84,21-05-2024
+SKU10172,Epson Projector,Office Supplies,Prime Supplies,Bengaluru WH,496,128,53,571,81,42573.19,18-10-2024
+SKU10173,Dell Docking Station,electronics,,Mumbai WH,92,82,69,105,77,47326.02,15-08-2024
+SKU10174,Lenovo Tablet,Electronics,,Bengaluru WH,468,230,357,341,23,18760.68,30-01-2025
+SKU10175,Office Chair,Electronics,NextGen Systems,Pune WH,91,191,114,168,23,6966.22,20-10-2024
+SKU10176,Cisco Switch,IT Equipment,TechNova Pvt Ltd,Mumbai WH,474,241,712,3,37,1048.29,08-08-2024
+SKU10177,Dell Docking Station,IT Equipment,Prime Supplies,Nagpur WH,477,76,561,-8,97,11958.25,04-05-2024
+SKU10178,APC UPS,Electronics,Prime Supplies,Delhi WH,74,122,107,89,99,29877.28,17-01-2024
+SKU10179,Canon Printer,Electronic,,Mumbai WH,373,263,588,48,50,30779.0,03-09-2024
+SKU10179,Dell Docking Station,Electronic,Prime Supplies,Bengaluru WH,342,213,191,364,30,27249.69,03-06-2025
+SKU10181,HP Monitor,office supplies,,Nagpur WH,333,10,199,144,80,12757.15,17-01-2024
+SKU10182,Dell Mouse,Office Supplies,NextGen Systems,Pune WH,232,34,176,90,50,2312.35,13-07-2025
+SKU10183,Cisco Switch,office supplies,Global Traders,Pune WH,223,89,350,-38,79,3248.72,13-04-2025
+SKU10184,JBL Headset,Electronics,NextGen Systems,Nagpur WH,68,150,103,115,25,25817.64,10-07-2025
+SKU10185,Logitech Webcam,Electronic,TechNova Pvt Ltd,Nagpur WH,292,129,18,403,44,13733.51,11-01-2025
+SKU10186,Office Chair,electronics,,Delhi WH,273,204,450,27,69,18430.61,15-06-2025
+SKU10187,Lenovo Tablet,Office Supplies,Global Traders,Bengaluru WH,186,42,217,11,30,14758.94,15-04-2024
+SKU10188,APC UPS,Office Supplies,,Pune WH,90,167,151,106,59,34519.26,25-12-2024
+SKU10189,Lenovo Tablet,Electronic,TechNova Pvt Ltd,Mumbai WH,278,21,180,119,98,33592.08,19-02-2025
+SKU10190,Canon Printer,Office Supplies,,Mumbai WH,236,262,163,335,23,6398.88,29-08-2024
+SKU10191,Office Desk,Electronics,Global Traders,Delhi WH,448,187,370,265,69,47446.29,15-01-2025
+SKU10192,Dell Docking Station,Electronic,,Nagpur WH,277,39,293,23,37,32513.08,12-09-2024
+SKU10193,Dell Docking Station,IT Equipment,Prime Supplies,Nagpur WH,108,13,47,74,83,38770.73,21-12-2025
+SKU10194,Cisco Switch,electronics,Prime Supplies,Pune WH,278,109,313,74,56,42656.03,07-04-2025
+SKU10195,Epson Projector,office supplies,Prime Supplies,Bengaluru WH,138,227,44,321,60,27154.35,03-11-2024
+SKU10196,Dell Docking Station,electronics,Prime Supplies,Pune WH,485,80,178,387,66,39624.08,30-08-2024
+SKU10197,Blue Yeti Microphone,Office Supplies,NextGen Systems,Delhi WH,454,252,26,680,66,40202.72,18-07-2025
+SKU10198,HP Scanner,office supplies,,Bengaluru WH,116,44,16,144,59,20598.68,23-02-2025
+SKU10199,Office Chair,office supplies,Prime Supplies,Delhi WH,471,294,75,690,36,23345.08,13-06-2025
+SKU10200,Office Desk,electronics,Global Traders,Delhi WH,226,65,282,9,,25192.9,26-02-2024
+SKU10201,Logitech Webcam,electronics,Global Traders,Nagpur WH,475,63,530,8,39,46743.42,18-08-2024
+SKU10202,Seagate Hard Drive,electronics,Apex Distributors,Pune WH,227,265,290,202,30,31288.62,21-09-2025
+SKU10203,Office Desk,Office Supplies,Global Traders,Pune WH,323,47,257,113,41,32970.77,11-09-2025
+SKU10204,Logitech Keyboard,Electronics,Apex Distributors,Pune WH,222,288,42,468,23,38371.25,02-03-2025
+SKU10205,Blue Yeti Microphone,Electronic,Apex Distributors,Delhi WH,366,15,254,127,100,12319.41,02-12-2025
+SKU10206,HP Monitor,electronics,,Delhi WH,257,152,232,177,29,24264.13,27-07-2024
+SKU10207,Epson Projector,IT Equipment,Global Traders,Nagpur WH,224,73,160,137,60,25797.51,18-04-2024
+SKU10208,Seagate Hard Drive,IT Equipment,Vertex Solutions,Pune WH,213,123,238,98,35,4930.9,24-10-2024
+SKU10209,Office Chair,Office Supplies,NextGen Systems,Pune WH,246,214,127,333,40,38179.76,25-05-2025
+SKU10210,Cisco Switch,Electronics,Prime Supplies,Delhi WH,313,239,510,42,59,25321.68,03-09-2024
+SKU10211,HP Monitor,Electronic,,Bengaluru WH,160,298,180,278,26,44128.74,31-10-2025
+SKU10212,Dell Laptop,Electronics,,Pune WH,394,240,292,342,88,44134.54,09-01-2025
+SKU10213,HP Scanner,Electronics,Vertex Solutions,Nagpur WH,441,206,374,273,25,27705.82,16-03-2024
+SKU10214,Seagate Hard Drive,Office Supplies,Prime Supplies,Pune WH,247,258,461,44,90,48756.63,07-02-2025
+SKU10215,Canon Printer,electronics,,Bengaluru WH,241,173,285,129,66,2108.72,09-02-2024
+SKU10216,APC UPS,electronics,Global Traders,Nagpur WH,120,170,242,48,86,46575.3,22-11-2024
+SKU10217,Office Desk,Electronic,,Bengaluru WH,133,201,315,19,58,15059.55,18-01-2024
+SKU10218,Lenovo Tablet,Office Supplies,Apex Distributors,Mumbai WH,238,169,344,63,34,29885.79,28-09-2024
+SKU10219,HP Monitor,Office Supplies,,Pune WH,385,296,591,90,49,26259.19,26-09-2025
+SKU10220,HP Monitor,Office Supplies,Prime Supplies,Pune WH,446,194,151,489,51,1044.97,17-11-2024
+SKU10221,Lenovo Tablet,Office Supplies,,Mumbai WH,264,77,211,130,46,35318.18,15-06-2025
+SKU10222,Dell Docking Station,IT Equipment,NextGen Systems,Pune WH,156,287,166,277,81,23037.21,29-06-2025
+SKU10223,LG LED Screen,IT Equipment,Vertex Solutions,Pune WH,225,279,362,142,53,14022.42,01-11-2024
+SKU10224,Cisco Switch,Electronic,,Nagpur WH,165,152,147,170,46,28068.33,07-10-2024
+SKU10225,HP Scanner,IT Equipment,NextGen Systems,Pune WH,-197,62,293,-428,89,14593.59,21-10-2024
+SKU10226,Seagate Hard Drive,office supplies,,Pune WH,415,40,177,278,76,10183.19,05-07-2025
+SKU10227,Dell Mouse,Office Supplies,Vertex Solutions,Pune WH,188,287,278,197,37,2633.19,27-06-2025
+SKU10228,Lenovo Tablet,Electronic,,Mumbai WH,165,119,26,258,32,34091.48,20-05-2024
+SKU10229,Cisco Switch,IT Equipment,Vertex Solutions,Nagpur WH,52,281,80,253,72,16126.27,23-10-2025
+SKU10230,Samsung SSD,Office Supplies,TechNova Pvt Ltd,Pune WH,80,45,166,-41,93,20952.46,29-06-2024
+SKU10231,Logitech Webcam,Electronics,TechNova Pvt Ltd,Nagpur WH,68,203,253,18,43,28441.3,19-04-2024
+SKU10232,Dell Docking Station,IT Equipment,Global Traders,Bengaluru WH,221,145,232,134,89,23454.24,16-07-2024
+SKU10233,APC UPS,office supplies,Apex Distributors,Pune WH,464,57,338,183,40,802.8,11-12-2024
+SKU10234,TP-Link Router,Office Supplies,,Delhi WH,454,151,581,24,44,25812.5,29-03-2024
+SKU10235,Cisco Switch,Electronic,Vertex Solutions,Mumbai WH,255,48,94,209,37,13113.19,29-08-2024
+SKU10236,Office Desk,office supplies,TechNova Pvt Ltd,Nagpur WH,278,136,168,246,58,32718.8,10-12-2025
+SKU10237,APC UPS,Electronic,Global Traders,Delhi WH,170,31,170,31,35,34335.07,21-12-2025
+SKU10238,Epson Projector,Office Supplies,Vertex Solutions,Pune WH,444,159,120,483,57,47872.29,04-05-2025
+SKU10239,Epson Projector,IT Equipment,,Bengaluru WH,128,232,382,-22,97,40119.55,11-08-2024
+SKU10239,Dell Docking Station,IT Equipment,NextGen Systems,Mumbai WH,440,126,610,-44,30,45870.51,24-04-2024
+SKU10241,Office Desk,Office Supplies,Global Traders,Pune WH,81,280,258,103,45,16473.07,16-06-2025
+SKU10242,Office Desk,IT Equipment,Prime Supplies,Bengaluru WH,276,59,348,-13,46,22329.59,26-02-2024
+SKU10243,APC UPS,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,282,67,262,87,73,23172.68,11-11-2024
+SKU10244,Dell Laptop,office supplies,Vertex Solutions,Bengaluru WH,420,11,202,229,52,3744.17,09-03-2025
+SKU10245,Logitech Keyboard,IT Equipment,TechNova Pvt Ltd,Nagpur WH,226,32,277,-19,27,20502.46,18-05-2024
+SKU10246,APC UPS,IT Equipment,,Mumbai WH,442,215,383,274,68,34168.24,08-11-2025
+SKU10247,Dell Mouse,electronics,,Bengaluru WH,497,276,136,637,64,6454.62,16-08-2024
+SKU10248,APC UPS,office supplies,,Bengaluru WH,477,1,23,455,58,19025.9,23-08-2024
+SKU10249,Seagate Hard Drive,electronics,Prime Supplies,Mumbai WH,176,235,177,234,39,40492.96,05-03-2025
+SKU10250,JBL Headset,Electronics,Prime Supplies,Bengaluru WH,364,8,123,249,,1775.46,04-09-2025
+SKU10251,HP Scanner,IT Equipment,Vertex Solutions,Bengaluru WH,394,24,125,293,25,10941.73,27-02-2024
+SKU10252,Office Desk,Electronic,NextGen Systems,Pune WH,121,257,148,230,49,15158.05,26-05-2024
+SKU10253,Logitech Webcam,Electronic,TechNova Pvt Ltd,Bengaluru WH,388,266,226,428,72,47431.16,28-06-2024
+SKU10254,HP Monitor,Electronic,,Bengaluru WH,370,218,569,19,83,16004.85,02-03-2025
+SKU10255,TP-Link Router,Office Supplies,,Pune WH,259,76,153,182,68,42482.11,03-11-2024
+SKU10256,Blue Yeti Microphone,IT Equipment,,Bengaluru WH,489,73,474,88,27,26546.59,01-02-2025
+SKU10257,Logitech Keyboard,IT Equipment,NextGen Systems,Mumbai WH,174,130,104,200,62,26828.21,14-07-2024
+SKU10258,LG LED Screen,Electronics,Prime Supplies,Pune WH,76,137,193,20,97,40252.07,24-08-2025
+SKU10259,JBL Headset,Electronic,Apex Distributors,Mumbai WH,420,286,222,484,81,10669.21,13-07-2024
+SKU10260,LG LED Screen,office supplies,Vertex Solutions,Delhi WH,429,60,490,-1,51,45764.81,19-07-2025
+SKU10261,Blue Yeti Microphone,office supplies,NextGen Systems,Nagpur WH,214,144,194,164,79,13151.93,09-06-2025
+SKU10262,Office Chair,electronics,NextGen Systems,Nagpur WH,304,238,100,442,80,20755.12,30-07-2025
+SKU10263,Seagate Hard Drive,Office Supplies,,Nagpur WH,492,113,149,456,22,7705.33,03-12-2024
+SKU10264,Cisco Switch,Office Supplies,NextGen Systems,Nagpur WH,167,194,291,70,51,38191.7,15-05-2025
+SKU10265,Epson Projector,electronics,Global Traders,Bengaluru WH,420,251,471,200,41,24466.98,09-07-2025
+SKU10266,Logitech Keyboard,office supplies,TechNova Pvt Ltd,Mumbai WH,378,30,268,140,24,20678.37,07-10-2025
+SKU10267,Dell Laptop,electronics,,Nagpur WH,168,34,181,21,39,3116.46,15-10-2025
+SKU10268,Dell Laptop,Electronics,,Mumbai WH,391,247,675,-37,82,934.63,08-10-2024
+SKU10269,Lenovo Tablet,electronics,Prime Supplies,Mumbai WH,324,146,17,453,84,26266.83,03-09-2024
+SKU10270,Seagate Hard Drive,IT Equipment,Prime Supplies,Nagpur WH,148,269,129,288,65,47968.96,15-04-2025
+SKU10271,Logitech Keyboard,office supplies,TechNova Pvt Ltd,Mumbai WH,339,124,231,232,58,20323.39,21-01-2025
+SKU10272,TP-Link Router,Electronics,,Delhi WH,332,243,57,518,21,32280.87,05-12-2024
+SKU10273,Samsung SSD,electronics,,Nagpur WH,339,48,270,117,25,2423.44,17-03-2024
+SKU10274,HP Monitor,electronics,NextGen Systems,Mumbai WH,400,143,556,-13,92,48077.31,24-08-2025
+SKU10275,TP-Link Router,Office Supplies,Vertex Solutions,Bengaluru WH,123,203,39,287,58,41749.06,02-02-2025
+SKU10276,Canon Printer,office supplies,Prime Supplies,Bengaluru WH,396,276,339,333,69,37298.28,20-12-2024
+SKU10277,Logitech Keyboard,Electronic,,Nagpur WH,77,50,111,16,49,1578.32,06-10-2024
+SKU10278,Epson Projector,Office Supplies,,Delhi WH,451,230,502,179,49,9368.32,22-08-2025
+SKU10279,Logitech Webcam,electronics,Prime Supplies,Mumbai WH,388,194,87,495,99,13471.8,24-01-2025
+SKU10280,Epson Projector,Electronics,Prime Supplies,Mumbai WH,414,78,398,94,60,47153.72,31-03-2025
+SKU10281,Logitech Keyboard,electronics,,Delhi WH,234,138,52,320,36,27893.55,08-06-2025
+SKU10282,Epson Projector,Office Supplies,Prime Supplies,Bengaluru WH,258,52,13,297,31,29942.39,28-11-2024
+SKU10283,Lenovo Tablet,IT Equipment,Prime Supplies,Bengaluru WH,492,197,12,677,57,45269.86,05-09-2024
+SKU10284,TP-Link Router,electronics,Apex Distributors,Nagpur WH,342,266,173,435,68,13493.5,29-05-2024
+SKU10285,Lenovo Tablet,Electronic,,Mumbai WH,82,85,111,56,55,18120.13,09-09-2024
+SKU10286,JBL Headset,IT Equipment,Prime Supplies,Pune WH,419,253,608,64,98,15302.43,09-02-2025
+SKU10287,APC UPS,Electronic,,Bengaluru WH,220,194,411,3,62,6892.61,24-11-2024
+SKU10288,TP-Link Router,IT Equipment,NextGen Systems,Nagpur WH,358,102,245,215,60,36770.23,10-10-2025
+SKU10289,HP Scanner,Electronic,,Nagpur WH,301,294,248,347,61,5783.0,31-07-2025
+SKU10290,Dell Laptop,office supplies,,Pune WH,152,279,92,339,90,21978.9,25-10-2024
+SKU10291,Canon Printer,office supplies,Apex Distributors,Pune WH,475,35,418,92,83,12708.82,06-06-2024
+SKU10292,APC UPS,Office Supplies,,Bengaluru WH,416,216,386,246,29,20100.17,02-06-2025
+SKU10293,Epson Projector,office supplies,Prime Supplies,Mumbai WH,495,214,556,153,24,38470.81,04-11-2025
+SKU10294,HP Monitor,Office Supplies,,Nagpur WH,390,181,170,401,98,48289.27,16-03-2025
+SKU10295,Samsung SSD,Office Supplies,Vertex Solutions,Delhi WH,104,5,25,84,53,18768.57,19-04-2025
+SKU10296,Dell Laptop,IT Equipment,Prime Supplies,Nagpur WH,445,256,154,547,64,20857.17,28-03-2024
+SKU10297,Office Chair,IT Equipment,Vertex Solutions,Bengaluru WH,109,72,89,92,59,24198.01,02-05-2025
+SKU10298,Office Chair,Electronics,Apex Distributors,Mumbai WH,99,224,369,-46,77,40528.28,27-04-2024
+SKU10299,Samsung SSD,Office Supplies,Global Traders,Bengaluru WH,61,175,55,181,41,8090.77,27-07-2025
+SKU10299,HP Scanner,office supplies,Global Traders,Pune WH,-268,236,237,-269,,32059.9,18-03-2025
+SKU10301,APC UPS,Office Supplies,,Delhi WH,252,14,314,-48,45,322.06,07-08-2024
+SKU10302,Dell Mouse,Office Supplies,Global Traders,Nagpur WH,155,142,32,265,93,16366.65,13-04-2025
+SKU10303,Office Chair,Office Supplies,,Bengaluru WH,108,134,250,-8,87,19687.95,26-04-2024
+SKU10304,LG LED Screen,electronics,Apex Distributors,Bengaluru WH,228,180,432,-24,78,29549.4,19-11-2025
+SKU10305,Logitech Webcam,Electronics,Global Traders,Nagpur WH,118,160,60,218,50,34702.48,07-06-2025
+SKU10306,HP Scanner,IT Equipment,Global Traders,Delhi WH,248,214,141,321,93,31811.53,11-12-2025
+SKU10307,Logitech Webcam,electronics,Global Traders,Nagpur WH,380,88,170,298,82,42115.06,26-09-2025
+SKU10308,Canon Printer,electronics,,Bengaluru WH,77,183,4,256,82,25321.36,21-05-2025
+SKU10309,Cisco Switch,electronics,Prime Supplies,Bengaluru WH,259,251,425,85,76,1639.95,13-08-2024
+SKU10310,Blue Yeti Microphone,Electronic,Global Traders,Delhi WH,199,16,140,75,48,28325.96,22-05-2025
+SKU10311,Dell Mouse,Electronic,NextGen Systems,Bengaluru WH,331,261,115,477,93,41148.29,12-02-2024
+SKU10312,Lenovo Tablet,Electronics,Vertex Solutions,Nagpur WH,439,225,559,105,47,43753.01,03-02-2024
+SKU10313,APC UPS,Electronics,Vertex Solutions,Pune WH,280,134,178,236,31,40554.07,25-08-2025
+SKU10314,Lenovo Tablet,electronics,Global Traders,Pune WH,402,179,624,-43,100,40695.14,01-03-2024
+SKU10315,LG LED Screen,Office Supplies,Global Traders,Nagpur WH,341,179,545,-25,55,48952.11,26-10-2024
+SKU10316,Dell Mouse,electronics,,Mumbai WH,198,293,273,218,85,49625.06,02-11-2025
+SKU10317,Office Chair,electronics,,Delhi WH,114,67,63,118,38,7194.36,09-10-2025
+SKU10318,Logitech Keyboard,office supplies,Prime Supplies,Delhi WH,187,212,192,207,77,25829.11,11-10-2024
+SKU10319,Office Chair,Office Supplies,TechNova Pvt Ltd,Mumbai WH,405,188,465,128,82,36573.5,14-04-2025
+SKU10320,HP Scanner,electronics,,Pune WH,375,183,64,494,88,24786.28,26-11-2024
+SKU10321,Office Desk,electronics,,Nagpur WH,474,145,345,274,90,44718.32,19-02-2024
+SKU10322,Dell Laptop,Electronics,Global Traders,Delhi WH,73,50,160,-37,78,22880.25,14-03-2025
+SKU10323,Seagate Hard Drive,Electronics,NextGen Systems,Nagpur WH,153,67,154,66,40,4212.78,11-11-2025
+SKU10324,Logitech Webcam,office supplies,Vertex Solutions,Delhi WH,382,84,53,413,70,32808.71,21-12-2025
+SKU10325,Logitech Keyboard,electronics,Vertex Solutions,Bengaluru WH,98,0,54,44,81,34031.14,10-01-2024
+SKU10326,Canon Printer,IT Equipment,Prime Supplies,Pune WH,54,175,61,168,74,19215.19,14-04-2024
+SKU10327,Canon Printer,IT Equipment,Global Traders,Pune WH,102,160,188,74,58,3513.74,30-07-2025
+SKU10328,JBL Headset,office supplies,Global Traders,Delhi WH,54,84,112,26,64,30842.19,29-03-2025
+SKU10329,Canon Printer,Electronics,,Nagpur WH,490,111,88,513,32,48166.11,18-11-2024
+SKU10330,Logitech Keyboard,electronics,Apex Distributors,Mumbai WH,455,71,253,273,55,42409.82,05-11-2025
+SKU10331,LG LED Screen,Office Supplies,Vertex Solutions,Delhi WH,498,154,210,442,86,14847.55,25-02-2024
+SKU10332,Dell Mouse,electronics,,Bengaluru WH,451,122,506,67,69,3643.5,13-01-2024
+SKU10333,Office Desk,IT Equipment,NextGen Systems,Bengaluru WH,234,162,67,329,69,34178.81,27-04-2025
+SKU10334,Logitech Keyboard,Electronics,Apex Distributors,Pune WH,444,37,17,464,95,2087.36,02-03-2024
+SKU10335,Dell Docking Station,IT Equipment,,Delhi WH,454,203,518,139,56,4213.15,03-07-2025
+SKU10336,Logitech Webcam,Electronics,Vertex Solutions,Pune WH,325,78,142,261,30,26865.87,04-02-2025
+SKU10337,Samsung SSD,Electronics,Vertex Solutions,Mumbai WH,350,33,158,225,75,46238.92,28-04-2024
+SKU10338,Dell Mouse,Electronics,Global Traders,Mumbai WH,282,28,158,152,42,8275.25,21-12-2024
+SKU10339,Epson Projector,electronics,Apex Distributors,Mumbai WH,317,264,265,316,41,38594.37,31-01-2024
+SKU10340,Logitech Keyboard,Electronic,Prime Supplies,Delhi WH,221,219,139,301,87,22814.37,03-01-2025
+SKU10341,Epson Projector,electronics,Apex Distributors,Mumbai WH,78,255,290,43,41,44723.99,21-11-2025
+SKU10342,Dell Laptop,Electronics,TechNova Pvt Ltd,Pune WH,420,59,233,246,85,2394.48,07-01-2025
+SKU10343,Blue Yeti Microphone,office supplies,,Pune WH,246,76,91,231,24,16157.92,02-03-2025
+SKU10344,Office Desk,Electronic,Prime Supplies,Bengaluru WH,418,163,277,304,29,33698.95,23-02-2024
+SKU10345,HP Scanner,Electronics,,Nagpur WH,141,114,264,-9,25,38699.02,14-11-2024
+SKU10346,Dell Laptop,Electronic,Vertex Solutions,Nagpur WH,217,44,283,-22,78,28233.96,07-11-2024
+SKU10347,Office Desk,IT Equipment,Vertex Solutions,Bengaluru WH,428,124,475,77,67,38048.06,08-09-2024
+SKU10348,Samsung SSD,Office Supplies,NextGen Systems,Mumbai WH,127,3,104,26,23,47554.41,02-01-2024
+SKU10349,JBL Headset,Office Supplies,Vertex Solutions,Delhi WH,438,192,314,316,33,24652.24,02-03-2024
+SKU10350,HP Monitor,electronics,,Nagpur WH,122,143,47,218,,22977.06,27-03-2024
+SKU10351,HP Scanner,Electronics,TechNova Pvt Ltd,Delhi WH,347,48,258,137,37,33155.95,13-05-2024
+SKU10352,HP Scanner,office supplies,NextGen Systems,Nagpur WH,171,149,133,187,60,22692.62,27-08-2024
+SKU10353,Dell Mouse,electronics,Prime Supplies,Pune WH,88,103,34,157,94,22533.38,17-11-2024
+SKU10354,JBL Headset,IT Equipment,Apex Distributors,Delhi WH,258,61,274,45,65,13323.9,02-05-2024
+SKU10355,LG LED Screen,Electronics,Vertex Solutions,Nagpur WH,96,80,206,-30,58,7501.36,29-12-2025
+SKU10356,HP Monitor,office supplies,Apex Distributors,Nagpur WH,177,182,202,157,85,41022.47,27-06-2024
+SKU10357,Blue Yeti Microphone,electronics,Prime Supplies,Delhi WH,65,207,231,41,91,5185.18,23-05-2024
+SKU10358,Canon Printer,electronics,,Nagpur WH,112,6,15,103,48,34345.63,22-10-2025
+SKU10359,Logitech Keyboard,Electronics,Prime Supplies,Pune WH,93,298,300,91,53,45134.55,30-03-2025
+SKU10359,Dell Mouse,Electronics,,Mumbai WH,464,65,94,435,62,8482.66,10-08-2025
+SKU10361,HP Scanner,office supplies,,Pune WH,271,202,508,-35,23,17761.77,10-07-2024
+SKU10362,HP Monitor,Office Supplies,Vertex Solutions,Nagpur WH,190,143,228,105,39,24994.69,17-07-2025
+SKU10363,HP Scanner,electronics,,Pune WH,295,31,44,282,55,32168.36,22-06-2025
+SKU10364,HP Scanner,office supplies,NextGen Systems,Delhi WH,177,278,406,49,22,27271.44,11-05-2025
+SKU10365,HP Scanner,Electronic,Global Traders,Mumbai WH,226,289,514,1,61,16011.99,12-08-2024
+SKU10366,Dell Docking Station,Electronic,Vertex Solutions,Pune WH,65,143,29,179,80,5096.7,03-11-2025
+SKU10367,Samsung SSD,Office Supplies,,Nagpur WH,173,136,273,36,27,46766.78,26-06-2024
+SKU10368,Epson Projector,Office Supplies,TechNova Pvt Ltd,Nagpur WH,140,121,303,-42,60,47383.18,31-07-2025
+SKU10369,Blue Yeti Microphone,Electronic,Global Traders,Delhi WH,122,288,96,314,83,1994.39,27-02-2024
+SKU10370,Cisco Switch,Electronics,NextGen Systems,Bengaluru WH,169,112,10,271,87,10153.07,13-05-2024
+SKU10371,Dell Laptop,electronics,Global Traders,Mumbai WH,224,90,165,149,27,42339.4,08-01-2025
+SKU10372,Dell Mouse,Electronic,Apex Distributors,Nagpur WH,87,191,202,76,95,6908.94,10-06-2024
+SKU10373,Office Chair,electronics,NextGen Systems,Pune WH,424,223,654,-7,82,33310.03,28-06-2024
+SKU10374,Canon Printer,electronics,TechNova Pvt Ltd,Bengaluru WH,243,157,375,25,57,19640.91,04-08-2025
+SKU10375,LG LED Screen,electronics,Prime Supplies,Delhi WH,-66,93,154,-127,60,7118.1,20-03-2024
+SKU10376,Logitech Keyboard,office supplies,NextGen Systems,Delhi WH,171,177,163,185,41,668.64,02-08-2024
+SKU10377,Dell Mouse,office supplies,TechNova Pvt Ltd,Mumbai WH,177,34,179,32,52,19358.26,05-03-2025
+SKU10378,Epson Projector,Office Supplies,,Mumbai WH,135,211,252,94,68,41457.47,14-08-2025
+SKU10379,Logitech Keyboard,Electronics,Apex Distributors,Mumbai WH,383,115,166,332,77,16003.97,17-04-2024
+SKU10380,TP-Link Router,office supplies,Prime Supplies,Bengaluru WH,87,175,87,175,68,47097.52,05-04-2024
+SKU10381,TP-Link Router,Office Supplies,,Pune WH,223,247,31,439,75,2772.43,05-12-2024
+SKU10382,Blue Yeti Microphone,Electronic,Apex Distributors,Nagpur WH,155,97,209,43,90,11953.66,20-02-2024
+SKU10383,Canon Printer,Electronics,NextGen Systems,Mumbai WH,251,292,562,-19,82,21437.54,28-10-2024
+SKU10384,Dell Laptop,electronics,Global Traders,Nagpur WH,471,245,204,512,32,48855.18,29-04-2025
+SKU10385,Cisco Switch,IT Equipment,Apex Distributors,Mumbai WH,482,59,315,226,70,32129.13,31-01-2025
+SKU10386,TP-Link Router,IT Equipment,TechNova Pvt Ltd,Nagpur WH,144,189,195,138,67,22043.05,26-09-2024
+SKU10387,Canon Printer,office supplies,Prime Supplies,Mumbai WH,165,137,288,14,27,33440.24,08-07-2025
+SKU10388,HP Scanner,Office Supplies,,Bengaluru WH,261,116,283,94,27,34384.69,01-05-2025
+SKU10389,Logitech Keyboard,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,343,120,487,-24,58,28603.87,13-06-2025
+SKU10390,Canon Printer,Electronics,,Pune WH,459,292,693,58,99,47458.17,20-06-2024
+SKU10391,Lenovo Tablet,Electronics,,Pune WH,158,98,64,192,25,49863.73,04-10-2025
+SKU10392,Logitech Keyboard,IT Equipment,,Bengaluru WH,125,132,163,94,28,16373.73,09-10-2024
+SKU10393,Office Desk,Office Supplies,,Mumbai WH,316,234,12,538,99,20780.68,31-05-2024
+SKU10394,Office Desk,Electronics,Apex Distributors,Bengaluru WH,340,298,102,536,33,44018.78,24-02-2025
+SKU10395,Office Desk,Office Supplies,,Mumbai WH,185,196,335,46,82,8692.77,16-02-2025
+SKU10396,Office Chair,office supplies,Vertex Solutions,Mumbai WH,123,205,19,309,70,37312.92,02-10-2024
+SKU10397,Logitech Webcam,Electronic,,Mumbai WH,240,10,172,78,58,48627.58,21-08-2024
+SKU10398,Seagate Hard Drive,office supplies,,Bengaluru WH,118,153,226,45,61,32313.19,11-07-2024
+SKU10399,Cisco Switch,Office Supplies,NextGen Systems,Mumbai WH,276,108,421,-37,72,25811.96,11-06-2024
+SKU10400,HP Scanner,electronics,TechNova Pvt Ltd,Pune WH,83,159,259,-17,,9718.9,24-07-2024
+SKU10401,APC UPS,Electronics,NextGen Systems,Pune WH,478,29,255,252,24,13771.48,20-04-2025
+SKU10402,Samsung SSD,Electronic,,Bengaluru WH,308,203,126,385,23,22360.56,30-04-2025
+SKU10403,TP-Link Router,Electronic,Prime Supplies,Nagpur WH,350,282,358,274,64,1469.78,20-02-2024
+SKU10404,Samsung SSD,office supplies,Vertex Solutions,Pune WH,133,292,399,26,47,13527.27,23-02-2025
+SKU10405,Cisco Switch,electronics,Global Traders,Bengaluru WH,312,10,349,-27,21,40063.15,17-08-2024
+SKU10406,Lenovo Tablet,IT Equipment,NextGen Systems,Delhi WH,179,156,364,-29,55,12674.74,22-04-2025
+SKU10407,Dell Mouse,Electronics,NextGen Systems,Bengaluru WH,204,266,406,64,94,32402.37,15-09-2025
+SKU10408,Cisco Switch,Electronics,NextGen Systems,Nagpur WH,194,152,350,-4,33,32065.68,10-10-2024
+SKU10409,Dell Docking Station,electronics,TechNova Pvt Ltd,Bengaluru WH,183,152,96,239,39,20264.51,23-11-2024
+SKU10410,Logitech Webcam,Electronic,,Delhi WH,398,71,26,443,83,19474.92,06-02-2024
+SKU10411,Samsung SSD,office supplies,,Nagpur WH,348,292,194,446,63,25415.01,23-06-2024
+SKU10412,Dell Mouse,IT Equipment,Global Traders,Nagpur WH,480,285,185,580,57,36286.81,26-07-2025
+SKU10413,Samsung SSD,Electronic,Vertex Solutions,Nagpur WH,440,93,343,190,31,21081.58,05-12-2024
+SKU10414,APC UPS,Electronics,,Mumbai WH,240,133,299,74,57,43333.03,20-08-2025
+SKU10415,Dell Docking Station,Electronics,,Bengaluru WH,347,36,241,142,44,14987.95,25-02-2024
+SKU10416,Office Chair,IT Equipment,,Pune WH,495,77,140,432,45,15887.53,03-07-2024
+SKU10417,TP-Link Router,Electronic,TechNova Pvt Ltd,Mumbai WH,448,41,499,-10,62,22657.46,02-08-2024
+SKU10418,Logitech Keyboard,electronics,,Delhi WH,439,86,162,363,82,20229.33,03-05-2025
+SKU10419,JBL Headset,office supplies,NextGen Systems,Mumbai WH,246,2,19,229,88,44611.12,27-06-2025
+SKU10419,Samsung SSD,electronics,NextGen Systems,Nagpur WH,147,9,173,-17,20,6533.65,27-01-2025
+SKU10421,HP Monitor,Electronic,Apex Distributors,Delhi WH,307,156,171,292,28,36418.81,02-09-2025
+SKU10422,Office Chair,IT Equipment,NextGen Systems,Pune WH,318,172,444,46,37,8327.69,17-02-2025
+SKU10423,JBL Headset,office supplies,TechNova Pvt Ltd,Bengaluru WH,59,116,57,118,36,25281.21,06-05-2024
+SKU10424,Blue Yeti Microphone,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,237,19,192,64,52,49734.54,08-11-2025
+SKU10425,Lenovo Tablet,IT Equipment,,Mumbai WH,105,10,12,103,34,27409.39,30-04-2025
+SKU10426,Dell Laptop,Electronic,,Mumbai WH,409,78,210,277,100,33157.9,03-10-2024
+SKU10427,Dell Docking Station,office supplies,Prime Supplies,Nagpur WH,368,70,214,224,33,5789.23,18-04-2024
+SKU10428,Seagate Hard Drive,Office Supplies,Vertex Solutions,Nagpur WH,304,101,311,94,45,35201.49,29-10-2024
+SKU10429,JBL Headset,office supplies,,Nagpur WH,132,20,140,12,83,11801.81,14-01-2024
+SKU10430,Office Desk,office supplies,,Pune WH,393,45,464,-26,34,47477.36,07-06-2025
+SKU10431,APC UPS,Electronic,Apex Distributors,Delhi WH,88,51,65,74,49,2599.0,27-06-2024
+SKU10432,Office Chair,IT Equipment,Prime Supplies,Mumbai WH,497,20,297,220,66,42577.17,16-02-2024
+SKU10433,Office Chair,Electronic,,Bengaluru WH,54,70,169,-45,41,13488.64,05-04-2024
+SKU10434,HP Scanner,IT Equipment,,Nagpur WH,240,175,93,322,34,41801.85,07-12-2025
+SKU10435,Dell Mouse,electronics,TechNova Pvt Ltd,Pune WH,485,244,431,298,41,5275.28,27-08-2025
+SKU10436,LG LED Screen,IT Equipment,NextGen Systems,Bengaluru WH,297,291,448,140,43,1537.93,01-12-2025
+SKU10437,Dell Mouse,IT Equipment,,Mumbai WH,500,66,494,72,82,3260.47,01-11-2025
+SKU10438,Dell Docking Station,Office Supplies,Prime Supplies,Delhi WH,210,6,114,102,63,33119.49,11-09-2024
+SKU10439,Blue Yeti Microphone,Office Supplies,TechNova Pvt Ltd,Mumbai WH,296,177,394,79,39,32205.6,09-06-2024
+SKU10440,Logitech Keyboard,IT Equipment,NextGen Systems,Pune WH,308,240,507,41,41,16611.65,11-10-2024
+SKU10441,HP Scanner,IT Equipment,Vertex Solutions,Mumbai WH,75,259,114,220,90,23008.82,09-08-2025
+SKU10442,Office Chair,Electronics,,Mumbai WH,279,45,255,69,77,5221.9,26-02-2025
+SKU10443,Logitech Keyboard,Office Supplies,Apex Distributors,Bengaluru WH,68,285,281,72,20,28160.4,01-11-2025
+SKU10444,HP Monitor,electronics,,Nagpur WH,393,233,349,277,66,28051.53,26-09-2025
+SKU10445,Dell Mouse,Electronics,Vertex Solutions,Mumbai WH,357,242,372,227,77,17133.72,10-10-2025
+SKU10446,Epson Projector,office supplies,Prime Supplies,Mumbai WH,459,149,560,48,86,44854.17,19-05-2025
+SKU10447,LG LED Screen,electronics,Vertex Solutions,Mumbai WH,121,209,54,276,52,46517.79,06-02-2025
+SKU10448,Office Chair,Electronics,,Mumbai WH,160,234,422,-28,44,46338.66,19-11-2025
+SKU10449,APC UPS,office supplies,Global Traders,Delhi WH,351,63,395,19,77,316.45,19-02-2024
+SKU10450,Cisco Switch,Office Supplies,Global Traders,Bengaluru WH,-333,221,599,-711,,8765.15,11-05-2024
+SKU10451,LG LED Screen,Electronic,,Delhi WH,103,198,336,-35,96,48977.09,10-12-2025
+SKU10452,Office Chair,Electronic,,Pune WH,440,127,280,287,70,6995.18,08-09-2025
+SKU10453,Office Chair,office supplies,Vertex Solutions,Pune WH,408,262,306,364,90,10564.66,24-10-2024
+SKU10454,Dell Docking Station,Office Supplies,NextGen Systems,Mumbai WH,401,176,135,442,42,38062.67,29-07-2025
+SKU10455,Blue Yeti Microphone,Electronic,,Mumbai WH,295,298,584,9,73,26184.23,26-01-2024
+SKU10456,JBL Headset,Electronic,Global Traders,Nagpur WH,245,74,27,292,27,34201.18,29-05-2024
+SKU10457,Blue Yeti Microphone,Electronics,NextGen Systems,Delhi WH,479,31,302,208,46,5213.75,22-11-2025
+SKU10458,HP Scanner,electronics,Apex Distributors,Mumbai WH,428,287,229,486,91,46331.59,31-01-2025
+SKU10459,Dell Laptop,office supplies,Apex Distributors,Pune WH,263,160,282,141,26,31066.03,29-03-2025
+SKU10460,Blue Yeti Microphone,office supplies,Vertex Solutions,Pune WH,474,115,376,213,95,14779.47,30-06-2024
+SKU10461,Dell Docking Station,Electronics,,Mumbai WH,399,38,95,342,42,21482.54,23-07-2025
+SKU10462,Seagate Hard Drive,Electronics,NextGen Systems,Delhi WH,185,66,82,169,94,35513.5,07-06-2024
+SKU10463,HP Monitor,office supplies,Apex Distributors,Delhi WH,70,78,82,66,96,39516.42,17-07-2025
+SKU10464,Samsung SSD,electronics,Prime Supplies,Bengaluru WH,233,37,162,108,87,8052.59,10-07-2025
+SKU10465,Samsung SSD,electronics,NextGen Systems,Nagpur WH,324,206,94,436,64,18103.81,11-08-2024
+SKU10466,Dell Laptop,Electronics,NextGen Systems,Delhi WH,435,271,486,220,91,12093.36,19-10-2025
+SKU10467,HP Scanner,Electronics,,Nagpur WH,364,124,40,448,61,27057.84,16-10-2024
+SKU10468,Dell Docking Station,IT Equipment,,Mumbai WH,62,264,191,135,85,14892.06,29-10-2025
+SKU10469,Dell Mouse,electronics,TechNova Pvt Ltd,Mumbai WH,148,164,263,49,30,10618.0,06-10-2025
+SKU10470,JBL Headset,Office Supplies,,Mumbai WH,446,109,434,121,33,37369.85,06-06-2024
+SKU10471,Logitech Keyboard,Electronics,TechNova Pvt Ltd,Pune WH,62,235,169,128,24,39731.32,25-07-2025
+SKU10472,Seagate Hard Drive,IT Equipment,,Delhi WH,86,294,420,-40,49,31547.84,19-03-2025
+SKU10473,Blue Yeti Microphone,Electronics,Prime Supplies,Bengaluru WH,211,8,199,20,35,2371.29,15-03-2024
+SKU10474,Logitech Webcam,Office Supplies,Prime Supplies,Nagpur WH,233,257,108,382,57,38287.18,24-03-2025
+SKU10475,Cisco Switch,electronics,Vertex Solutions,Pune WH,245,202,420,27,23,37363.02,12-07-2025
+SKU10476,Dell Laptop,Office Supplies,Global Traders,Mumbai WH,201,73,152,122,67,2184.48,09-08-2025
+SKU10477,Logitech Keyboard,Electronic,Vertex Solutions,Nagpur WH,355,201,550,6,90,10665.67,23-10-2025
+SKU10478,TP-Link Router,electronics,Apex Distributors,Pune WH,485,262,145,602,40,5819.66,18-11-2025
+SKU10479,APC UPS,office supplies,Prime Supplies,Nagpur WH,459,290,55,694,90,33617.09,13-09-2024
+SKU10479,Cisco Switch,Electronic,NextGen Systems,Pune WH,100,101,185,16,94,33597.65,28-08-2024
+SKU10481,Office Chair,IT Equipment,,Nagpur WH,101,145,35,211,44,30855.49,09-11-2024
+SKU10482,Office Desk,Electronic,NextGen Systems,Delhi WH,405,299,156,548,92,8515.11,16-11-2024
+SKU10483,Seagate Hard Drive,Electronic,Global Traders,Nagpur WH,176,113,328,-39,75,43906.5,18-04-2025
+SKU10484,Blue Yeti Microphone,Electronics,Global Traders,Bengaluru WH,278,183,312,149,82,4190.49,14-10-2024
+SKU10485,Seagate Hard Drive,office supplies,Prime Supplies,Mumbai WH,489,71,551,9,45,44616.05,03-06-2025
+SKU10486,Office Desk,IT Equipment,Vertex Solutions,Mumbai WH,373,15,416,-28,94,27624.54,10-07-2025
+SKU10487,HP Scanner,electronics,Apex Distributors,Pune WH,326,241,152,415,66,23288.59,06-06-2025
+SKU10488,Dell Laptop,office supplies,Vertex Solutions,Bengaluru WH,96,203,186,113,84,34239.67,10-06-2025
+SKU10489,Office Desk,Office Supplies,Global Traders,Delhi WH,121,228,81,268,42,46964.85,11-02-2024
+SKU10490,Seagate Hard Drive,Electronic,Vertex Solutions,Mumbai WH,162,249,118,293,28,33462.42,14-06-2025
+SKU10491,APC UPS,Electronics,TechNova Pvt Ltd,Nagpur WH,455,184,397,242,80,5250.93,17-06-2025
+SKU10492,Blue Yeti Microphone,Office Supplies,Global Traders,Delhi WH,374,140,269,245,94,32718.4,09-01-2025
+SKU10493,HP Scanner,electronics,,Nagpur WH,350,39,264,125,52,40880.11,19-12-2024
+SKU10494,Canon Printer,IT Equipment,Global Traders,Pune WH,299,246,6,539,84,3946.7,20-10-2025
+SKU10495,TP-Link Router,Electronic,Prime Supplies,Pune WH,193,108,76,225,43,20789.22,04-12-2024
+SKU10496,Cisco Switch,electronics,Global Traders,Delhi WH,418,58,493,-17,81,1220.06,14-02-2024
+SKU10497,Canon Printer,office supplies,TechNova Pvt Ltd,Bengaluru WH,115,293,303,105,40,7428.57,19-06-2024
+SKU10498,LG LED Screen,Office Supplies,TechNova Pvt Ltd,Nagpur WH,182,92,264,10,71,47367.97,09-08-2024
+SKU10499,Samsung SSD,IT Equipment,Global Traders,Bengaluru WH,279,241,493,27,41,41040.61,05-07-2024
+SKU10500,TP-Link Router,office supplies,NextGen Systems,Delhi WH,369,261,270,360,,29867.01,11-03-2024
+SKU10501,Dell Mouse,Electronics,Vertex Solutions,Bengaluru WH,167,193,197,163,36,42993.63,31-05-2025
+SKU10502,Dell Mouse,electronics,,Bengaluru WH,400,214,153,461,97,30030.71,28-06-2025
+SKU10503,Canon Printer,Office Supplies,TechNova Pvt Ltd,Delhi WH,307,60,47,320,81,26150.01,14-01-2025
+SKU10504,Samsung SSD,IT Equipment,,Nagpur WH,497,22,542,-23,74,29493.5,14-12-2025
+SKU10505,Seagate Hard Drive,IT Equipment,Vertex Solutions,Mumbai WH,344,50,217,177,37,14235.01,10-07-2025
+SKU10506,Dell Laptop,Office Supplies,Prime Supplies,Bengaluru WH,259,131,96,294,20,458.98,01-11-2025
+SKU10507,Dell Mouse,electronics,,Bengaluru WH,155,161,209,107,66,12756.27,02-07-2025
+SKU10508,Seagate Hard Drive,office supplies,,Pune WH,266,289,374,181,98,20720.09,24-07-2025
+SKU10509,Blue Yeti Microphone,IT Equipment,Apex Distributors,Nagpur WH,297,91,189,199,91,28924.79,23-12-2025
+SKU10510,Samsung SSD,IT Equipment,Global Traders,Mumbai WH,253,70,337,-14,35,10801.46,14-02-2025
+SKU10511,HP Monitor,electronics,,Mumbai WH,452,173,563,62,98,40238.03,28-05-2024
+SKU10512,Seagate Hard Drive,electronics,NextGen Systems,Mumbai WH,291,222,90,423,28,30490.54,28-01-2025
+SKU10513,HP Monitor,electronics,,Delhi WH,255,266,293,228,96,634.45,03-11-2025
+SKU10514,HP Monitor,Office Supplies,Vertex Solutions,Bengaluru WH,461,265,292,434,44,8557.2,06-02-2024
+SKU10515,TP-Link Router,Electronics,Apex Distributors,Delhi WH,234,122,335,21,20,17721.07,08-02-2025
+SKU10516,Dell Laptop,office supplies,Prime Supplies,Mumbai WH,257,300,205,352,86,27524.67,26-07-2025
+SKU10517,Samsung SSD,Office Supplies,Vertex Solutions,Delhi WH,348,178,355,171,55,46492.72,11-08-2025
+SKU10518,Dell Docking Station,Electronics,Prime Supplies,Bengaluru WH,52,133,44,141,72,14783.17,29-04-2024
+SKU10519,Office Desk,Electronic,,Delhi WH,461,262,263,460,88,28202.11,06-09-2024
+SKU10520,Office Desk,Electronics,,Mumbai WH,437,173,469,141,78,12965.21,26-01-2025
+SKU10521,Lenovo Tablet,Electronic,TechNova Pvt Ltd,Nagpur WH,374,112,235,251,60,12488.05,05-04-2024
+SKU10522,TP-Link Router,IT Equipment,NextGen Systems,Nagpur WH,254,175,38,391,90,11006.45,10-08-2025
+SKU10523,JBL Headset,electronics,Vertex Solutions,Nagpur WH,187,93,97,183,83,10418.25,26-07-2024
+SKU10524,Canon Printer,Electronics,Prime Supplies,Mumbai WH,477,127,633,-29,65,33823.03,10-11-2025
+SKU10525,Cisco Switch,Electronic,NextGen Systems,Delhi WH,-302,3,277,-576,25,44916.25,11-08-2025
+SKU10526,Dell Docking Station,Electronic,,Pune WH,494,140,502,132,43,37533.45,11-05-2024
+SKU10527,Blue Yeti Microphone,Electronics,NextGen Systems,Delhi WH,77,269,216,130,81,43033.97,27-06-2024
+SKU10528,APC UPS,Electronic,TechNova Pvt Ltd,Mumbai WH,284,61,357,-12,86,33737.74,23-01-2025
+SKU10529,LG LED Screen,Electronic,Global Traders,Bengaluru WH,347,51,166,232,66,13216.17,02-10-2024
+SKU10530,Cisco Switch,IT Equipment,Vertex Solutions,Delhi WH,291,175,374,92,43,35065.56,16-01-2025
+SKU10531,TP-Link Router,Office Supplies,Global Traders,Bengaluru WH,236,205,143,298,77,34331.99,12-04-2024
+SKU10532,Lenovo Tablet,IT Equipment,Vertex Solutions,Pune WH,419,138,241,316,91,40021.87,02-06-2024
+SKU10533,Cisco Switch,electronics,NextGen Systems,Delhi WH,292,4,90,206,73,15071.71,29-07-2025
+SKU10534,Dell Mouse,office supplies,Global Traders,Mumbai WH,489,290,48,731,70,10851.82,17-09-2024
+SKU10535,Seagate Hard Drive,Electronic,NextGen Systems,Bengaluru WH,293,49,230,112,62,27918.83,20-09-2024
+SKU10536,Epson Projector,office supplies,Vertex Solutions,Bengaluru WH,226,10,210,26,35,28837.13,26-10-2025
+SKU10537,Epson Projector,Electronic,,Delhi WH,325,89,399,15,56,44492.66,25-01-2025
+SKU10538,Canon Printer,electronics,NextGen Systems,Delhi WH,364,146,474,36,100,31600.54,08-08-2025
+SKU10539,Office Chair,electronics,NextGen Systems,Nagpur WH,257,36,40,253,40,32685.35,28-12-2025
+SKU10539,Epson Projector,office supplies,,Delhi WH,186,202,138,250,76,8449.17,24-01-2024
+SKU10541,JBL Headset,electronics,,Mumbai WH,114,120,128,106,30,4868.13,29-04-2025
+SKU10542,Dell Docking Station,Electronics,Prime Supplies,Nagpur WH,330,27,13,344,70,30943.3,27-03-2024
+SKU10543,Samsung SSD,office supplies,Apex Distributors,Delhi WH,385,199,316,268,49,31361.39,14-05-2024
+SKU10544,Epson Projector,Electronic,,Delhi WH,319,87,14,392,24,48751.58,07-07-2025
+SKU10545,Blue Yeti Microphone,electronics,,Bengaluru WH,189,280,455,14,37,21805.37,17-10-2025
+SKU10546,Cisco Switch,Office Supplies,Vertex Solutions,Mumbai WH,377,273,317,333,64,22148.83,09-01-2025
+SKU10547,Dell Laptop,Electronics,Global Traders,Nagpur WH,261,133,79,315,58,14409.44,01-07-2025
+SKU10548,Dell Laptop,IT Equipment,Apex Distributors,Bengaluru WH,54,251,244,61,58,11637.65,08-01-2024
+SKU10549,Blue Yeti Microphone,IT Equipment,,Pune WH,330,191,193,328,72,8247.15,23-10-2025
+SKU10550,Seagate Hard Drive,Electronics,,Pune WH,249,193,112,330,,25878.84,19-09-2025
+SKU10551,Seagate Hard Drive,IT Equipment,Vertex Solutions,Mumbai WH,463,139,291,311,88,9202.12,23-10-2024
+SKU10552,Seagate Hard Drive,office supplies,,Pune WH,106,233,316,23,77,16100.12,04-06-2024
+SKU10553,Dell Mouse,Electronic,Apex Distributors,Pune WH,75,273,11,337,43,35788.28,09-01-2024
+SKU10554,Cisco Switch,electronics,NextGen Systems,Delhi WH,169,46,77,138,21,15647.68,25-05-2025
+SKU10555,Logitech Keyboard,electronics,TechNova Pvt Ltd,Nagpur WH,240,237,32,445,62,38805.08,14-03-2024
+SKU10556,Seagate Hard Drive,IT Equipment,TechNova Pvt Ltd,Mumbai WH,328,240,185,383,44,48732.47,11-09-2024
+SKU10557,JBL Headset,IT Equipment,Prime Supplies,Bengaluru WH,247,226,253,220,24,33333.79,01-08-2024
+SKU10558,TP-Link Router,office supplies,TechNova Pvt Ltd,Bengaluru WH,292,199,319,172,61,26094.22,16-09-2024
+SKU10559,HP Monitor,office supplies,Vertex Solutions,Mumbai WH,296,152,101,347,66,11874.7,20-03-2025
+SKU10560,Office Desk,Electronics,,Pune WH,216,7,85,138,55,545.6,13-02-2024
+SKU10561,Epson Projector,Electronics,Vertex Solutions,Pune WH,347,243,610,-20,39,25045.97,03-12-2025
+SKU10562,Epson Projector,office supplies,Global Traders,Bengaluru WH,366,173,61,478,27,39594.17,08-05-2024
+SKU10563,Epson Projector,IT Equipment,Vertex Solutions,Mumbai WH,299,119,162,256,91,34493.57,01-01-2025
+SKU10564,Cisco Switch,office supplies,,Bengaluru WH,420,68,256,232,25,14806.26,14-12-2025
+SKU10565,Blue Yeti Microphone,Electronic,NextGen Systems,Delhi WH,300,97,290,107,43,13838.69,05-09-2025
+SKU10566,Dell Docking Station,electronics,,Nagpur WH,490,283,164,609,28,40988.99,08-07-2025
+SKU10567,HP Scanner,office supplies,Global Traders,Mumbai WH,237,232,0,469,84,31024.76,07-01-2025
+SKU10568,Blue Yeti Microphone,IT Equipment,Vertex Solutions,Bengaluru WH,447,122,328,241,28,34192.89,18-07-2025
+SKU10569,Office Chair,Electronics,Prime Supplies,Bengaluru WH,128,144,165,107,72,32978.66,14-02-2024
+SKU10570,JBL Headset,Electronics,,Pune WH,477,66,182,361,24,5027.8,07-08-2025
+SKU10571,LG LED Screen,office supplies,Apex Distributors,Mumbai WH,378,198,501,75,87,18381.07,12-09-2025
+SKU10572,Cisco Switch,Electronics,,Mumbai WH,417,36,6,447,46,18110.21,01-03-2025
+SKU10573,Seagate Hard Drive,Office Supplies,TechNova Pvt Ltd,Mumbai WH,470,188,59,599,98,41739.38,20-03-2024
+SKU10574,Samsung SSD,Office Supplies,,Pune WH,160,265,49,376,32,9736.66,03-11-2025
+SKU10575,Blue Yeti Microphone,IT Equipment,Prime Supplies,Bengaluru WH,177,291,183,285,91,17962.37,14-04-2025
+SKU10576,TP-Link Router,Office Supplies,,Bengaluru WH,409,218,106,521,41,16941.89,10-06-2024
+SKU10577,Blue Yeti Microphone,Electronic,NextGen Systems,Delhi WH,323,226,360,189,60,38232.8,16-03-2025
+SKU10578,Office Desk,Office Supplies,Vertex Solutions,Delhi WH,472,165,623,14,50,38308.84,17-09-2024
+SKU10579,Dell Laptop,office supplies,TechNova Pvt Ltd,Nagpur WH,234,231,458,7,70,29828.57,14-06-2025
+SKU10580,Samsung SSD,electronics,NextGen Systems,Mumbai WH,119,154,3,270,58,38599.0,07-12-2025
+SKU10581,Blue Yeti Microphone,Office Supplies,Global Traders,Mumbai WH,471,141,566,46,85,1983.04,30-12-2024
+SKU10582,Office Desk,electronics,Vertex Solutions,Nagpur WH,129,70,67,132,66,40572.6,04-04-2024
+SKU10583,Logitech Keyboard,office supplies,NextGen Systems,Delhi WH,342,204,582,-36,47,8727.83,07-12-2025
+SKU10584,Logitech Webcam,Electronics,,Mumbai WH,409,295,97,607,96,39028.08,08-12-2024
+SKU10585,Samsung SSD,office supplies,TechNova Pvt Ltd,Delhi WH,228,222,213,237,35,2800.98,20-06-2025
+SKU10586,Canon Printer,Electronic,Vertex Solutions,Pune WH,71,163,276,-42,92,2620.94,06-02-2025
+SKU10587,Samsung SSD,IT Equipment,Apex Distributors,Delhi WH,278,294,516,56,31,7485.82,10-12-2024
+SKU10588,Blue Yeti Microphone,IT Equipment,Apex Distributors,Mumbai WH,92,243,292,43,26,19986.5,20-03-2025
+SKU10589,Blue Yeti Microphone,electronics,,Delhi WH,446,66,138,374,81,32647.2,19-07-2024
+SKU10590,Logitech Keyboard,Electronic,,Nagpur WH,337,268,252,353,51,34268.42,12-08-2025
+SKU10591,Lenovo Tablet,Electronic,NextGen Systems,Pune WH,95,57,171,-19,72,16104.84,31-08-2025
+SKU10592,TP-Link Router,Electronic,,Bengaluru WH,385,12,394,3,59,7376.34,15-02-2024
+SKU10593,Canon Printer,office supplies,Prime Supplies,Mumbai WH,468,119,204,383,67,37005.12,05-09-2024
+SKU10594,Dell Laptop,Electronic,Prime Supplies,Nagpur WH,367,75,444,-2,56,22558.07,24-01-2024
+SKU10595,JBL Headset,Office Supplies,Apex Distributors,Bengaluru WH,219,107,275,51,47,24203.01,24-05-2024
+SKU10596,Dell Docking Station,Electronics,Apex Distributors,Pune WH,405,9,192,222,94,3099.49,24-07-2024
+SKU10597,Dell Laptop,Electronics,,Nagpur WH,454,138,54,538,79,33182.78,06-11-2025
+SKU10598,HP Scanner,electronics,,Bengaluru WH,234,55,9,280,57,48832.94,11-04-2024
+SKU10599,Blue Yeti Microphone,Electronics,Global Traders,Pune WH,211,248,443,16,96,25082.48,13-04-2025
+SKU10599,Samsung SSD,Office Supplies,Apex Distributors,Nagpur WH,-337,11,20,-346,,24547.65,09-06-2024
+SKU10601,Logitech Webcam,electronics,Apex Distributors,Mumbai WH,59,177,180,56,65,31327.04,31-01-2025
+SKU10602,Canon Printer,Electronic,,Pune WH,467,15,286,196,48,4480.97,26-01-2025
+SKU10603,Office Desk,electronics,,Nagpur WH,316,116,213,219,50,45495.8,03-12-2024
+SKU10604,Canon Printer,Office Supplies,Vertex Solutions,Pune WH,279,277,134,422,46,15519.02,23-12-2025
+SKU10605,Office Desk,electronics,NextGen Systems,Mumbai WH,318,69,220,167,38,27911.28,01-05-2024
+SKU10606,Office Chair,IT Equipment,,Nagpur WH,144,162,74,232,23,22205.92,14-10-2025
+SKU10607,Dell Mouse,electronics,Global Traders,Mumbai WH,428,140,155,413,44,38146.13,18-09-2025
+SKU10608,Samsung SSD,electronics,TechNova Pvt Ltd,Nagpur WH,365,136,236,265,96,4065.82,03-05-2025
+SKU10609,Epson Projector,electronics,,Delhi WH,118,257,309,66,80,23744.96,16-06-2024
+SKU10610,Dell Laptop,Electronic,,Pune WH,148,115,16,247,72,37144.1,26-07-2024
+SKU10611,APC UPS,Office Supplies,,Nagpur WH,437,104,67,474,42,43352.07,09-09-2024
+SKU10612,HP Scanner,office supplies,NextGen Systems,Delhi WH,268,207,42,433,97,30614.09,08-08-2025
+SKU10613,Dell Docking Station,Electronics,,Delhi WH,354,274,537,91,24,41367.8,13-02-2024
+SKU10614,HP Scanner,office supplies,TechNova Pvt Ltd,Bengaluru WH,499,125,531,93,88,19431.15,07-10-2025
+SKU10615,HP Scanner,Electronic,Apex Distributors,Delhi WH,75,97,74,98,76,8407.68,28-10-2024
+SKU10616,Canon Printer,IT Equipment,,Mumbai WH,363,27,353,37,86,36160.07,25-04-2024
+SKU10617,Canon Printer,IT Equipment,,Nagpur WH,142,299,480,-39,89,22599.2,02-07-2024
+SKU10618,Seagate Hard Drive,Electronic,Global Traders,Mumbai WH,282,103,232,153,31,4650.44,24-12-2025
+SKU10619,HP Scanner,office supplies,Global Traders,Delhi WH,280,185,87,378,87,27562.26,14-02-2024
+SKU10620,Canon Printer,electronics,Global Traders,Pune WH,443,87,343,187,92,38480.92,22-02-2024
+SKU10621,Logitech Webcam,office supplies,Global Traders,Mumbai WH,264,157,158,263,77,44937.24,26-07-2024
+SKU10622,Cisco Switch,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,51,129,3,177,78,44146.88,31-08-2024
+SKU10623,APC UPS,Electronics,TechNova Pvt Ltd,Pune WH,161,243,232,172,72,44120.18,11-10-2024
+SKU10624,TP-Link Router,electronics,TechNova Pvt Ltd,Nagpur WH,367,285,212,440,26,1932.38,03-02-2024
+SKU10625,Office Chair,Electronics,TechNova Pvt Ltd,Mumbai WH,391,295,617,69,58,20906.15,01-07-2024
+SKU10626,Office Desk,Office Supplies,Global Traders,Delhi WH,132,145,312,-35,96,37491.81,03-01-2025
+SKU10627,Epson Projector,IT Equipment,Prime Supplies,Delhi WH,68,47,76,39,61,42181.15,07-03-2024
+SKU10628,Seagate Hard Drive,Electronic,,Bengaluru WH,199,241,68,372,35,10571.28,02-08-2024
+SKU10629,Dell Docking Station,Electronics,,Bengaluru WH,363,29,55,337,93,46701.19,24-12-2025
+SKU10630,Seagate Hard Drive,Office Supplies,NextGen Systems,Pune WH,197,218,311,104,60,30753.07,23-05-2025
+SKU10631,LG LED Screen,electronics,Apex Distributors,Pune WH,316,254,504,66,43,178.89,25-01-2024
+SKU10632,LG LED Screen,IT Equipment,,Mumbai WH,288,60,377,-29,46,16756.23,27-07-2025
+SKU10633,Logitech Webcam,Electronic,Prime Supplies,Nagpur WH,462,108,11,559,45,15084.17,17-07-2025
+SKU10634,Office Chair,IT Equipment,TechNova Pvt Ltd,Pune WH,215,3,58,160,62,9781.38,12-12-2024
+SKU10635,Canon Printer,IT Equipment,Global Traders,Delhi WH,394,245,485,154,24,44613.71,03-07-2025
+SKU10636,HP Monitor,Office Supplies,Apex Distributors,Bengaluru WH,221,236,401,56,72,36275.71,19-11-2024
+SKU10637,Office Desk,office supplies,NextGen Systems,Nagpur WH,334,274,19,589,46,3404.03,01-06-2024
+SKU10638,Blue Yeti Microphone,electronics,,Pune WH,193,15,173,35,68,29800.07,11-11-2024
+SKU10639,Lenovo Tablet,Electronics,,Pune WH,411,161,32,540,54,18642.02,05-11-2024
+SKU10640,Dell Mouse,Electronic,TechNova Pvt Ltd,Pune WH,160,268,154,274,42,45676.36,30-03-2025
+SKU10641,Canon Printer,electronics,NextGen Systems,Delhi WH,309,12,247,74,84,36648.81,20-06-2025
+SKU10642,Dell Docking Station,office supplies,Global Traders,Pune WH,208,167,73,302,32,36256.07,15-04-2025
+SKU10643,Logitech Webcam,Electronics,Prime Supplies,Nagpur WH,248,267,118,397,20,23397.11,17-02-2024
+SKU10644,Dell Laptop,Office Supplies,Apex Distributors,Pune WH,102,266,392,-24,59,16111.93,16-07-2024
+SKU10645,APC UPS,office supplies,Prime Supplies,Nagpur WH,196,141,272,65,60,7551.1,07-10-2024
+SKU10646,Dell Docking Station,Electronics,Vertex Solutions,Bengaluru WH,108,7,159,-44,91,17580.88,22-11-2024
+SKU10647,Samsung SSD,electronics,Prime Supplies,Nagpur WH,188,72,145,115,93,30701.82,12-12-2024
+SKU10648,Dell Laptop,IT Equipment,TechNova Pvt Ltd,Mumbai WH,326,227,51,502,36,19241.62,29-03-2024
+SKU10649,Office Desk,office supplies,,Bengaluru WH,268,200,183,285,96,17845.65,06-12-2024
+SKU10650,Logitech Keyboard,IT Equipment,Global Traders,Mumbai WH,468,101,546,23,,40661.27,16-12-2025
+SKU10651,APC UPS,IT Equipment,Vertex Solutions,Pune WH,289,49,233,105,59,7271.71,23-09-2025
+SKU10652,Office Chair,Electronic,,Delhi WH,182,186,200,168,43,1610.18,01-05-2025
+SKU10653,TP-Link Router,Electronic,NextGen Systems,Bengaluru WH,107,179,245,41,79,28776.45,04-06-2025
+SKU10654,Blue Yeti Microphone,office supplies,Prime Supplies,Nagpur WH,102,207,54,255,61,26684.0,14-02-2025
+SKU10655,Samsung SSD,Office Supplies,Global Traders,Delhi WH,352,211,244,319,99,19252.44,14-12-2024
+SKU10656,Office Desk,Electronic,Vertex Solutions,Pune WH,156,220,401,-25,75,33164.35,20-03-2024
+SKU10657,Office Desk,Office Supplies,,Nagpur WH,428,293,498,223,34,27798.88,31-03-2025
+SKU10658,LG LED Screen,Electronics,,Nagpur WH,140,157,207,90,28,24765.33,07-11-2025
+SKU10659,Office Desk,office supplies,TechNova Pvt Ltd,Pune WH,81,46,55,72,37,33077.98,08-04-2025
+SKU10659,Office Desk,IT Equipment,Vertex Solutions,Pune WH,322,149,399,72,98,34107.69,20-11-2024
+SKU10661,Epson Projector,Electronics,TechNova Pvt Ltd,Bengaluru WH,203,291,311,183,75,49322.44,17-02-2025
+SKU10662,Epson Projector,Office Supplies,TechNova Pvt Ltd,Mumbai WH,483,65,301,247,27,35197.37,02-01-2025
+SKU10663,Lenovo Tablet,office supplies,,Nagpur WH,106,144,15,235,50,35617.51,19-02-2025
+SKU10664,Cisco Switch,electronics,Vertex Solutions,Bengaluru WH,245,222,216,251,42,19291.29,03-01-2025
+SKU10665,Canon Printer,electronics,TechNova Pvt Ltd,Mumbai WH,480,213,157,536,56,32454.62,27-05-2024
+SKU10666,Canon Printer,Electronics,Global Traders,Delhi WH,419,249,673,-5,75,43021.62,13-12-2025
+SKU10667,Dell Docking Station,IT Equipment,,Delhi WH,359,217,184,392,78,17829.83,09-07-2024
+SKU10668,Samsung SSD,office supplies,Apex Distributors,Delhi WH,267,3,295,-25,83,46335.57,13-08-2025
+SKU10669,Cisco Switch,office supplies,NextGen Systems,Mumbai WH,237,17,19,235,92,29055.41,08-12-2025
+SKU10670,Seagate Hard Drive,IT Equipment,Prime Supplies,Bengaluru WH,90,72,186,-24,87,44506.78,31-03-2024
+SKU10671,Blue Yeti Microphone,Office Supplies,Apex Distributors,Bengaluru WH,175,241,322,94,29,2733.44,17-12-2024
+SKU10672,Dell Docking Station,IT Equipment,NextGen Systems,Delhi WH,323,5,240,88,78,17710.44,28-10-2024
+SKU10673,Logitech Webcam,office supplies,Apex Distributors,Mumbai WH,198,85,18,265,96,31502.07,15-08-2025
+SKU10674,LG LED Screen,Electronics,Apex Distributors,Delhi WH,136,293,26,403,57,4217.26,01-06-2025
+SKU10675,LG LED Screen,Electronic,Apex Distributors,Nagpur WH,-89,142,129,-76,36,808.73,24-04-2024
+SKU10676,Canon Printer,office supplies,,Nagpur WH,359,89,465,-17,95,40411.25,24-09-2024
+SKU10677,Dell Docking Station,Electronics,NextGen Systems,Mumbai WH,450,120,496,74,43,48370.55,01-09-2025
+SKU10678,HP Scanner,electronics,,Pune WH,470,78,507,41,72,10621.75,19-12-2024
+SKU10679,TP-Link Router,IT Equipment,,Delhi WH,77,135,59,153,26,15138.22,29-06-2025
+SKU10680,Cisco Switch,Electronic,Global Traders,Bengaluru WH,169,194,349,14,69,43526.86,13-01-2024
+SKU10681,Dell Docking Station,office supplies,TechNova Pvt Ltd,Mumbai WH,197,229,195,231,60,45893.84,14-10-2025
+SKU10682,Office Chair,Electronic,Apex Distributors,Mumbai WH,231,221,312,140,54,12841.66,21-08-2025
+SKU10683,JBL Headset,Office Supplies,NextGen Systems,Pune WH,250,236,247,239,95,15732.16,11-01-2024
+SKU10684,Dell Laptop,IT Equipment,Prime Supplies,Bengaluru WH,394,4,425,-27,28,5284.97,01-04-2025
+SKU10685,Seagate Hard Drive,electronics,TechNova Pvt Ltd,Mumbai WH,229,112,371,-30,56,31007.92,28-02-2024
+SKU10686,Logitech Keyboard,Office Supplies,Global Traders,Delhi WH,354,111,124,341,35,32854.09,25-10-2025
+SKU10687,TP-Link Router,Electronic,Apex Distributors,Delhi WH,339,94,458,-25,34,33057.84,18-03-2024
+SKU10688,Office Chair,Electronic,Global Traders,Mumbai WH,377,232,283,326,74,13936.65,04-03-2024
+SKU10689,Seagate Hard Drive,Electronic,Global Traders,Delhi WH,245,198,170,273,27,3562.98,24-07-2024
+SKU10690,Dell Mouse,electronics,,Pune WH,362,201,182,381,82,30736.92,18-04-2024
+SKU10691,Logitech Keyboard,Electronics,Apex Distributors,Delhi WH,276,132,52,356,24,1036.36,24-05-2025
+SKU10692,Seagate Hard Drive,electronics,NextGen Systems,Delhi WH,126,0,9,117,69,28774.55,11-06-2025
+SKU10693,HP Scanner,office supplies,Prime Supplies,Bengaluru WH,412,251,489,174,75,11369.76,28-01-2025
+SKU10694,Blue Yeti Microphone,Electronic,NextGen Systems,Nagpur WH,402,246,124,524,92,20090.68,09-10-2025
+SKU10695,Office Chair,Electronics,,Nagpur WH,381,46,187,240,88,32424.85,29-06-2024
+SKU10696,Logitech Webcam,office supplies,,Mumbai WH,333,20,196,157,44,31567.79,02-01-2025
+SKU10697,JBL Headset,electronics,TechNova Pvt Ltd,Pune WH,299,43,323,19,76,1365.69,30-08-2025
+SKU10698,Blue Yeti Microphone,office supplies,Apex Distributors,Delhi WH,172,250,199,223,28,26743.61,05-04-2025
+SKU10699,Office Chair,office supplies,TechNova Pvt Ltd,Delhi WH,58,18,43,33,27,5997.54,31-10-2025
+SKU10700,Blue Yeti Microphone,electronics,Vertex Solutions,Mumbai WH,391,267,469,189,,1940.2,24-05-2024
+SKU10701,HP Monitor,electronics,Global Traders,Mumbai WH,300,9,241,68,99,8695.23,21-02-2024
+SKU10702,TP-Link Router,Office Supplies,Prime Supplies,Mumbai WH,207,49,233,23,98,5797.57,01-09-2025
+SKU10703,Lenovo Tablet,Electronic,,Nagpur WH,459,112,64,507,45,6128.04,01-12-2025
+SKU10704,JBL Headset,Electronics,Global Traders,Nagpur WH,344,279,140,483,61,3254.77,07-10-2024
+SKU10705,Blue Yeti Microphone,electronics,,Pune WH,122,212,86,248,67,46291.21,11-02-2024
+SKU10706,LG LED Screen,IT Equipment,Global Traders,Mumbai WH,118,51,202,-33,100,43993.38,23-03-2024
+SKU10707,Office Desk,Electronic,,Delhi WH,53,3,22,34,31,34648.68,30-07-2024
+SKU10708,Lenovo Tablet,electronics,Global Traders,Bengaluru WH,123,138,267,-6,77,34614.51,02-09-2025
+SKU10709,Logitech Webcam,Electronic,,Mumbai WH,142,255,313,84,31,27929.75,15-07-2024
+SKU10710,Epson Projector,Office Supplies,Vertex Solutions,Delhi WH,110,271,48,333,99,38539.53,06-11-2025
+SKU10711,Dell Mouse,electronics,,Delhi WH,156,141,27,270,44,8898.56,17-11-2025
+SKU10712,JBL Headset,IT Equipment,Apex Distributors,Nagpur WH,72,27,93,6,56,30879.29,09-04-2025
+SKU10713,TP-Link Router,electronics,TechNova Pvt Ltd,Delhi WH,72,53,13,112,88,25793.7,13-03-2024
+SKU10714,Office Chair,IT Equipment,Vertex Solutions,Nagpur WH,170,227,303,94,94,11580.16,22-04-2024
+SKU10715,Lenovo Tablet,electronics,,Pune WH,216,116,50,282,50,3769.13,22-08-2025
+SKU10716,JBL Headset,Office Supplies,,Pune WH,298,27,223,102,38,19427.78,19-05-2024
+SKU10717,Seagate Hard Drive,electronics,NextGen Systems,Pune WH,284,99,323,60,65,1701.52,05-08-2025
+SKU10718,APC UPS,IT Equipment,,Pune WH,80,143,69,154,34,38040.95,13-08-2024
+SKU10719,TP-Link Router,Office Supplies,Vertex Solutions,Mumbai WH,201,80,326,-45,98,20643.64,18-06-2025
+SKU10719,APC UPS,Electronic,TechNova Pvt Ltd,Delhi WH,300,110,302,108,80,36835.33,09-09-2024
+SKU10721,Samsung SSD,Office Supplies,Global Traders,Bengaluru WH,176,167,222,121,94,44922.76,03-03-2025
+SKU10722,HP Monitor,IT Equipment,,Delhi WH,72,20,120,-28,84,40504.85,14-12-2025
+SKU10723,Samsung SSD,Electronics,TechNova Pvt Ltd,Delhi WH,470,50,463,57,83,47501.7,15-05-2024
+SKU10724,Dell Laptop,IT Equipment,Apex Distributors,Pune WH,233,151,122,262,31,35194.89,07-08-2025
+SKU10725,APC UPS,electronics,,Pune WH,432,298,24,706,78,39513.95,14-01-2025
+SKU10726,Logitech Keyboard,IT Equipment,NextGen Systems,Bengaluru WH,370,237,648,-41,20,1732.44,12-03-2025
+SKU10727,JBL Headset,office supplies,Prime Supplies,Bengaluru WH,435,138,555,18,93,44054.28,26-02-2024
+SKU10728,HP Scanner,Electronic,,Bengaluru WH,313,186,52,447,34,2139.63,10-01-2025
+SKU10729,Blue Yeti Microphone,office supplies,Vertex Solutions,Pune WH,139,286,360,65,28,49064.46,01-09-2024
+SKU10730,Office Desk,office supplies,Vertex Solutions,Pune WH,326,58,332,52,81,16091.14,30-09-2024
+SKU10731,Logitech Keyboard,Electronic,NextGen Systems,Delhi WH,307,216,283,240,26,24362.72,23-06-2025
+SKU10732,Blue Yeti Microphone,Electronic,,Bengaluru WH,474,62,481,55,88,18470.48,20-11-2025
+SKU10733,Logitech Keyboard,Electronics,,Pune WH,404,33,96,341,78,14489.8,19-03-2024
+SKU10734,Canon Printer,IT Equipment,Global Traders,Pune WH,105,84,70,119,34,26082.31,04-10-2025
+SKU10735,Canon Printer,IT Equipment,NextGen Systems,Delhi WH,61,150,213,-2,89,22248.62,22-10-2025
+SKU10736,Dell Laptop,electronics,NextGen Systems,Delhi WH,60,149,96,113,28,28977.36,02-11-2025
+SKU10737,Dell Docking Station,Office Supplies,,Delhi WH,380,167,497,50,95,15273.71,15-05-2024
+SKU10738,Samsung SSD,IT Equipment,NextGen Systems,Nagpur WH,454,156,175,435,53,38510.51,18-02-2024
+SKU10739,TP-Link Router,Office Supplies,Global Traders,Bengaluru WH,125,180,145,160,78,14333.8,28-06-2024
+SKU10740,Dell Mouse,Electronics,NextGen Systems,Bengaluru WH,479,78,165,392,50,6411.03,23-09-2024
+SKU10741,HP Monitor,office supplies,NextGen Systems,Nagpur WH,239,94,105,228,91,7482.42,04-04-2025
+SKU10742,Dell Mouse,Electronics,,Delhi WH,326,83,273,136,58,38449.06,14-04-2025
+SKU10743,Dell Docking Station,Electronic,Apex Distributors,Delhi WH,213,79,2,290,89,44809.27,10-08-2025
+SKU10744,Dell Mouse,office supplies,,Mumbai WH,391,75,452,14,63,7057.22,18-07-2025
+SKU10745,LG LED Screen,electronics,,Nagpur WH,109,157,12,254,71,4714.81,26-02-2024
+SKU10746,Samsung SSD,Electronic,Vertex Solutions,Mumbai WH,361,99,298,162,87,4271.12,01-04-2025
+SKU10747,JBL Headset,IT Equipment,NextGen Systems,Bengaluru WH,396,44,262,178,70,30293.38,27-02-2024
+SKU10748,Lenovo Tablet,Electronic,,Nagpur WH,391,184,407,168,38,708.32,19-12-2024
+SKU10749,Logitech Keyboard,electronics,,Delhi WH,229,157,228,158,91,40203.91,22-10-2024
+SKU10750,Lenovo Tablet,electronics,Prime Supplies,Pune WH,-133,217,373,-289,,10468.41,01-05-2025
+SKU10751,Office Desk,IT Equipment,Prime Supplies,Mumbai WH,494,268,343,419,28,20532.09,06-10-2024
+SKU10752,Office Desk,electronics,Vertex Solutions,Pune WH,262,89,284,67,79,41630.96,23-10-2024
+SKU10753,Office Desk,Electronic,,Bengaluru WH,333,251,43,541,58,37018.82,17-08-2024
+SKU10754,Logitech Webcam,office supplies,,Mumbai WH,63,1,19,45,53,32725.27,21-10-2024
+SKU10755,Dell Laptop,Electronics,Apex Distributors,Delhi WH,263,91,251,103,51,49717.21,09-03-2024
+SKU10756,Lenovo Tablet,Electronic,,Mumbai WH,356,185,492,49,92,18722.79,12-08-2025
+SKU10757,HP Monitor,electronics,NextGen Systems,Delhi WH,58,132,41,149,94,43928.03,18-05-2024
+SKU10758,Epson Projector,IT Equipment,NextGen Systems,Mumbai WH,232,83,27,288,54,14563.82,26-06-2025
+SKU10759,TP-Link Router,Electronics,Global Traders,Bengaluru WH,377,39,263,153,44,16198.08,19-11-2024
+SKU10760,Dell Mouse,Office Supplies,NextGen Systems,Pune WH,473,154,277,350,66,743.59,14-06-2025
+SKU10761,Lenovo Tablet,Electronic,Global Traders,Mumbai WH,194,190,398,-14,82,10972.02,30-05-2025
+SKU10762,Dell Docking Station,Office Supplies,Prime Supplies,Delhi WH,163,96,286,-27,98,23078.52,19-03-2024
+SKU10763,Epson Projector,Electronic,NextGen Systems,Pune WH,109,67,4,172,81,40870.23,03-09-2025
+SKU10764,Dell Laptop,office supplies,Prime Supplies,Pune WH,317,175,176,316,58,6522.85,11-12-2025
+SKU10765,JBL Headset,electronics,Prime Supplies,Delhi WH,122,116,157,81,36,34571.83,24-04-2024
+SKU10766,HP Monitor,electronics,Prime Supplies,Mumbai WH,89,9,123,-25,75,39673.45,09-06-2025
+SKU10767,Seagate Hard Drive,Electronics,Prime Supplies,Nagpur WH,353,30,240,143,35,33412.56,08-04-2024
+SKU10768,JBL Headset,electronics,NextGen Systems,Mumbai WH,450,63,210,303,95,4629.89,11-10-2024
+SKU10769,Dell Docking Station,office supplies,Vertex Solutions,Bengaluru WH,346,178,360,164,40,28554.74,11-04-2024
+SKU10770,Dell Docking Station,electronics,Vertex Solutions,Nagpur WH,469,296,781,-16,21,8671.5,04-07-2025
+SKU10771,Cisco Switch,Electronic,Global Traders,Delhi WH,52,50,54,48,84,33708.93,19-04-2024
+SKU10772,JBL Headset,Office Supplies,Vertex Solutions,Delhi WH,142,181,194,129,74,5730.99,17-11-2024
+SKU10773,Canon Printer,IT Equipment,NextGen Systems,Nagpur WH,113,238,56,295,86,27900.89,11-02-2024
+SKU10774,HP Scanner,Electronic,,Bengaluru WH,92,167,252,7,34,36835.1,04-12-2025
+SKU10775,Lenovo Tablet,Electronic,,Pune WH,480,227,231,476,90,42853.01,02-05-2025
+SKU10776,Cisco Switch,office supplies,Prime Supplies,Delhi WH,397,188,183,402,21,21959.11,05-11-2025
+SKU10777,HP Scanner,IT Equipment,Prime Supplies,Pune WH,396,43,61,378,38,3329.05,22-07-2024
+SKU10778,Dell Mouse,electronics,,Delhi WH,223,102,304,21,71,13998.06,31-12-2025
+SKU10779,HP Scanner,Electronic,,Bengaluru WH,442,297,607,132,54,47511.93,11-05-2025
+SKU10779,Dell Mouse,Electronics,Apex Distributors,Delhi WH,311,142,75,378,78,24913.96,05-10-2025
+SKU10781,Logitech Keyboard,IT Equipment,TechNova Pvt Ltd,Pune WH,118,15,25,108,26,19193.39,26-11-2025
+SKU10782,LG LED Screen,Electronics,Prime Supplies,Bengaluru WH,217,78,155,140,99,38401.85,22-04-2025
+SKU10783,Cisco Switch,Office Supplies,Apex Distributors,Bengaluru WH,153,150,338,-35,83,17246.42,07-07-2025
+SKU10784,Dell Mouse,IT Equipment,,Nagpur WH,329,9,16,322,75,42658.43,29-03-2025
+SKU10785,Blue Yeti Microphone,office supplies,Apex Distributors,Pune WH,285,18,16,287,42,24624.83,17-05-2024
+SKU10786,Office Desk,office supplies,,Bengaluru WH,209,199,249,159,34,34300.17,08-08-2025
+SKU10787,Dell Docking Station,Electronics,,Nagpur WH,290,243,575,-42,40,24785.09,21-01-2025
+SKU10788,HP Monitor,Electronics,TechNova Pvt Ltd,Pune WH,365,180,291,254,61,41863.01,23-12-2024
+SKU10789,Office Chair,IT Equipment,Prime Supplies,Delhi WH,464,298,27,735,100,17322.64,31-12-2024
+SKU10790,Samsung SSD,electronics,Apex Distributors,Bengaluru WH,260,179,28,411,51,4338.59,05-12-2025
+SKU10791,TP-Link Router,Electronics,NextGen Systems,Mumbai WH,83,156,58,181,63,23099.38,08-03-2025
+SKU10792,Dell Laptop,office supplies,,Bengaluru WH,340,263,431,172,54,1209.6,20-11-2024
+SKU10793,Office Desk,Electronics,,Mumbai WH,243,292,399,136,61,34574.11,29-07-2024
+SKU10794,TP-Link Router,Office Supplies,Apex Distributors,Nagpur WH,222,254,514,-38,63,48474.44,25-07-2024
+SKU10795,Logitech Webcam,Electronic,TechNova Pvt Ltd,Nagpur WH,304,38,274,68,47,49811.76,15-02-2025
+SKU10796,Dell Mouse,Office Supplies,NextGen Systems,Nagpur WH,461,115,94,482,94,3456.76,27-06-2025
+SKU10797,Logitech Keyboard,office supplies,Apex Distributors,Bengaluru WH,293,218,214,297,64,40225.92,19-03-2025
+SKU10798,Lenovo Tablet,IT Equipment,Apex Distributors,Bengaluru WH,389,276,320,345,45,25816.92,18-11-2025
+SKU10799,Dell Docking Station,electronics,,Pune WH,440,280,184,536,22,33074.23,23-04-2025
+SKU10800,LG LED Screen,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,187,272,414,45,,10112.34,18-04-2025
+SKU10801,Lenovo Tablet,IT Equipment,NextGen Systems,Mumbai WH,125,123,77,171,58,31732.98,26-02-2025
+SKU10802,Seagate Hard Drive,office supplies,Vertex Solutions,Delhi WH,186,146,330,2,40,12000.32,02-06-2024
+SKU10803,APC UPS,IT Equipment,,Delhi WH,148,14,62,100,59,32381.41,07-02-2024
+SKU10804,Dell Laptop,Electronic,Apex Distributors,Bengaluru WH,153,81,139,95,37,8881.66,13-02-2024
+SKU10805,Logitech Keyboard,Electronic,Apex Distributors,Mumbai WH,419,248,20,647,27,45038.69,20-02-2025
+SKU10806,Samsung SSD,Electronics,Prime Supplies,Bengaluru WH,236,46,203,79,37,33244.44,17-08-2025
+SKU10807,Logitech Keyboard,electronics,Prime Supplies,Nagpur WH,446,268,257,457,83,16531.37,21-08-2025
+SKU10808,JBL Headset,electronics,Prime Supplies,Pune WH,427,199,241,385,74,10784.02,08-10-2024
+SKU10809,HP Monitor,IT Equipment,NextGen Systems,Mumbai WH,275,209,260,224,95,15892.85,09-03-2025
+SKU10810,Epson Projector,IT Equipment,NextGen Systems,Nagpur WH,293,126,142,277,38,1151.6,12-09-2025
+SKU10811,Blue Yeti Microphone,IT Equipment,Apex Distributors,Nagpur WH,67,27,61,33,52,45167.54,02-12-2025
+SKU10812,HP Scanner,Electronics,,Nagpur WH,112,273,121,264,76,15114.32,29-08-2024
+SKU10813,Office Chair,office supplies,,Mumbai WH,202,107,82,227,76,13774.42,23-03-2024
+SKU10814,Office Chair,office supplies,,Mumbai WH,471,251,482,240,72,41237.6,16-12-2025
+SKU10815,Lenovo Tablet,Office Supplies,NextGen Systems,Delhi WH,183,259,33,409,65,34790.98,23-02-2024
+SKU10816,Dell Laptop,IT Equipment,Vertex Solutions,Nagpur WH,378,94,454,18,37,15754.72,25-03-2024
+SKU10817,Canon Printer,Office Supplies,,Nagpur WH,106,80,63,123,86,22629.35,16-05-2024
+SKU10818,Logitech Webcam,electronics,Prime Supplies,Delhi WH,183,88,303,-32,61,18443.22,06-02-2025
+SKU10819,Dell Laptop,Electronics,Vertex Solutions,Mumbai WH,498,193,584,107,48,48708.97,22-07-2024
+SKU10820,LG LED Screen,IT Equipment,Apex Distributors,Pune WH,184,86,25,245,71,4544.16,11-01-2025
+SKU10821,Dell Docking Station,IT Equipment,,Delhi WH,137,290,60,367,21,6013.77,31-12-2025
+SKU10822,Cisco Switch,IT Equipment,Global Traders,Delhi WH,154,97,136,115,56,42831.25,06-09-2025
+SKU10823,Lenovo Tablet,electronics,,Pune WH,160,144,346,-42,44,1535.78,25-09-2024
+SKU10824,Office Desk,office supplies,,Mumbai WH,170,230,127,273,67,614.98,16-05-2024
+SKU10825,JBL Headset,office supplies,,Delhi WH,-496,165,709,-1040,70,36831.59,19-09-2024
+SKU10826,HP Monitor,Electronic,Vertex Solutions,Delhi WH,87,48,142,-7,27,45420.5,12-09-2025
+SKU10827,Dell Docking Station,Office Supplies,,Nagpur WH,393,23,2,414,52,48878.44,18-11-2025
+SKU10828,Office Desk,electronics,Apex Distributors,Pune WH,239,67,286,20,25,25236.96,13-12-2024
+SKU10829,Office Chair,office supplies,,Pune WH,499,239,135,603,31,13094.26,16-11-2024
+SKU10830,Epson Projector,IT Equipment,Apex Distributors,Nagpur WH,72,65,127,10,55,30685.29,27-09-2024
+SKU10831,Office Chair,office supplies,,Pune WH,314,160,446,28,41,27828.17,04-11-2025
+SKU10832,Canon Printer,Electronics,Vertex Solutions,Pune WH,375,225,54,546,44,1889.53,23-09-2024
+SKU10833,Cisco Switch,Electronics,,Nagpur WH,133,239,223,149,34,49442.05,28-07-2025
+SKU10834,Canon Printer,Electronics,NextGen Systems,Mumbai WH,298,234,504,28,34,10266.31,17-10-2024
+SKU10835,Office Desk,office supplies,Vertex Solutions,Bengaluru WH,142,86,260,-32,54,49900.43,05-01-2024
+SKU10836,Logitech Keyboard,electronics,,Mumbai WH,319,292,184,427,73,44379.65,27-01-2024
+SKU10837,Office Desk,Electronics,NextGen Systems,Pune WH,195,62,201,56,67,1540.84,16-04-2025
+SKU10838,Seagate Hard Drive,Office Supplies,TechNova Pvt Ltd,Nagpur WH,475,245,464,256,100,48491.55,02-11-2025
+SKU10839,Canon Printer,electronics,TechNova Pvt Ltd,Nagpur WH,368,231,332,267,92,16226.23,26-02-2024
+SKU10839,HP Scanner,Electronic,Global Traders,Pune WH,430,36,390,76,31,48255.96,12-02-2025
+SKU10841,HP Scanner,IT Equipment,Apex Distributors,Pune WH,95,10,53,52,40,6118.04,17-05-2025
+SKU10842,Canon Printer,Electronic,Prime Supplies,Nagpur WH,460,221,317,364,97,25681.4,16-05-2025
+SKU10843,Office Desk,Office Supplies,,Mumbai WH,278,198,487,-11,54,37848.88,12-01-2025
+SKU10844,Lenovo Tablet,Electronics,TechNova Pvt Ltd,Bengaluru WH,364,95,222,237,100,17153.07,19-04-2025
+SKU10845,Dell Docking Station,office supplies,Prime Supplies,Nagpur WH,396,114,158,352,83,23464.14,22-03-2024
+SKU10846,Canon Printer,office supplies,Apex Distributors,Pune WH,460,244,307,397,39,26202.29,29-10-2024
+SKU10847,HP Monitor,Office Supplies,Prime Supplies,Bengaluru WH,341,24,282,83,29,21303.18,06-04-2024
+SKU10848,Seagate Hard Drive,Office Supplies,Prime Supplies,Bengaluru WH,287,291,259,319,65,911.81,08-11-2025
+SKU10849,HP Scanner,Electronics,Prime Supplies,Delhi WH,286,91,402,-25,43,43850.09,31-10-2024
+SKU10850,APC UPS,Office Supplies,Apex Distributors,Nagpur WH,210,300,465,45,,48339.31,10-07-2024
+SKU10851,Seagate Hard Drive,office supplies,Prime Supplies,Delhi WH,158,94,40,212,97,26765.36,06-01-2024
+SKU10852,Cisco Switch,IT Equipment,,Bengaluru WH,252,59,6,305,41,36322.98,06-11-2024
+SKU10853,Logitech Keyboard,electronics,Global Traders,Mumbai WH,366,184,404,146,58,9621.02,17-01-2024
+SKU10854,Cisco Switch,office supplies,Global Traders,Pune WH,406,96,27,475,46,21845.84,03-10-2025
+SKU10855,Logitech Webcam,IT Equipment,Global Traders,Delhi WH,489,275,195,569,31,21151.77,29-04-2024
+SKU10856,Cisco Switch,Electronics,,Bengaluru WH,135,78,227,-14,82,12207.22,28-10-2024
+SKU10857,Dell Laptop,Electronics,,Delhi WH,341,200,52,489,62,42445.95,15-08-2025
+SKU10858,Cisco Switch,IT Equipment,,Bengaluru WH,355,283,297,341,24,29592.86,18-09-2025
+SKU10859,Dell Docking Station,Electronics,,Bengaluru WH,397,249,237,409,27,15860.92,06-03-2024
+SKU10860,Cisco Switch,Office Supplies,NextGen Systems,Delhi WH,187,213,242,158,34,34905.97,22-01-2024
+SKU10861,Epson Projector,IT Equipment,Vertex Solutions,Bengaluru WH,132,147,98,181,80,11063.15,02-12-2025
+SKU10862,HP Scanner,IT Equipment,NextGen Systems,Delhi WH,223,239,134,328,57,40007.78,14-06-2024
+SKU10863,Cisco Switch,electronics,Global Traders,Pune WH,368,106,289,185,31,7900.07,18-05-2025
+SKU10864,Samsung SSD,electronics,TechNova Pvt Ltd,Mumbai WH,101,212,252,61,58,18003.46,24-09-2024
+SKU10865,HP Monitor,Electronics,NextGen Systems,Delhi WH,232,81,89,224,84,5787.07,20-08-2024
+SKU10866,Seagate Hard Drive,Electronic,NextGen Systems,Mumbai WH,111,287,114,284,82,38527.74,24-07-2025
+SKU10867,Dell Mouse,office supplies,TechNova Pvt Ltd,Delhi WH,186,77,263,0,97,39969.45,23-04-2024
+SKU10868,Dell Docking Station,Electronics,Global Traders,Mumbai WH,104,52,143,13,25,43556.39,05-01-2025
+SKU10869,Cisco Switch,office supplies,Prime Supplies,Pune WH,130,149,226,53,84,32389.94,08-12-2024
+SKU10870,APC UPS,IT Equipment,TechNova Pvt Ltd,Pune WH,469,70,125,414,45,41757.19,30-04-2025
+SKU10871,Logitech Keyboard,Electronic,NextGen Systems,Delhi WH,224,146,258,112,41,18096.11,11-11-2025
+SKU10872,Samsung SSD,electronics,,Delhi WH,175,77,271,-19,73,45909.2,14-04-2025
+SKU10873,Dell Laptop,IT Equipment,Global Traders,Mumbai WH,486,264,698,52,66,35909.52,13-06-2025
+SKU10874,HP Scanner,electronics,,Mumbai WH,85,43,86,42,60,19723.99,07-02-2024
+SKU10875,Dell Docking Station,Electronic,,Delhi WH,388,77,59,406,100,44300.56,18-12-2025
+SKU10876,Dell Laptop,Electronic,Global Traders,Delhi WH,333,155,321,167,64,22364.83,29-07-2024
+SKU10877,JBL Headset,Electronic,Prime Supplies,Mumbai WH,328,226,353,201,71,26917.93,03-02-2025
+SKU10878,Logitech Webcam,electronics,Prime Supplies,Bengaluru WH,421,64,532,-47,89,27634.11,17-06-2025
+SKU10879,Blue Yeti Microphone,Office Supplies,Apex Distributors,Pune WH,224,81,11,294,23,41628.23,07-11-2024
+SKU10880,HP Monitor,Electronic,Apex Distributors,Bengaluru WH,421,216,517,120,34,17788.22,18-02-2024
+SKU10881,Office Desk,office supplies,TechNova Pvt Ltd,Delhi WH,437,63,459,41,58,17015.12,29-08-2024
+SKU10882,Blue Yeti Microphone,Office Supplies,Vertex Solutions,Nagpur WH,462,297,579,180,100,15030.16,13-11-2025
+SKU10883,HP Scanner,Office Supplies,Vertex Solutions,Mumbai WH,451,293,688,56,37,16459.56,19-08-2025
+SKU10884,Canon Printer,office supplies,,Delhi WH,148,184,232,100,32,4189.16,04-03-2024
+SKU10885,APC UPS,Electronics,NextGen Systems,Bengaluru WH,267,66,243,90,47,20197.41,26-07-2025
+SKU10886,Cisco Switch,office supplies,,Delhi WH,315,202,270,247,94,34481.99,16-05-2025
+SKU10887,Dell Docking Station,electronics,,Delhi WH,424,213,166,471,38,6556.32,22-12-2025
+SKU10888,APC UPS,IT Equipment,TechNova Pvt Ltd,Pune WH,312,270,120,462,47,47209.07,13-01-2025
+SKU10889,Epson Projector,Office Supplies,Apex Distributors,Mumbai WH,110,209,56,263,35,26186.6,30-04-2024
+SKU10890,Logitech Webcam,IT Equipment,TechNova Pvt Ltd,Pune WH,240,156,191,205,58,7192.78,26-08-2025
+SKU10891,JBL Headset,electronics,,Mumbai WH,265,24,156,133,56,6204.16,23-12-2024
+SKU10892,Office Desk,Electronic,,Nagpur WH,84,22,106,0,81,39089.33,01-05-2025
+SKU10893,APC UPS,IT Equipment,,Pune WH,477,67,141,403,84,43330.64,29-11-2024
+SKU10894,HP Scanner,Electronic,TechNova Pvt Ltd,Delhi WH,95,209,198,106,49,36822.05,23-10-2025
+SKU10895,Office Desk,office supplies,Apex Distributors,Bengaluru WH,95,84,181,-2,23,32293.47,21-10-2025
+SKU10896,Blue Yeti Microphone,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,336,43,98,281,99,26135.51,02-05-2025
+SKU10897,TP-Link Router,Electronics,Apex Distributors,Pune WH,307,9,61,255,88,12339.81,23-12-2025
+SKU10898,Blue Yeti Microphone,Office Supplies,NextGen Systems,Delhi WH,479,296,454,321,30,29485.76,18-05-2025
+SKU10899,TP-Link Router,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,491,11,348,154,75,15937.38,20-09-2024
+SKU10899,Blue Yeti Microphone,electronics,Apex Distributors,Pune WH,-96,58,25,-63,,9215.18,01-04-2024
+SKU10901,HP Monitor,Office Supplies,NextGen Systems,Pune WH,128,157,208,77,41,1455.84,29-02-2024
+SKU10902,Canon Printer,IT Equipment,NextGen Systems,Nagpur WH,202,199,50,351,60,18838.11,03-05-2024
+SKU10903,Office Desk,electronics,,Bengaluru WH,76,103,61,118,96,37644.26,29-01-2025
+SKU10904,APC UPS,Office Supplies,,Mumbai WH,108,137,31,214,60,24260.16,21-02-2025
+SKU10905,Blue Yeti Microphone,Office Supplies,Prime Supplies,Pune WH,374,119,19,474,54,38172.62,29-10-2025
+SKU10906,Lenovo Tablet,IT Equipment,Prime Supplies,Bengaluru WH,452,64,311,205,92,10252.5,25-05-2024
+SKU10907,Blue Yeti Microphone,IT Equipment,,Mumbai WH,241,276,172,345,51,149.95,20-04-2025
+SKU10908,Dell Laptop,Electronics,,Nagpur WH,474,148,668,-46,41,29933.6,27-11-2025
+SKU10909,JBL Headset,Office Supplies,Apex Distributors,Mumbai WH,244,179,431,-8,100,8154.67,30-06-2025
+SKU10910,HP Scanner,office supplies,Prime Supplies,Pune WH,338,35,153,220,31,36281.18,13-10-2024
+SKU10911,Dell Docking Station,Electronic,NextGen Systems,Nagpur WH,499,221,215,505,98,48984.05,25-12-2025
+SKU10912,Office Chair,electronics,,Bengaluru WH,281,139,125,295,61,16490.02,09-12-2025
+SKU10913,Dell Laptop,Electronics,Global Traders,Delhi WH,118,1,155,-36,80,27833.95,14-12-2025
+SKU10914,Logitech Keyboard,office supplies,Prime Supplies,Bengaluru WH,410,250,402,258,88,1644.28,18-11-2025
+SKU10915,LG LED Screen,Electronic,,Pune WH,277,63,180,160,68,41973.38,14-12-2025
+SKU10916,JBL Headset,IT Equipment,TechNova Pvt Ltd,Pune WH,54,63,118,-1,67,37182.91,14-10-2024
+SKU10917,LG LED Screen,office supplies,Apex Distributors,Pune WH,398,183,196,385,31,11789.47,20-05-2025
+SKU10918,LG LED Screen,electronics,TechNova Pvt Ltd,Pune WH,235,18,143,110,83,49214.75,15-10-2025
+SKU10919,Dell Docking Station,IT Equipment,Global Traders,Bengaluru WH,252,56,142,166,92,9769.14,02-08-2025
+SKU10920,Office Desk,electronics,Prime Supplies,Pune WH,394,289,179,504,28,13055.26,06-08-2025
+SKU10921,JBL Headset,office supplies,TechNova Pvt Ltd,Bengaluru WH,488,116,535,69,55,30761.38,28-11-2025
+SKU10922,HP Monitor,Electronic,,Delhi WH,336,232,2,566,74,13774.38,27-11-2025
+SKU10923,Dell Docking Station,Electronics,Vertex Solutions,Mumbai WH,315,238,507,46,66,13968.86,06-03-2025
+SKU10924,HP Scanner,electronics,NextGen Systems,Mumbai WH,322,229,323,228,20,44016.91,26-01-2024
+SKU10925,Samsung SSD,electronics,Global Traders,Nagpur WH,427,115,433,109,29,15609.21,03-10-2025
+SKU10926,Lenovo Tablet,Electronics,NextGen Systems,Nagpur WH,370,49,14,405,81,12432.96,29-04-2025
+SKU10927,Dell Docking Station,electronics,Prime Supplies,Bengaluru WH,172,174,27,319,62,31016.37,07-04-2024
+SKU10928,Logitech Keyboard,Electronics,TechNova Pvt Ltd,Delhi WH,370,228,592,6,35,15732.64,11-12-2025
+SKU10929,HP Monitor,Electronic,,Mumbai WH,83,65,15,133,76,5181.2,27-02-2024
+SKU10930,HP Scanner,Electronics,,Pune WH,336,26,150,212,68,43242.68,06-11-2025
+SKU10931,APC UPS,IT Equipment,Prime Supplies,Nagpur WH,369,5,232,142,69,32580.98,22-11-2025
+SKU10932,Office Chair,Office Supplies,Vertex Solutions,Mumbai WH,450,13,464,-1,86,5224.21,01-09-2025
+SKU10933,Office Desk,electronics,Apex Distributors,Nagpur WH,415,34,303,146,44,21108.25,27-09-2025
+SKU10934,HP Monitor,Electronics,Global Traders,Nagpur WH,277,95,124,248,37,29267.66,09-06-2025
+SKU10935,Blue Yeti Microphone,electronics,Global Traders,Delhi WH,383,183,318,248,94,15502.85,17-12-2024
+SKU10936,Office Desk,office supplies,Global Traders,Mumbai WH,199,188,4,383,86,11945.63,26-07-2025
+SKU10937,JBL Headset,electronics,Vertex Solutions,Mumbai WH,489,27,432,84,64,17143.44,14-11-2025
+SKU10938,Office Desk,Electronic,Apex Distributors,Delhi WH,293,239,339,193,94,16498.09,17-04-2024
+SKU10939,Dell Laptop,office supplies,Vertex Solutions,Pune WH,282,21,253,50,48,23380.18,06-08-2024
+SKU10940,HP Scanner,electronics,,Pune WH,172,246,376,42,62,41321.61,07-01-2024
+SKU10941,Dell Laptop,Office Supplies,Prime Supplies,Pune WH,235,5,37,203,65,14599.75,18-07-2024
+SKU10942,Dell Laptop,electronics,Vertex Solutions,Nagpur WH,373,299,368,304,25,8789.92,25-09-2024
+SKU10943,Samsung SSD,electronics,Vertex Solutions,Mumbai WH,418,89,347,160,90,8886.26,25-09-2024
+SKU10944,Dell Mouse,Electronic,Vertex Solutions,Nagpur WH,101,10,35,76,68,22864.56,13-01-2025
+SKU10945,Dell Docking Station,Office Supplies,,Mumbai WH,464,190,676,-22,41,6012.82,13-05-2024
+SKU10946,HP Scanner,office supplies,NextGen Systems,Nagpur WH,456,97,196,357,88,30017.5,13-10-2025
+SKU10947,Office Desk,electronics,Apex Distributors,Pune WH,175,23,195,3,98,16451.26,24-02-2024
+SKU10948,Office Desk,IT Equipment,Vertex Solutions,Mumbai WH,372,143,129,386,85,39254.79,10-11-2025
+SKU10949,HP Scanner,office supplies,NextGen Systems,Delhi WH,364,33,85,312,85,25992.73,02-07-2024
+SKU10950,Cisco Switch,office supplies,,Delhi WH,214,191,269,136,,13489.94,14-02-2025
+SKU10951,JBL Headset,electronics,Vertex Solutions,Delhi WH,376,298,665,9,24,43172.1,09-02-2025
+SKU10952,Office Desk,electronics,NextGen Systems,Nagpur WH,161,156,217,100,68,27572.54,17-05-2024
+SKU10953,Dell Docking Station,Electronic,Vertex Solutions,Bengaluru WH,434,43,302,175,76,2153.03,08-06-2025
+SKU10954,APC UPS,IT Equipment,,Nagpur WH,368,172,436,104,77,40244.77,20-11-2024
+SKU10955,APC UPS,electronics,Apex Distributors,Mumbai WH,189,195,12,372,42,18018.74,25-03-2024
+SKU10956,Logitech Keyboard,Electronic,Vertex Solutions,Mumbai WH,200,256,262,194,89,6017.54,03-01-2025
+SKU10957,JBL Headset,office supplies,NextGen Systems,Nagpur WH,69,279,102,246,62,15205.51,30-11-2025
+SKU10958,Canon Printer,office supplies,Apex Distributors,Mumbai WH,482,140,195,427,97,38526.8,15-10-2024
+SKU10959,Office Desk,office supplies,TechNova Pvt Ltd,Delhi WH,471,177,413,235,71,32739.14,01-06-2024
+SKU10959,JBL Headset,IT Equipment,Vertex Solutions,Bengaluru WH,493,203,233,463,49,29391.48,19-07-2025
+SKU10961,Logitech Keyboard,Electronic,Vertex Solutions,Delhi WH,437,239,472,204,63,38529.54,15-12-2025
+SKU10962,Blue Yeti Microphone,Electronics,NextGen Systems,Pune WH,263,107,224,146,77,28917.67,11-05-2024
+SKU10963,Office Chair,electronics,,Delhi WH,206,4,255,-45,65,34319.56,17-02-2025
+SKU10964,Office Desk,Electronics,TechNova Pvt Ltd,Pune WH,440,275,306,409,61,7769.19,04-12-2024
+SKU10965,JBL Headset,IT Equipment,Prime Supplies,Bengaluru WH,340,293,400,233,68,19383.05,01-05-2025
+SKU10966,Logitech Webcam,Electronics,Global Traders,Mumbai WH,105,168,291,-18,77,33776.79,30-06-2024
+SKU10967,JBL Headset,Electronics,,Nagpur WH,66,250,13,303,43,10374.03,25-10-2024
+SKU10968,HP Monitor,Electronic,TechNova Pvt Ltd,Pune WH,387,268,71,584,78,16405.93,24-02-2025
+SKU10969,Blue Yeti Microphone,IT Equipment,,Mumbai WH,250,80,56,274,36,19510.75,30-07-2024
+SKU10970,Cisco Switch,electronics,Apex Distributors,Bengaluru WH,116,105,158,63,75,10228.34,02-12-2025
+SKU10971,Canon Printer,IT Equipment,Prime Supplies,Delhi WH,284,141,103,322,20,30281.95,09-09-2024
+SKU10972,APC UPS,Office Supplies,TechNova Pvt Ltd,Mumbai WH,319,168,502,-15,78,14466.8,12-04-2025
+SKU10973,TP-Link Router,IT Equipment,Vertex Solutions,Pune WH,227,152,200,179,98,45008.23,18-03-2025
+SKU10974,Dell Mouse,IT Equipment,TechNova Pvt Ltd,Pune WH,284,196,187,293,92,44288.54,10-06-2024
+SKU10975,JBL Headset,IT Equipment,,Bengaluru WH,-190,275,298,-213,28,6149.41,12-01-2025
+SKU10976,Lenovo Tablet,IT Equipment,Global Traders,Nagpur WH,89,53,129,13,61,10447.87,15-02-2024
+SKU10977,HP Scanner,Electronic,,Pune WH,286,13,37,262,79,19894.05,11-01-2024
+SKU10978,APC UPS,IT Equipment,,Mumbai WH,178,58,69,167,61,4219.18,03-11-2025
+SKU10979,Seagate Hard Drive,electronics,Global Traders,Mumbai WH,174,224,71,327,80,30388.73,30-06-2024
+SKU10980,TP-Link Router,Electronics,TechNova Pvt Ltd,Nagpur WH,200,63,273,-10,70,7759.47,01-01-2025
+SKU10981,JBL Headset,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,141,110,17,234,88,32086.51,06-11-2025
+SKU10982,HP Monitor,Office Supplies,TechNova Pvt Ltd,Mumbai WH,102,199,157,144,76,38643.24,25-07-2024
+SKU10983,Logitech Keyboard,Electronics,,Mumbai WH,177,191,122,246,45,49465.6,11-12-2024
+SKU10984,Dell Mouse,office supplies,Global Traders,Pune WH,470,98,64,504,48,2296.22,08-06-2025
+SKU10985,JBL Headset,Office Supplies,Vertex Solutions,Bengaluru WH,105,167,165,107,91,19813.69,14-03-2025
+SKU10986,Epson Projector,Electronic,Global Traders,Mumbai WH,111,118,109,120,33,20166.76,19-11-2024
+SKU10987,Samsung SSD,Electronics,Apex Distributors,Bengaluru WH,56,199,108,147,78,18512.1,09-03-2024
+SKU10988,Cisco Switch,Electronics,Global Traders,Nagpur WH,161,210,154,217,96,47955.83,06-09-2025
+SKU10989,Office Chair,electronics,NextGen Systems,Delhi WH,216,198,347,67,37,3468.92,19-01-2024
+SKU10990,Dell Docking Station,office supplies,Vertex Solutions,Bengaluru WH,361,299,459,201,68,29414.68,14-01-2024
+SKU10991,Logitech Webcam,electronics,,Pune WH,169,10,157,22,35,31026.33,02-03-2024
+SKU10992,JBL Headset,electronics,,Pune WH,120,191,255,56,57,32137.74,31-08-2024
+SKU10993,Seagate Hard Drive,Electronic,TechNova Pvt Ltd,Bengaluru WH,421,227,336,312,37,39609.81,28-02-2025
+SKU10994,Office Chair,Electronic,Vertex Solutions,Pune WH,381,147,24,504,49,27011.66,11-11-2025
+SKU10995,Dell Docking Station,Electronic,Global Traders,Delhi WH,177,113,311,-21,68,31526.15,07-03-2024
+SKU10996,HP Monitor,office supplies,Global Traders,Pune WH,495,251,71,675,44,6365.49,26-06-2024
+SKU10997,Dell Docking Station,Electronics,,Delhi WH,353,281,209,425,50,15642.0,21-07-2024
+SKU10998,Samsung SSD,Electronic,Apex Distributors,Bengaluru WH,175,217,90,302,97,22468.73,12-10-2025
+SKU10999,Epson Projector,IT Equipment,,Pune WH,153,139,246,46,30,23588.6,08-03-2025
+SKU11000,Cisco Switch,Electronics,,Delhi WH,308,221,159,370,,42716.71,03-11-2024
+SKU11001,TP-Link Router,Electronic,,Delhi WH,354,275,156,473,90,15361.78,17-10-2024
+SKU11002,Office Chair,electronics,,Pune WH,242,287,492,37,29,7820.75,13-07-2024
+SKU11003,Cisco Switch,IT Equipment,,Delhi WH,52,6,64,-6,67,48527.58,17-01-2025
+SKU11004,Logitech Keyboard,IT Equipment,TechNova Pvt Ltd,Mumbai WH,246,250,315,181,95,19302.82,02-08-2025
+SKU11005,Epson Projector,Office Supplies,,Nagpur WH,133,99,223,9,52,34853.13,28-10-2025
+SKU11006,Cisco Switch,Electronics,NextGen Systems,Mumbai WH,247,217,252,212,51,34903.82,22-10-2025
+SKU11007,Seagate Hard Drive,electronics,Global Traders,Mumbai WH,125,133,233,25,38,5924.86,04-04-2024
+SKU11008,Logitech Keyboard,Office Supplies,Vertex Solutions,Delhi WH,379,196,407,168,95,8374.6,13-03-2025
+SKU11009,HP Scanner,Office Supplies,Apex Distributors,Delhi WH,179,154,256,77,88,37647.87,01-04-2024
+SKU11010,Canon Printer,Electronic,Vertex Solutions,Delhi WH,105,293,397,1,64,34980.55,07-01-2024
+SKU11011,Logitech Keyboard,office supplies,,Bengaluru WH,136,251,0,387,32,20900.43,22-10-2024
+SKU11012,Epson Projector,electronics,Global Traders,Pune WH,425,220,174,471,42,24374.92,29-05-2025
+SKU11013,TP-Link Router,electronics,TechNova Pvt Ltd,Pune WH,106,230,290,46,47,40478.01,15-07-2024
+SKU11014,LG LED Screen,Electronics,Global Traders,Mumbai WH,182,209,225,166,100,14726.97,21-01-2025
+SKU11015,Dell Laptop,Office Supplies,Vertex Solutions,Delhi WH,113,141,32,222,63,24311.2,13-04-2024
+SKU11016,Office Desk,Electronics,Prime Supplies,Pune WH,54,31,68,17,20,26164.49,08-01-2024
+SKU11017,Cisco Switch,Electronic,,Nagpur WH,242,266,272,236,82,18602.18,17-12-2024
+SKU11018,HP Scanner,Office Supplies,TechNova Pvt Ltd,Nagpur WH,211,122,184,149,71,43666.56,12-04-2024
+SKU11019,Dell Laptop,Office Supplies,Prime Supplies,Bengaluru WH,51,233,205,79,37,14045.43,17-12-2025
+SKU11019,LG LED Screen,office supplies,,Bengaluru WH,434,127,377,184,77,20715.02,11-07-2024
+SKU11021,HP Monitor,office supplies,NextGen Systems,Delhi WH,51,164,8,207,66,11754.58,11-05-2025
+SKU11022,Cisco Switch,office supplies,Prime Supplies,Delhi WH,254,41,178,117,74,14763.76,18-07-2024
+SKU11023,Dell Docking Station,Electronics,Global Traders,Delhi WH,414,73,532,-45,93,39861.36,04-11-2024
+SKU11024,APC UPS,Electronics,,Bengaluru WH,476,280,478,278,41,12120.99,04-08-2024
+SKU11025,Dell Laptop,electronics,NextGen Systems,Delhi WH,137,45,27,155,75,38338.81,13-08-2024
+SKU11026,Canon Printer,Office Supplies,,Mumbai WH,418,131,487,62,35,39797.47,06-12-2024
+SKU11027,Logitech Keyboard,office supplies,NextGen Systems,Delhi WH,496,114,589,21,96,45517.34,25-01-2025
+SKU11028,Samsung SSD,Electronic,Prime Supplies,Nagpur WH,384,287,447,224,49,4475.25,01-04-2024
+SKU11029,Epson Projector,electronics,NextGen Systems,Delhi WH,224,96,59,261,93,28888.15,02-01-2024
+SKU11030,HP Scanner,IT Equipment,NextGen Systems,Nagpur WH,209,31,274,-34,44,39896.16,09-05-2024
+SKU11031,Dell Laptop,Office Supplies,,Nagpur WH,316,113,54,375,70,7320.57,30-10-2024
+SKU11032,Canon Printer,Office Supplies,Apex Distributors,Pune WH,478,112,511,79,78,37378.29,20-12-2025
+SKU11033,Dell Mouse,Electronic,,Pune WH,67,163,158,72,84,24801.77,22-12-2025
+SKU11034,JBL Headset,office supplies,Vertex Solutions,Mumbai WH,242,30,170,102,39,46165.58,02-07-2024
+SKU11035,Logitech Webcam,office supplies,Global Traders,Mumbai WH,488,249,744,-7,70,27442.35,11-12-2024
+SKU11036,HP Scanner,Electronics,Apex Distributors,Nagpur WH,266,242,356,152,70,34849.18,18-07-2024
+SKU11037,Canon Printer,Electronic,TechNova Pvt Ltd,Nagpur WH,408,280,403,285,32,22930.87,16-06-2024
+SKU11038,Logitech Webcam,electronics,Vertex Solutions,Pune WH,345,70,226,189,81,40237.49,19-07-2024
+SKU11039,Dell Mouse,office supplies,Global Traders,Delhi WH,426,4,185,245,93,47524.87,13-03-2025
+SKU11040,Epson Projector,IT Equipment,Global Traders,Mumbai WH,397,86,57,426,32,5955.61,11-06-2025
+SKU11041,HP Scanner,electronics,TechNova Pvt Ltd,Mumbai WH,382,173,444,111,39,12118.69,15-05-2025
+SKU11042,Logitech Keyboard,IT Equipment,,Nagpur WH,204,88,334,-42,68,31653.44,31-03-2025
+SKU11043,Logitech Keyboard,Electronics,,Bengaluru WH,238,5,61,182,34,11324.26,23-08-2025
+SKU11044,Dell Mouse,Office Supplies,Global Traders,Delhi WH,343,293,491,145,55,24261.15,22-10-2025
+SKU11045,Canon Printer,Electronics,NextGen Systems,Mumbai WH,409,222,305,326,93,35717.03,04-07-2025
+SKU11046,HP Scanner,Office Supplies,,Mumbai WH,144,207,358,-7,22,25993.17,21-08-2025
+SKU11047,Dell Mouse,electronics,Global Traders,Mumbai WH,325,63,385,3,46,27780.62,17-11-2024
+SKU11048,JBL Headset,office supplies,Global Traders,Mumbai WH,112,20,32,100,93,28168.56,05-02-2024
+SKU11049,Epson Projector,Office Supplies,Global Traders,Delhi WH,93,63,129,27,58,48857.44,04-11-2025
+SKU11050,HP Monitor,Office Supplies,Apex Distributors,Bengaluru WH,-50,127,76,1,,22301.52,13-08-2025
+SKU11051,Blue Yeti Microphone,Office Supplies,Vertex Solutions,Mumbai WH,301,160,360,101,97,33164.59,15-02-2024
+SKU11052,Logitech Webcam,electronics,Global Traders,Bengaluru WH,171,18,48,141,38,27648.32,28-08-2025
+SKU11053,Lenovo Tablet,Electronics,Apex Distributors,Nagpur WH,233,142,65,310,99,19150.94,16-06-2024
+SKU11054,Lenovo Tablet,office supplies,Global Traders,Bengaluru WH,254,233,85,402,52,10267.77,06-10-2025
+SKU11055,Office Desk,office supplies,Global Traders,Delhi WH,425,137,197,365,67,41096.23,19-11-2024
+SKU11056,LG LED Screen,electronics,Prime Supplies,Nagpur WH,453,222,388,287,23,6318.6,22-04-2024
+SKU11057,Office Chair,office supplies,Prime Supplies,Nagpur WH,400,280,416,264,28,45471.34,06-10-2024
+SKU11058,Dell Mouse,IT Equipment,Vertex Solutions,Delhi WH,124,115,140,99,21,47593.96,06-05-2024
+SKU11059,Office Desk,IT Equipment,Prime Supplies,Bengaluru WH,139,269,372,36,59,17510.12,08-08-2025
+SKU11060,LG LED Screen,Electronics,TechNova Pvt Ltd,Pune WH,493,144,564,73,54,15968.02,02-02-2025
+SKU11061,Blue Yeti Microphone,Office Supplies,,Delhi WH,142,176,347,-29,88,29656.28,22-09-2024
+SKU11062,Canon Printer,electronics,,Bengaluru WH,54,262,365,-49,39,36797.58,24-02-2024
+SKU11063,Lenovo Tablet,office supplies,,Pune WH,421,189,255,355,97,22004.1,28-12-2024
+SKU11064,Seagate Hard Drive,IT Equipment,Vertex Solutions,Nagpur WH,458,239,514,183,56,31818.2,30-03-2024
+SKU11065,Logitech Keyboard,office supplies,Prime Supplies,Mumbai WH,206,208,394,20,60,36524.66,05-04-2024
+SKU11066,Logitech Webcam,Office Supplies,,Mumbai WH,134,294,29,399,30,48112.1,10-03-2025
+SKU11067,Cisco Switch,Office Supplies,Prime Supplies,Delhi WH,396,260,139,517,81,793.62,13-07-2024
+SKU11068,Epson Projector,electronics,TechNova Pvt Ltd,Bengaluru WH,475,3,435,43,88,22487.74,21-06-2024
+SKU11069,Logitech Keyboard,Electronic,Global Traders,Bengaluru WH,395,268,230,433,42,17729.25,22-02-2024
+SKU11070,Epson Projector,Electronics,NextGen Systems,Pune WH,266,253,388,131,41,41603.15,30-04-2024
+SKU11071,Seagate Hard Drive,electronics,TechNova Pvt Ltd,Bengaluru WH,198,153,247,104,57,19741.71,08-11-2024
+SKU11072,LG LED Screen,IT Equipment,TechNova Pvt Ltd,Nagpur WH,379,263,36,606,79,393.97,16-04-2025
+SKU11073,Dell Laptop,Electronic,Global Traders,Delhi WH,218,152,181,189,33,17791.16,13-04-2024
+SKU11074,Dell Docking Station,Office Supplies,Global Traders,Delhi WH,270,251,202,319,30,6279.75,14-05-2025
+SKU11075,Samsung SSD,IT Equipment,,Nagpur WH,53,79,168,-36,52,15034.32,14-03-2025
+SKU11076,Dell Mouse,IT Equipment,,Pune WH,143,274,415,2,54,7079.73,20-03-2025
+SKU11077,JBL Headset,Electronic,TechNova Pvt Ltd,Pune WH,52,183,101,134,34,19787.85,05-12-2024
+SKU11078,Cisco Switch,office supplies,Apex Distributors,Mumbai WH,66,82,170,-22,45,21112.66,17-07-2025
+SKU11079,Dell Docking Station,office supplies,,Pune WH,303,65,166,202,71,5575.67,20-04-2024
+SKU11079,Epson Projector,Office Supplies,TechNova Pvt Ltd,Pune WH,455,10,129,336,39,2696.79,16-12-2024
+SKU11081,Logitech Webcam,Electronic,,Mumbai WH,269,4,222,51,81,38068.9,10-09-2024
+SKU11082,TP-Link Router,electronics,Apex Distributors,Mumbai WH,366,78,373,71,85,43221.92,18-12-2025
+SKU11083,Dell Mouse,office supplies,Global Traders,Pune WH,176,219,101,294,80,49628.33,28-08-2025
+SKU11084,Canon Printer,IT Equipment,TechNova Pvt Ltd,Nagpur WH,372,76,117,331,35,49520.9,29-05-2024
+SKU11085,Logitech Keyboard,Electronics,,Delhi WH,268,9,315,-38,45,26296.06,17-12-2025
+SKU11086,Lenovo Tablet,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,374,118,227,265,63,21410.93,22-02-2024
+SKU11087,Seagate Hard Drive,Electronic,,Pune WH,205,56,137,124,66,16060.06,18-02-2024
+SKU11088,Office Chair,electronics,Apex Distributors,Delhi WH,143,20,0,163,26,14079.95,13-09-2025
+SKU11089,Cisco Switch,Electronic,NextGen Systems,Nagpur WH,101,220,94,227,52,5665.28,16-11-2025
+SKU11090,Epson Projector,office supplies,NextGen Systems,Bengaluru WH,56,282,66,272,62,26490.22,15-01-2025
+SKU11091,HP Scanner,Electronics,Prime Supplies,Pune WH,171,141,107,205,94,31514.98,08-09-2025
+SKU11092,JBL Headset,office supplies,,Mumbai WH,111,21,150,-18,44,3836.49,13-07-2025
+SKU11093,JBL Headset,Office Supplies,Global Traders,Mumbai WH,366,175,308,233,80,6478.81,04-03-2025
+SKU11094,Epson Projector,Electronic,,Mumbai WH,331,129,456,4,91,45551.37,10-03-2024
+SKU11095,Dell Laptop,electronics,Apex Distributors,Pune WH,297,214,536,-25,84,14553.85,02-08-2025
+SKU11096,Cisco Switch,office supplies,Prime Supplies,Pune WH,81,97,189,-11,70,21943.47,05-06-2025
+SKU11097,LG LED Screen,Electronic,Vertex Solutions,Pune WH,246,287,399,134,71,279.67,08-08-2025
+SKU11098,APC UPS,Office Supplies,Apex Distributors,Nagpur WH,161,4,202,-37,85,42638.51,30-10-2024
+SKU11099,TP-Link Router,electronics,TechNova Pvt Ltd,Bengaluru WH,412,137,565,-16,35,11987.02,10-02-2024
+SKU11100,Seagate Hard Drive,electronics,Apex Distributors,Mumbai WH,377,75,482,-30,,32156.41,11-09-2024
+SKU11101,Dell Laptop,office supplies,NextGen Systems,Bengaluru WH,471,107,547,31,34,48613.71,28-11-2024
+SKU11102,Lenovo Tablet,Office Supplies,Apex Distributors,Nagpur WH,92,281,135,238,37,49264.54,02-10-2025
+SKU11103,Seagate Hard Drive,electronics,Apex Distributors,Mumbai WH,467,5,364,108,48,26915.7,20-08-2025
+SKU11104,LG LED Screen,Office Supplies,Vertex Solutions,Delhi WH,104,195,334,-35,52,11109.89,02-10-2024
+SKU11105,Canon Printer,IT Equipment,Vertex Solutions,Delhi WH,154,297,322,129,70,18495.14,05-05-2025
+SKU11106,TP-Link Router,electronics,Vertex Solutions,Bengaluru WH,97,253,92,258,78,24576.87,03-07-2024
+SKU11107,TP-Link Router,electronics,,Bengaluru WH,381,144,21,504,59,9473.62,26-05-2024
+SKU11108,HP Scanner,Electronics,Global Traders,Mumbai WH,86,218,125,179,78,30204.35,21-01-2025
+SKU11109,HP Monitor,electronics,Vertex Solutions,Mumbai WH,246,10,56,200,21,13456.06,04-10-2025
+SKU11110,Dell Mouse,Office Supplies,NextGen Systems,Mumbai WH,357,6,405,-42,21,10195.85,06-05-2025
+SKU11111,Logitech Webcam,Electronic,,Pune WH,438,288,454,272,40,12266.06,10-07-2025
+SKU11112,Dell Laptop,Electronics,Prime Supplies,Bengaluru WH,404,136,556,-16,35,14907.25,07-06-2025
+SKU11113,Samsung SSD,Electronics,Vertex Solutions,Delhi WH,478,212,145,545,20,19330.61,27-12-2024
+SKU11114,Dell Mouse,IT Equipment,Global Traders,Mumbai WH,385,146,231,300,69,11303.67,15-10-2024
+SKU11115,Dell Mouse,Electronic,Prime Supplies,Mumbai WH,232,39,315,-44,62,30264.87,01-07-2024
+SKU11116,TP-Link Router,office supplies,,Pune WH,269,271,342,198,96,44666.57,04-12-2025
+SKU11117,Seagate Hard Drive,IT Equipment,NextGen Systems,Nagpur WH,204,146,178,172,33,40554.9,29-12-2025
+SKU11118,Canon Printer,Electronic,Global Traders,Delhi WH,458,39,2,495,39,22390.1,04-05-2025
+SKU11119,Lenovo Tablet,office supplies,Apex Distributors,Pune WH,467,34,115,386,93,4613.31,10-05-2024
+SKU11120,Cisco Switch,IT Equipment,,Delhi WH,143,197,180,160,60,30126.98,13-10-2025
+SKU11121,HP Scanner,IT Equipment,,Bengaluru WH,220,70,334,-44,51,26735.16,29-06-2025
+SKU11122,Office Desk,office supplies,,Bengaluru WH,324,117,196,245,30,28936.03,11-12-2025
+SKU11123,Epson Projector,Electronics,Vertex Solutions,Mumbai WH,465,112,89,488,50,18183.68,30-04-2025
+SKU11124,Epson Projector,electronics,Apex Distributors,Delhi WH,118,56,15,159,64,7292.6,18-07-2025
+SKU11125,HP Monitor,office supplies,Global Traders,Mumbai WH,-265,124,107,-248,48,48106.39,21-12-2025
+SKU11126,Epson Projector,Electronics,Prime Supplies,Bengaluru WH,123,193,13,303,74,3781.14,31-08-2025
+SKU11127,Epson Projector,electronics,Prime Supplies,Pune WH,495,80,30,545,38,3945.56,05-08-2025
+SKU11128,Cisco Switch,office supplies,Global Traders,Bengaluru WH,475,213,153,535,43,34958.34,02-11-2024
+SKU11129,Dell Laptop,Electronic,Prime Supplies,Pune WH,290,210,345,155,76,3094.04,19-10-2025
+SKU11130,Dell Laptop,IT Equipment,,Delhi WH,66,88,128,26,40,27752.38,21-09-2024
+SKU11131,Lenovo Tablet,electronics,Apex Distributors,Mumbai WH,342,256,313,285,49,26122.9,08-05-2024
+SKU11132,HP Monitor,electronics,,Pune WH,430,108,410,128,99,41143.0,26-07-2025
+SKU11133,Cisco Switch,Electronic,,Delhi WH,359,39,418,-20,79,8324.74,15-01-2025
+SKU11134,Dell Mouse,Electronics,Prime Supplies,Nagpur WH,381,217,199,399,54,30199.19,09-12-2024
+SKU11135,Blue Yeti Microphone,Electronics,Prime Supplies,Pune WH,64,122,72,114,40,29895.83,12-11-2024
+SKU11136,Samsung SSD,Electronic,Prime Supplies,Bengaluru WH,146,282,103,325,24,28283.36,31-07-2025
+SKU11137,Office Chair,Electronics,Apex Distributors,Mumbai WH,454,247,46,655,26,49029.03,16-10-2024
+SKU11138,HP Scanner,office supplies,NextGen Systems,Pune WH,253,256,199,310,60,35162.57,09-04-2024
+SKU11139,Dell Mouse,Office Supplies,Global Traders,Mumbai WH,219,208,459,-32,84,29400.06,26-01-2025
+SKU11139,TP-Link Router,electronics,,Mumbai WH,294,300,38,556,57,44271.67,05-04-2024
+SKU11141,TP-Link Router,Office Supplies,NextGen Systems,Delhi WH,417,118,220,315,38,39289.06,13-12-2024
+SKU11142,HP Monitor,office supplies,,Pune WH,198,184,319,63,75,10520.15,17-09-2025
+SKU11143,Cisco Switch,Electronics,TechNova Pvt Ltd,Pune WH,360,38,78,320,92,38339.23,12-11-2024
+SKU11144,APC UPS,Electronic,Global Traders,Nagpur WH,330,44,255,119,32,8157.48,13-10-2024
+SKU11145,Logitech Keyboard,electronics,,Nagpur WH,345,186,361,170,31,49308.55,19-09-2024
+SKU11146,Dell Mouse,Office Supplies,,Mumbai WH,440,226,665,1,37,18237.26,20-10-2024
+SKU11147,Epson Projector,Office Supplies,NextGen Systems,Nagpur WH,255,209,132,332,76,4266.18,27-02-2025
+SKU11148,LG LED Screen,office supplies,TechNova Pvt Ltd,Pune WH,309,230,269,270,25,35017.29,28-07-2025
+SKU11149,HP Scanner,electronics,,Mumbai WH,54,79,26,107,57,11230.26,18-04-2025
+SKU11150,APC UPS,IT Equipment,,Mumbai WH,392,47,178,261,,4382.55,20-04-2024
+SKU11151,Office Chair,Electronics,NextGen Systems,Nagpur WH,253,221,204,270,71,49822.27,12-05-2025
+SKU11152,APC UPS,Electronics,Global Traders,Delhi WH,158,243,58,343,55,7361.14,06-08-2024
+SKU11153,HP Scanner,Electronics,NextGen Systems,Delhi WH,213,290,32,471,96,48930.19,06-08-2024
+SKU11154,Lenovo Tablet,Electronic,Apex Distributors,Pune WH,77,108,222,-37,22,4271.21,11-03-2024
+SKU11155,APC UPS,IT Equipment,Vertex Solutions,Nagpur WH,190,207,41,356,58,9285.51,25-02-2024
+SKU11156,TP-Link Router,electronics,NextGen Systems,Delhi WH,97,219,175,141,58,24133.1,02-07-2025
+SKU11157,Office Desk,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,402,82,447,37,65,39175.31,03-09-2025
+SKU11158,LG LED Screen,electronics,NextGen Systems,Nagpur WH,151,39,185,5,94,807.92,14-04-2025
+SKU11159,Lenovo Tablet,Electronic,TechNova Pvt Ltd,Delhi WH,125,255,162,218,34,47171.85,08-05-2024
+SKU11160,Dell Mouse,Electronics,Vertex Solutions,Pune WH,374,230,654,-50,94,21066.79,13-07-2025
+SKU11161,Epson Projector,electronics,Vertex Solutions,Bengaluru WH,446,85,386,145,47,47759.71,14-01-2025
+SKU11162,Logitech Webcam,Office Supplies,Prime Supplies,Delhi WH,466,186,16,636,58,32480.69,11-04-2025
+SKU11163,Blue Yeti Microphone,IT Equipment,NextGen Systems,Mumbai WH,261,210,360,111,65,46324.81,14-04-2025
+SKU11164,LG LED Screen,electronics,,Delhi WH,269,191,90,370,90,14322.89,06-11-2025
+SKU11165,LG LED Screen,Electronics,Prime Supplies,Mumbai WH,402,223,649,-24,56,4572.93,17-01-2024
+SKU11166,LG LED Screen,Office Supplies,Prime Supplies,Delhi WH,365,210,106,469,83,25217.74,03-02-2024
+SKU11167,Samsung SSD,IT Equipment,,Mumbai WH,391,148,430,109,47,9858.46,25-04-2025
+SKU11168,HP Scanner,Electronics,NextGen Systems,Pune WH,113,179,237,55,72,25427.28,01-10-2024
+SKU11169,Samsung SSD,Electronics,,Mumbai WH,500,135,314,321,73,874.95,06-06-2024
+SKU11170,Office Chair,Electronic,Global Traders,Bengaluru WH,454,191,531,114,96,49642.17,04-09-2024
+SKU11171,HP Scanner,Electronics,,Pune WH,334,200,197,337,98,46975.65,03-02-2025
+SKU11172,Dell Docking Station,electronics,,Pune WH,422,88,412,98,60,5068.94,09-05-2024
+SKU11173,HP Scanner,office supplies,Apex Distributors,Bengaluru WH,308,60,323,45,93,8036.75,26-11-2024
+SKU11174,Lenovo Tablet,Electronics,Global Traders,Mumbai WH,154,47,23,178,23,30943.17,10-07-2025
+SKU11175,Canon Printer,IT Equipment,NextGen Systems,Pune WH,90,292,195,187,23,12062.12,15-08-2024
+SKU11176,HP Scanner,Electronic,TechNova Pvt Ltd,Nagpur WH,202,99,274,27,51,4239.87,27-05-2024
+SKU11177,Dell Mouse,Electronics,,Bengaluru WH,371,11,326,56,94,6221.95,25-05-2024
+SKU11178,Logitech Keyboard,IT Equipment,NextGen Systems,Pune WH,194,134,92,236,31,19600.93,17-05-2025
+SKU11179,Cisco Switch,office supplies,Prime Supplies,Pune WH,457,11,423,45,29,34398.09,19-01-2025
+SKU11180,TP-Link Router,Electronic,TechNova Pvt Ltd,Pune WH,210,230,413,27,40,33017.35,08-10-2025
+SKU11181,Epson Projector,IT Equipment,TechNova Pvt Ltd,Pune WH,360,16,60,316,63,26135.25,17-09-2024
+SKU11182,Dell Laptop,Office Supplies,Global Traders,Pune WH,112,98,15,195,88,43357.03,27-04-2024
+SKU11183,Samsung SSD,Electronics,Global Traders,Nagpur WH,161,15,83,93,37,13755.96,23-07-2024
+SKU11184,APC UPS,office supplies,,Delhi WH,97,178,282,-7,57,25681.56,13-02-2025
+SKU11185,Seagate Hard Drive,IT Equipment,Prime Supplies,Bengaluru WH,148,128,88,188,45,39678.35,24-08-2025
+SKU11186,Lenovo Tablet,IT Equipment,,Bengaluru WH,209,84,105,188,82,37379.26,22-11-2024
+SKU11187,Lenovo Tablet,electronics,NextGen Systems,Nagpur WH,368,55,310,113,69,44904.94,06-03-2024
+SKU11188,Seagate Hard Drive,Office Supplies,,Nagpur WH,280,85,17,348,85,30233.72,22-10-2025
+SKU11189,Dell Mouse,electronics,NextGen Systems,Delhi WH,321,180,407,94,23,39565.73,01-01-2025
+SKU11190,Epson Projector,electronics,NextGen Systems,Mumbai WH,175,37,110,102,67,580.69,05-12-2025
+SKU11191,Office Desk,Electronic,Vertex Solutions,Bengaluru WH,55,168,109,114,79,3405.13,17-10-2024
+SKU11192,Blue Yeti Microphone,Electronic,Prime Supplies,Bengaluru WH,358,108,222,244,33,44643.93,07-03-2025
+SKU11193,JBL Headset,electronics,TechNova Pvt Ltd,Delhi WH,399,222,325,296,60,24982.68,08-10-2024
+SKU11194,TP-Link Router,Office Supplies,NextGen Systems,Bengaluru WH,265,61,63,263,77,19204.59,13-08-2025
+SKU11195,Dell Laptop,IT Equipment,Apex Distributors,Pune WH,60,145,9,196,93,42097.98,16-02-2025
+SKU11196,Office Chair,office supplies,TechNova Pvt Ltd,Mumbai WH,68,273,270,71,25,23547.68,01-03-2025
+SKU11197,Epson Projector,IT Equipment,Prime Supplies,Bengaluru WH,420,154,281,293,60,38753.21,20-05-2025
+SKU11198,APC UPS,IT Equipment,Prime Supplies,Nagpur WH,363,24,201,186,58,46891.42,15-04-2024
+SKU11199,Canon Printer,Electronics,NextGen Systems,Delhi WH,64,114,12,166,21,11394.43,31-03-2024
+SKU11199,Dell Laptop,office supplies,TechNova Pvt Ltd,Nagpur WH,-147,188,275,-234,,44177.64,14-02-2024
+SKU11201,Seagate Hard Drive,Electronic,,Nagpur WH,106,24,77,53,29,34963.38,21-05-2024
+SKU11202,Office Chair,electronics,,Delhi WH,348,235,122,461,36,33444.94,18-06-2025
+SKU11203,Cisco Switch,Electronic,NextGen Systems,Delhi WH,320,123,295,148,81,11368.94,27-09-2024
+SKU11204,Blue Yeti Microphone,electronics,Vertex Solutions,Mumbai WH,442,151,84,509,65,3849.71,21-05-2025
+SKU11205,APC UPS,IT Equipment,Vertex Solutions,Delhi WH,80,108,3,185,47,5316.28,01-08-2024
+SKU11206,Logitech Webcam,office supplies,,Pune WH,466,270,526,210,60,42405.57,18-04-2024
+SKU11207,APC UPS,Office Supplies,Vertex Solutions,Delhi WH,116,112,186,42,69,9478.88,11-10-2024
+SKU11208,Office Desk,office supplies,Prime Supplies,Pune WH,266,84,351,-1,59,23101.61,19-04-2024
+SKU11209,APC UPS,electronics,Apex Distributors,Mumbai WH,431,56,246,241,22,23864.4,27-06-2025
+SKU11210,Blue Yeti Microphone,Electronics,NextGen Systems,Delhi WH,281,180,271,190,35,10682.09,10-02-2025
+SKU11211,HP Monitor,IT Equipment,Apex Distributors,Nagpur WH,307,220,520,7,62,4980.85,26-10-2025
+SKU11212,JBL Headset,IT Equipment,Global Traders,Bengaluru WH,245,216,198,263,57,13868.69,14-09-2025
+SKU11213,HP Monitor,office supplies,Vertex Solutions,Mumbai WH,302,265,443,124,33,11057.03,24-02-2024
+SKU11214,Logitech Keyboard,Office Supplies,Prime Supplies,Nagpur WH,68,294,136,226,50,11400.6,27-09-2025
+SKU11215,Dell Mouse,electronics,Apex Distributors,Delhi WH,408,207,401,214,70,10364.7,27-07-2024
+SKU11216,Logitech Webcam,office supplies,TechNova Pvt Ltd,Mumbai WH,227,147,361,13,96,9335.43,18-12-2025
+SKU11217,TP-Link Router,Electronic,Prime Supplies,Pune WH,368,244,312,300,50,9448.49,11-04-2025
+SKU11218,Lenovo Tablet,Electronic,TechNova Pvt Ltd,Pune WH,122,6,170,-42,80,48721.11,19-03-2024
+SKU11219,Cisco Switch,Office Supplies,TechNova Pvt Ltd,Delhi WH,137,4,152,-11,65,43673.61,28-04-2025
+SKU11220,Logitech Webcam,electronics,Global Traders,Pune WH,106,23,4,125,92,38785.3,12-04-2024
+SKU11221,Epson Projector,Office Supplies,Apex Distributors,Delhi WH,205,171,231,145,82,12751.49,14-04-2025
+SKU11222,Dell Docking Station,office supplies,,Mumbai WH,56,180,154,82,62,13569.88,15-06-2025
+SKU11223,Samsung SSD,office supplies,Global Traders,Nagpur WH,422,10,75,357,72,24941.83,07-09-2024
+SKU11224,Logitech Keyboard,electronics,,Mumbai WH,345,220,368,197,46,48276.11,03-10-2025
+SKU11225,TP-Link Router,Electronic,NextGen Systems,Nagpur WH,397,278,460,215,87,19612.21,03-03-2025
+SKU11226,Office Desk,Office Supplies,NextGen Systems,Bengaluru WH,191,158,97,252,25,6235.77,10-04-2025
+SKU11227,Dell Laptop,IT Equipment,Global Traders,Delhi WH,340,177,295,222,34,34078.06,19-06-2025
+SKU11228,Cisco Switch,Electronic,Prime Supplies,Nagpur WH,198,285,166,317,58,878.06,11-02-2024
+SKU11229,HP Monitor,IT Equipment,Apex Distributors,Mumbai WH,161,144,303,2,35,21573.11,07-11-2025
+SKU11230,Canon Printer,Electronic,Apex Distributors,Bengaluru WH,477,0,51,426,52,33299.77,28-07-2025
+SKU11231,Canon Printer,office supplies,Vertex Solutions,Delhi WH,129,44,182,-9,54,29302.72,23-03-2024
+SKU11232,Epson Projector,electronics,,Delhi WH,198,112,16,294,80,20015.77,10-04-2024
+SKU11233,TP-Link Router,Office Supplies,,Nagpur WH,183,154,305,32,59,40238.57,22-05-2024
+SKU11234,Lenovo Tablet,Office Supplies,Vertex Solutions,Nagpur WH,399,102,256,245,37,15319.31,31-10-2024
+SKU11235,HP Scanner,IT Equipment,Prime Supplies,Pune WH,340,236,558,18,43,26375.91,11-12-2025
+SKU11236,Epson Projector,IT Equipment,,Delhi WH,210,257,366,101,79,48076.2,17-04-2025
+SKU11237,Logitech Keyboard,electronics,Apex Distributors,Pune WH,64,286,13,337,73,29058.09,17-01-2025
+SKU11238,HP Monitor,IT Equipment,Global Traders,Delhi WH,115,278,289,104,57,33536.95,18-04-2025
+SKU11239,Logitech Keyboard,Electronics,Apex Distributors,Mumbai WH,463,265,471,257,26,16740.82,09-04-2024
+SKU11240,Office Chair,Electronics,Prime Supplies,Bengaluru WH,470,148,579,39,81,33753.21,24-02-2024
+SKU11241,Blue Yeti Microphone,office supplies,,Pune WH,409,104,528,-15,38,11254.82,22-11-2025
+SKU11242,Logitech Webcam,office supplies,TechNova Pvt Ltd,Delhi WH,377,79,154,302,100,31220.83,24-07-2024
+SKU11243,LG LED Screen,Electronics,Prime Supplies,Pune WH,108,34,0,142,39,10294.25,30-04-2025
+SKU11244,HP Monitor,Electronics,Apex Distributors,Delhi WH,62,258,227,93,70,24237.6,07-07-2024
+SKU11245,LG LED Screen,office supplies,,Bengaluru WH,469,120,559,30,53,6247.51,29-05-2024
+SKU11246,Samsung SSD,electronics,Vertex Solutions,Delhi WH,375,11,94,292,38,24075.28,23-10-2024
+SKU11247,Cisco Switch,Electronic,Apex Distributors,Delhi WH,391,51,491,-49,95,19352.46,19-04-2024
+SKU11248,Dell Laptop,Electronic,,Mumbai WH,287,213,435,65,38,28254.03,12-01-2024
+SKU11249,APC UPS,Electronics,NextGen Systems,Pune WH,347,155,34,468,99,23448.56,14-04-2025
+SKU11250,Epson Projector,Office Supplies,Vertex Solutions,Nagpur WH,191,4,40,155,,45137.27,21-06-2025
+SKU11251,Canon Printer,Electronic,NextGen Systems,Delhi WH,249,262,64,447,42,35787.6,23-05-2024
+SKU11252,Cisco Switch,IT Equipment,,Bengaluru WH,192,155,201,146,28,32982.69,12-08-2025
+SKU11253,Seagate Hard Drive,electronics,NextGen Systems,Bengaluru WH,412,259,674,-3,87,47764.21,22-12-2024
+SKU11254,Dell Laptop,office supplies,Global Traders,Pune WH,349,206,69,486,25,4917.37,18-04-2024
+SKU11255,Samsung SSD,Electronics,Global Traders,Delhi WH,305,243,331,217,49,37815.11,06-03-2025
+SKU11256,Dell Mouse,Electronics,Prime Supplies,Delhi WH,82,31,156,-43,52,38191.26,13-09-2025
+SKU11257,Dell Mouse,office supplies,,Delhi WH,373,15,89,299,61,6747.51,14-10-2025
+SKU11258,Seagate Hard Drive,IT Equipment,,Nagpur WH,343,284,204,423,45,11352.28,14-06-2024
+SKU11259,Office Desk,Electronics,Prime Supplies,Pune WH,272,270,196,346,31,1758.64,23-05-2024
+SKU11259,Blue Yeti Microphone,Electronics,NextGen Systems,Pune WH,52,184,208,28,92,34149.82,19-10-2025
+SKU11261,Office Desk,IT Equipment,NextGen Systems,Nagpur WH,320,254,194,380,46,30962.1,26-07-2025
+SKU11262,Lenovo Tablet,office supplies,,Mumbai WH,486,70,68,488,76,28500.71,10-05-2024
+SKU11263,Dell Mouse,IT Equipment,Vertex Solutions,Mumbai WH,450,264,305,409,32,30114.33,04-12-2024
+SKU11264,Seagate Hard Drive,IT Equipment,NextGen Systems,Mumbai WH,61,114,210,-35,57,43634.88,10-06-2024
+SKU11265,Samsung SSD,Office Supplies,Apex Distributors,Delhi WH,197,38,273,-38,93,30970.38,13-07-2025
+SKU11266,Dell Laptop,Electronics,NextGen Systems,Delhi WH,407,56,482,-19,53,13117.97,08-12-2024
+SKU11267,Blue Yeti Microphone,office supplies,NextGen Systems,Mumbai WH,441,30,142,329,46,11857.3,15-03-2024
+SKU11268,Epson Projector,Electronics,,Bengaluru WH,462,288,624,126,24,36990.54,23-03-2024
+SKU11269,HP Monitor,Electronics,TechNova Pvt Ltd,Delhi WH,332,245,132,445,54,25429.45,27-10-2025
+SKU11270,Samsung SSD,Electronics,TechNova Pvt Ltd,Mumbai WH,229,220,244,205,58,38703.3,19-07-2024
+SKU11271,Cisco Switch,Electronics,,Delhi WH,323,194,18,499,90,34802.48,16-03-2025
+SKU11272,Dell Mouse,IT Equipment,Prime Supplies,Bengaluru WH,409,218,562,65,37,49128.47,11-01-2025
+SKU11273,HP Monitor,electronics,Vertex Solutions,Mumbai WH,230,99,175,154,75,29472.01,20-08-2024
+SKU11274,Dell Laptop,office supplies,Vertex Solutions,Mumbai WH,261,274,581,-46,25,3922.92,09-05-2024
+SKU11275,Office Chair,Electronic,Vertex Solutions,Nagpur WH,-274,92,144,-326,25,6572.84,11-02-2025
+SKU11276,Logitech Keyboard,Electronic,Vertex Solutions,Delhi WH,295,62,336,21,29,35292.23,31-12-2024
+SKU11277,Epson Projector,Office Supplies,Apex Distributors,Pune WH,489,112,454,147,58,26389.52,30-09-2024
+SKU11278,HP Monitor,Electronic,,Bengaluru WH,213,277,515,-25,33,24361.76,21-03-2024
+SKU11279,Logitech Webcam,office supplies,Vertex Solutions,Mumbai WH,154,70,266,-42,49,18682.26,25-05-2024
+SKU11280,APC UPS,Electronics,TechNova Pvt Ltd,Delhi WH,68,120,178,10,76,41832.63,03-10-2024
+SKU11281,HP Monitor,Electronic,,Delhi WH,192,196,153,235,30,1040.54,26-01-2025
+SKU11282,JBL Headset,IT Equipment,Global Traders,Delhi WH,246,227,45,428,48,26671.35,07-11-2025
+SKU11283,LG LED Screen,Electronic,Apex Distributors,Bengaluru WH,206,16,178,44,23,10905.55,29-01-2024
+SKU11284,HP Monitor,Electronics,,Nagpur WH,224,222,443,3,74,42939.85,01-07-2025
+SKU11285,TP-Link Router,IT Equipment,,Pune WH,287,217,531,-27,53,6680.45,16-01-2024
+SKU11286,Blue Yeti Microphone,Electronic,NextGen Systems,Bengaluru WH,193,140,43,290,51,19790.6,22-09-2025
+SKU11287,LG LED Screen,Electronics,Prime Supplies,Nagpur WH,190,185,137,238,52,28465.21,24-11-2024
+SKU11288,APC UPS,Electronics,,Mumbai WH,478,135,183,430,76,23375.33,02-01-2025
+SKU11289,HP Monitor,Office Supplies,Prime Supplies,Nagpur WH,295,284,223,356,72,44862.51,18-07-2025
+SKU11290,Seagate Hard Drive,Electronic,Apex Distributors,Delhi WH,210,32,225,17,43,6448.4,07-10-2025
+SKU11291,Dell Mouse,office supplies,TechNova Pvt Ltd,Pune WH,139,75,25,189,49,34253.63,26-03-2025
+SKU11292,Samsung SSD,Electronics,Apex Distributors,Nagpur WH,346,162,42,466,90,904.3,27-12-2024
+SKU11293,Epson Projector,Electronics,Prime Supplies,Bengaluru WH,326,22,307,41,50,22246.25,07-06-2025
+SKU11294,Office Desk,Electronic,,Mumbai WH,89,121,104,106,61,32130.16,16-10-2024
+SKU11295,Epson Projector,Electronic,,Nagpur WH,123,12,83,52,97,23587.18,28-10-2024
+SKU11296,HP Monitor,Electronic,Global Traders,Bengaluru WH,368,15,82,301,67,1374.21,15-09-2025
+SKU11297,Office Desk,office supplies,NextGen Systems,Pune WH,158,160,261,57,85,19004.1,19-08-2025
+SKU11298,Logitech Keyboard,electronics,,Bengaluru WH,66,76,97,45,30,36678.98,24-06-2025
+SKU11299,Dell Docking Station,IT Equipment,NextGen Systems,Nagpur WH,458,26,483,1,87,9831.68,12-08-2025
+SKU11300,Samsung SSD,Electronic,Vertex Solutions,Delhi WH,200,124,168,156,,15809.34,28-04-2024
+SKU11301,Epson Projector,Electronics,NextGen Systems,Bengaluru WH,404,123,455,72,72,25331.61,05-01-2025
+SKU11302,APC UPS,IT Equipment,Vertex Solutions,Bengaluru WH,384,247,619,12,49,41408.27,08-05-2024
+SKU11303,Office Desk,office supplies,Global Traders,Bengaluru WH,325,125,397,53,72,13087.92,20-10-2024
+SKU11304,Lenovo Tablet,IT Equipment,Global Traders,Bengaluru WH,224,160,60,324,30,24760.59,21-07-2024
+SKU11305,Dell Mouse,IT Equipment,Apex Distributors,Bengaluru WH,142,232,7,367,41,35597.96,26-04-2025
+SKU11306,Lenovo Tablet,Electronics,Global Traders,Mumbai WH,430,51,129,352,24,6705.65,26-06-2025
+SKU11307,HP Scanner,office supplies,Vertex Solutions,Nagpur WH,248,216,362,102,36,6039.58,10-12-2024
+SKU11308,Logitech Keyboard,office supplies,NextGen Systems,Delhi WH,352,55,369,38,25,45542.64,07-10-2025
+SKU11309,Canon Printer,office supplies,Global Traders,Bengaluru WH,280,223,296,207,81,45825.46,05-06-2025
+SKU11310,Office Desk,Electronic,,Delhi WH,92,77,1,168,95,16089.8,29-06-2024
+SKU11311,Samsung SSD,Electronic,,Nagpur WH,310,143,483,-30,32,2509.57,14-06-2025
+SKU11312,Logitech Webcam,Electronic,,Nagpur WH,318,296,520,94,74,37889.28,26-05-2024
+SKU11313,Seagate Hard Drive,Office Supplies,NextGen Systems,Mumbai WH,71,107,110,68,86,17432.55,18-06-2024
+SKU11314,APC UPS,electronics,Global Traders,Nagpur WH,110,147,140,117,82,46966.32,22-09-2024
+SKU11315,Canon Printer,Electronics,Vertex Solutions,Bengaluru WH,360,54,118,296,55,41955.62,21-06-2024
+SKU11316,Cisco Switch,Electronics,NextGen Systems,Pune WH,64,20,49,35,20,14163.69,07-08-2025
+SKU11317,APC UPS,Electronic,Prime Supplies,Mumbai WH,268,227,533,-38,36,22275.81,18-03-2025
+SKU11318,Seagate Hard Drive,office supplies,Prime Supplies,Nagpur WH,302,134,44,392,37,40201.69,15-08-2024
+SKU11319,Dell Docking Station,Electronic,Apex Distributors,Delhi WH,422,38,167,293,40,31568.13,09-06-2025
+SKU11319,HP Monitor,IT Equipment,Prime Supplies,Bengaluru WH,394,37,361,70,60,15944.61,25-07-2025
+SKU11321,Dell Laptop,electronics,Global Traders,Bengaluru WH,388,18,324,82,100,18872.83,13-08-2024
+SKU11322,Canon Printer,IT Equipment,Global Traders,Delhi WH,394,100,271,223,80,14201.72,22-07-2024
+SKU11323,Dell Laptop,IT Equipment,Prime Supplies,Delhi WH,375,45,264,156,47,27931.08,01-08-2024
+SKU11324,Seagate Hard Drive,Office Supplies,,Bengaluru WH,413,91,39,465,73,11812.32,23-12-2024
+SKU11325,Samsung SSD,Electronic,,Delhi WH,297,271,184,384,58,39857.63,05-02-2025
+SKU11326,Logitech Webcam,Electronics,Vertex Solutions,Mumbai WH,356,182,556,-18,81,48149.66,21-10-2024
+SKU11327,Lenovo Tablet,Electronics,Global Traders,Delhi WH,264,228,333,159,51,47820.14,07-11-2025
+SKU11328,Cisco Switch,IT Equipment,,Pune WH,108,177,203,82,36,1545.23,01-10-2024
+SKU11329,HP Monitor,Office Supplies,NextGen Systems,Nagpur WH,309,110,455,-36,72,33781.95,25-02-2025
+SKU11330,Seagate Hard Drive,Electronics,Apex Distributors,Delhi WH,250,226,435,41,71,36436.52,13-12-2024
+SKU11331,Lenovo Tablet,electronics,Global Traders,Bengaluru WH,375,23,157,241,77,10389.42,02-10-2025
+SKU11332,Blue Yeti Microphone,Electronics,TechNova Pvt Ltd,Delhi WH,106,168,66,208,97,4603.61,22-12-2025
+SKU11333,Logitech Keyboard,office supplies,TechNova Pvt Ltd,Bengaluru WH,220,180,392,8,90,10602.12,02-07-2025
+SKU11334,Samsung SSD,Electronic,Global Traders,Nagpur WH,151,80,274,-43,70,16641.96,08-08-2024
+SKU11335,HP Monitor,Electronics,Prime Supplies,Bengaluru WH,333,127,481,-21,21,19957.08,11-05-2025
+SKU11336,Dell Laptop,electronics,Vertex Solutions,Mumbai WH,71,80,72,79,58,13695.67,06-05-2024
+SKU11337,Canon Printer,office supplies,Apex Distributors,Mumbai WH,466,193,671,-12,71,3918.7,31-05-2025
+SKU11338,Blue Yeti Microphone,Office Supplies,Global Traders,Mumbai WH,419,212,20,611,21,36820.08,04-02-2025
+SKU11339,Dell Docking Station,office supplies,TechNova Pvt Ltd,Nagpur WH,149,159,165,143,74,13775.08,26-07-2024
+SKU11340,Logitech Webcam,IT Equipment,Prime Supplies,Pune WH,101,135,241,-5,68,48347.63,28-07-2025
+SKU11341,Dell Docking Station,electronics,,Mumbai WH,192,247,145,294,88,49658.38,07-02-2025
+SKU11342,Samsung SSD,Office Supplies,TechNova Pvt Ltd,Delhi WH,240,279,110,409,77,38583.17,02-04-2025
+SKU11343,Office Chair,electronics,Prime Supplies,Mumbai WH,239,244,111,372,59,28088.18,31-07-2024
+SKU11344,Logitech Keyboard,electronics,,Bengaluru WH,492,250,607,135,51,41919.71,19-06-2025
+SKU11345,Cisco Switch,Electronic,,Nagpur WH,420,290,238,472,27,37051.51,03-06-2024
+SKU11346,Seagate Hard Drive,office supplies,Vertex Solutions,Bengaluru WH,68,164,208,24,20,39755.32,12-07-2025
+SKU11347,APC UPS,office supplies,,Bengaluru WH,305,160,241,224,61,27784.88,24-03-2024
+SKU11348,HP Scanner,electronics,TechNova Pvt Ltd,Pune WH,103,217,358,-38,29,26044.96,04-05-2024
+SKU11349,HP Monitor,IT Equipment,,Pune WH,135,101,224,12,34,31345.63,21-06-2025
+SKU11350,Blue Yeti Microphone,IT Equipment,,Mumbai WH,-299,71,383,-611,,14907.88,21-03-2025
+SKU11351,LG LED Screen,Electronic,Global Traders,Pune WH,200,138,267,71,61,14580.82,02-12-2025
+SKU11352,Seagate Hard Drive,IT Equipment,,Pune WH,154,190,265,79,97,46816.5,18-05-2024
+SKU11353,Dell Laptop,Electronic,,Pune WH,134,268,366,36,80,7602.42,09-03-2024
+SKU11354,Dell Mouse,Office Supplies,,Nagpur WH,52,159,96,115,45,4826.26,01-10-2025
+SKU11355,Blue Yeti Microphone,electronics,NextGen Systems,Mumbai WH,289,80,34,335,64,46401.19,08-10-2024
+SKU11356,Epson Projector,Office Supplies,,Nagpur WH,195,218,299,114,59,28099.5,18-10-2025
+SKU11357,Canon Printer,Electronics,Vertex Solutions,Nagpur WH,387,103,79,411,95,8998.43,31-07-2025
+SKU11358,Office Desk,office supplies,,Nagpur WH,102,64,204,-38,86,28825.22,29-08-2025
+SKU11359,TP-Link Router,Electronics,Vertex Solutions,Pune WH,359,141,484,16,46,4657.78,21-09-2025
+SKU11360,Dell Laptop,Electronic,Prime Supplies,Mumbai WH,125,73,42,156,80,6935.05,26-03-2025
+SKU11361,Dell Docking Station,Electronics,Vertex Solutions,Bengaluru WH,267,241,334,174,58,19723.01,29-01-2025
+SKU11362,Dell Docking Station,Electronic,Prime Supplies,Bengaluru WH,411,242,363,290,59,42125.34,19-06-2024
+SKU11363,Blue Yeti Microphone,IT Equipment,,Nagpur WH,374,142,146,370,75,34299.84,25-07-2025
+SKU11364,Epson Projector,IT Equipment,NextGen Systems,Delhi WH,272,178,91,359,23,10767.62,27-07-2025
+SKU11365,TP-Link Router,office supplies,TechNova Pvt Ltd,Pune WH,498,97,391,204,67,22159.82,22-06-2025
+SKU11366,Office Chair,Electronics,NextGen Systems,Nagpur WH,149,2,150,1,59,25189.39,14-01-2024
+SKU11367,Cisco Switch,IT Equipment,TechNova Pvt Ltd,Nagpur WH,360,139,34,465,55,13781.27,28-02-2024
+SKU11368,LG LED Screen,office supplies,,Delhi WH,342,15,367,-10,80,8771.17,25-10-2025
+SKU11369,Epson Projector,Electronics,Global Traders,Pune WH,434,279,106,607,24,43558.57,14-05-2024
+SKU11370,APC UPS,office supplies,TechNova Pvt Ltd,Nagpur WH,92,214,61,245,27,4964.03,11-07-2025
+SKU11371,Dell Laptop,Electronic,NextGen Systems,Pune WH,192,99,335,-44,98,45295.66,23-08-2025
+SKU11372,HP Scanner,IT Equipment,TechNova Pvt Ltd,Mumbai WH,419,187,528,78,21,9727.7,28-05-2025
+SKU11373,APC UPS,Electronics,Apex Distributors,Bengaluru WH,125,136,42,219,42,10014.3,01-06-2025
+SKU11374,Logitech Webcam,Electronic,NextGen Systems,Mumbai WH,259,88,325,22,20,17138.48,04-08-2025
+SKU11375,Dell Mouse,Electronics,Global Traders,Mumbai WH,478,44,474,48,31,9364.38,28-08-2025
+SKU11376,Dell Laptop,electronics,NextGen Systems,Delhi WH,370,10,392,-12,41,4155.62,09-09-2024
+SKU11377,HP Monitor,IT Equipment,Apex Distributors,Pune WH,207,97,67,237,59,14020.27,01-08-2025
+SKU11378,Seagate Hard Drive,electronics,Global Traders,Nagpur WH,211,211,115,307,44,13041.77,26-03-2025
+SKU11379,Office Desk,Electronic,NextGen Systems,Bengaluru WH,185,47,250,-18,65,22538.69,08-10-2025
+SKU11379,HP Scanner,electronics,Vertex Solutions,Delhi WH,401,87,37,451,94,17411.38,29-11-2025
+SKU11381,Dell Docking Station,Office Supplies,Apex Distributors,Mumbai WH,457,147,212,392,63,25712.3,03-08-2024
+SKU11382,HP Monitor,Electronics,Global Traders,Delhi WH,182,111,239,54,53,7076.78,23-08-2025
+SKU11383,Office Desk,Electronics,NextGen Systems,Mumbai WH,215,190,288,117,68,31510.66,09-01-2024
+SKU11384,Office Chair,office supplies,Prime Supplies,Pune WH,131,215,243,103,62,45666.13,09-11-2024
+SKU11385,Dell Laptop,IT Equipment,,Bengaluru WH,133,239,279,93,43,28840.66,21-03-2025
+SKU11386,Seagate Hard Drive,office supplies,NextGen Systems,Bengaluru WH,424,204,484,144,51,16960.13,25-11-2025
+SKU11387,Dell Docking Station,Electronics,,Delhi WH,255,153,20,388,49,38726.22,14-08-2025
+SKU11388,TP-Link Router,Electronic,Vertex Solutions,Bengaluru WH,255,14,83,186,85,37617.32,13-05-2024
+SKU11389,Logitech Webcam,electronics,NextGen Systems,Delhi WH,389,170,55,504,31,19860.09,16-04-2025
+SKU11390,Logitech Webcam,Electronic,Prime Supplies,Pune WH,50,75,51,74,42,11885.56,27-07-2024
+SKU11391,Blue Yeti Microphone,Electronic,TechNova Pvt Ltd,Delhi WH,273,46,125,194,39,8050.56,12-04-2024
+SKU11392,Cisco Switch,office supplies,,Delhi WH,291,281,403,169,47,35340.58,08-04-2024
+SKU11393,HP Scanner,Electronic,Apex Distributors,Delhi WH,248,65,162,151,37,29887.25,30-06-2025
+SKU11394,Dell Laptop,electronics,Global Traders,Pune WH,86,177,250,13,95,18519.72,14-12-2024
+SKU11395,HP Scanner,Electronics,Vertex Solutions,Pune WH,306,0,312,-6,96,25047.49,15-02-2024
+SKU11396,Office Chair,IT Equipment,Global Traders,Delhi WH,158,154,222,90,31,7622.3,14-11-2024
+SKU11397,Lenovo Tablet,electronics,Global Traders,Delhi WH,248,246,35,459,53,34148.75,18-04-2024
+SKU11398,HP Scanner,Electronics,Global Traders,Nagpur WH,288,42,177,153,32,6524.1,03-06-2025
+SKU11399,HP Scanner,IT Equipment,TechNova Pvt Ltd,Nagpur WH,246,232,11,467,82,21306.56,11-10-2025
+SKU11400,Epson Projector,IT Equipment,NextGen Systems,Bengaluru WH,109,230,257,82,,48591.34,24-04-2024
+SKU11401,HP Scanner,office supplies,Prime Supplies,Pune WH,452,91,434,109,88,447.14,25-12-2025
+SKU11402,LG LED Screen,office supplies,,Delhi WH,352,132,202,282,85,2522.33,15-10-2024
+SKU11403,Epson Projector,Electronics,NextGen Systems,Nagpur WH,70,62,125,7,78,21342.56,22-11-2025
+SKU11404,Logitech Webcam,Electronic,,Mumbai WH,201,12,136,77,42,22393.83,31-10-2024
+SKU11405,Epson Projector,office supplies,TechNova Pvt Ltd,Bengaluru WH,375,18,305,88,34,36960.15,11-09-2024
+SKU11406,Canon Printer,office supplies,Global Traders,Delhi WH,139,43,136,46,32,21611.92,08-10-2024
+SKU11407,Samsung SSD,office supplies,,Mumbai WH,226,234,352,108,99,3919.15,16-01-2025
+SKU11408,HP Scanner,Office Supplies,Prime Supplies,Nagpur WH,69,75,155,-11,32,46379.28,05-11-2024
+SKU11409,Seagate Hard Drive,office supplies,Prime Supplies,Delhi WH,266,205,22,449,43,48261.49,15-07-2024
+SKU11410,Dell Docking Station,Office Supplies,Vertex Solutions,Mumbai WH,342,133,310,165,98,18774.4,29-04-2025
+SKU11411,Seagate Hard Drive,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,160,223,140,243,43,19993.66,04-07-2024
+SKU11412,Lenovo Tablet,electronics,TechNova Pvt Ltd,Delhi WH,397,145,279,263,20,32894.92,08-10-2024
+SKU11413,Dell Mouse,electronics,Vertex Solutions,Mumbai WH,186,236,306,116,60,35479.52,14-08-2024
+SKU11414,Lenovo Tablet,office supplies,NextGen Systems,Bengaluru WH,82,147,235,-6,95,19513.07,25-07-2025
+SKU11415,Epson Projector,IT Equipment,Global Traders,Delhi WH,56,175,174,57,60,42732.36,25-05-2025
+SKU11416,HP Scanner,Electronic,,Mumbai WH,157,272,357,72,41,33068.85,08-08-2025
+SKU11417,Logitech Keyboard,electronics,NextGen Systems,Nagpur WH,90,249,287,52,64,14661.97,18-11-2024
+SKU11418,LG LED Screen,Office Supplies,Global Traders,Bengaluru WH,281,239,30,490,39,17646.16,17-03-2025
+SKU11419,Cisco Switch,electronics,,Bengaluru WH,262,11,145,128,91,6671.7,13-09-2025
+SKU11420,JBL Headset,electronics,Prime Supplies,Bengaluru WH,485,63,99,449,70,14538.51,11-06-2024
+SKU11421,Epson Projector,electronics,,Bengaluru WH,442,205,563,84,72,14016.1,06-01-2025
+SKU11422,Dell Docking Station,Office Supplies,,Pune WH,372,54,340,86,60,42966.92,21-05-2025
+SKU11423,TP-Link Router,electronics,,Nagpur WH,437,237,293,381,77,266.54,08-12-2024
+SKU11424,Dell Mouse,IT Equipment,,Delhi WH,440,237,671,6,42,20573.66,13-10-2025
+SKU11425,LG LED Screen,Office Supplies,Prime Supplies,Bengaluru WH,-64,114,35,15,98,28572.18,22-02-2025
+SKU11426,Office Desk,office supplies,,Mumbai WH,61,166,127,100,41,47597.12,24-01-2024
+SKU11427,JBL Headset,electronics,,Nagpur WH,430,199,565,64,85,36180.7,02-09-2024
+SKU11428,Office Chair,electronics,Apex Distributors,Mumbai WH,139,241,364,16,45,44732.84,30-07-2024
+SKU11429,LG LED Screen,IT Equipment,Vertex Solutions,Pune WH,345,236,470,111,51,48642.98,27-05-2025
+SKU11430,Office Chair,electronics,Vertex Solutions,Delhi WH,378,56,411,23,97,36130.11,12-03-2024
+SKU11431,Dell Docking Station,IT Equipment,,Mumbai WH,53,16,87,-18,72,39173.83,23-09-2024
+SKU11432,Blue Yeti Microphone,office supplies,TechNova Pvt Ltd,Delhi WH,416,275,123,568,97,24092.3,02-03-2024
+SKU11433,Epson Projector,IT Equipment,,Delhi WH,199,203,424,-22,25,39392.43,16-04-2024
+SKU11434,TP-Link Router,Electronic,,Nagpur WH,124,134,296,-38,34,7183.31,05-09-2024
+SKU11435,Dell Mouse,Electronic,Prime Supplies,Delhi WH,457,247,215,489,53,44969.85,18-05-2025
+SKU11436,Logitech Webcam,office supplies,,Nagpur WH,435,125,266,294,63,39389.96,17-12-2025
+SKU11437,HP Monitor,electronics,Global Traders,Bengaluru WH,182,290,281,191,96,14492.68,14-08-2024
+SKU11438,Logitech Webcam,Electronic,Global Traders,Bengaluru WH,500,189,577,112,66,31731.34,01-05-2025
+SKU11439,Canon Printer,office supplies,Global Traders,Pune WH,415,225,689,-49,57,30411.73,28-01-2025
+SKU11439,Office Desk,Electronic,Global Traders,Bengaluru WH,181,116,14,283,47,702.13,07-01-2025
+SKU11441,Cisco Switch,Office Supplies,Global Traders,Nagpur WH,419,260,529,150,71,32228.19,24-08-2025
+SKU11442,Epson Projector,IT Equipment,,Pune WH,486,256,321,421,86,43552.03,08-05-2025
+SKU11443,Logitech Keyboard,Electronic,Vertex Solutions,Nagpur WH,139,247,194,192,21,10400.82,02-06-2024
+SKU11444,Cisco Switch,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,192,61,100,153,65,44916.92,26-07-2024
+SKU11445,Dell Mouse,Electronic,Prime Supplies,Nagpur WH,236,16,204,48,100,27708.9,01-07-2025
+SKU11446,APC UPS,Office Supplies,Vertex Solutions,Pune WH,483,275,81,677,27,12878.0,06-07-2024
+SKU11447,TP-Link Router,Electronics,Apex Distributors,Bengaluru WH,403,125,233,295,78,13946.08,13-07-2024
+SKU11448,Dell Docking Station,Electronic,TechNova Pvt Ltd,Pune WH,425,32,463,-6,36,11456.55,22-08-2025
+SKU11449,Dell Mouse,Office Supplies,TechNova Pvt Ltd,Nagpur WH,439,297,488,248,79,39521.8,15-03-2024
+SKU11450,APC UPS,Electronics,,Pune WH,150,244,59,335,,5083.81,26-08-2025
+SKU11451,Dell Laptop,Office Supplies,,Mumbai WH,160,249,153,256,92,36027.07,29-03-2025
+SKU11452,Seagate Hard Drive,IT Equipment,Apex Distributors,Delhi WH,448,99,467,80,20,31593.3,02-12-2024
+SKU11453,Logitech Webcam,Electronic,Vertex Solutions,Nagpur WH,309,247,526,30,56,13836.89,28-07-2025
+SKU11454,TP-Link Router,IT Equipment,TechNova Pvt Ltd,Nagpur WH,307,158,450,15,34,44679.02,05-06-2025
+SKU11455,Logitech Keyboard,IT Equipment,Apex Distributors,Mumbai WH,290,253,167,376,42,46272.24,29-03-2025
+SKU11456,Dell Mouse,electronics,Vertex Solutions,Nagpur WH,225,275,187,313,44,25138.81,23-11-2024
+SKU11457,Logitech Webcam,Office Supplies,Vertex Solutions,Bengaluru WH,442,271,483,230,33,33627.17,27-11-2024
+SKU11458,TP-Link Router,Office Supplies,Global Traders,Nagpur WH,130,98,202,26,41,47839.68,30-04-2025
+SKU11459,Seagate Hard Drive,IT Equipment,Apex Distributors,Nagpur WH,384,213,275,322,49,7334.83,07-12-2024
+SKU11460,Logitech Webcam,IT Equipment,,Delhi WH,422,181,322,281,77,383.06,17-02-2025
+SKU11461,APC UPS,Electronic,TechNova Pvt Ltd,Pune WH,78,209,181,106,37,10509.59,19-09-2024
+SKU11462,Lenovo Tablet,IT Equipment,NextGen Systems,Bengaluru WH,200,191,12,379,61,28042.62,23-07-2024
+SKU11463,Seagate Hard Drive,Electronics,Prime Supplies,Pune WH,458,110,515,53,76,8104.86,06-05-2025
+SKU11464,Cisco Switch,electronics,Apex Distributors,Bengaluru WH,419,240,47,612,69,29347.11,01-03-2024
+SKU11465,Seagate Hard Drive,Office Supplies,NextGen Systems,Delhi WH,101,28,163,-34,63,46187.94,23-04-2024
+SKU11466,Office Chair,office supplies,,Pune WH,291,68,383,-24,29,43710.14,26-08-2025
+SKU11467,Logitech Keyboard,IT Equipment,Vertex Solutions,Nagpur WH,203,293,204,292,91,28679.39,07-11-2025
+SKU11468,Canon Printer,Electronics,NextGen Systems,Nagpur WH,183,285,298,170,22,45264.66,01-04-2025
+SKU11469,APC UPS,electronics,,Nagpur WH,432,109,188,353,61,16717.3,24-11-2025
+SKU11470,Dell Laptop,electronics,Prime Supplies,Delhi WH,410,132,261,281,97,21423.81,13-05-2025
+SKU11471,Epson Projector,Electronics,,Mumbai WH,458,24,61,421,85,47993.43,30-11-2024
+SKU11472,Office Desk,Electronic,Prime Supplies,Mumbai WH,454,275,503,226,56,28308.81,25-07-2025
+SKU11473,Dell Docking Station,Electronics,,Bengaluru WH,449,57,544,-38,40,32543.68,14-07-2024
+SKU11474,APC UPS,IT Equipment,Global Traders,Nagpur WH,434,37,441,30,55,3743.99,25-10-2025
+SKU11475,Lenovo Tablet,Electronics,,Bengaluru WH,344,173,464,53,87,14761.31,30-09-2025
+SKU11476,Samsung SSD,Electronic,,Pune WH,474,199,19,654,21,13016.76,16-08-2024
+SKU11477,JBL Headset,Office Supplies,NextGen Systems,Bengaluru WH,349,167,545,-29,78,7714.98,31-05-2024
+SKU11478,Dell Laptop,Office Supplies,TechNova Pvt Ltd,Pune WH,155,157,92,220,32,27049.8,11-03-2024
+SKU11479,JBL Headset,Electronic,Global Traders,Delhi WH,217,161,117,261,46,49551.08,26-08-2024
+SKU11480,APC UPS,Electronics,,Mumbai WH,161,181,13,329,37,22253.23,01-08-2024
+SKU11481,HP Scanner,electronics,Vertex Solutions,Delhi WH,244,25,228,41,76,29551.84,07-05-2024
+SKU11482,Dell Docking Station,Electronics,Global Traders,Pune WH,97,89,129,57,94,6105.88,15-05-2025
+SKU11483,JBL Headset,electronics,Prime Supplies,Bengaluru WH,429,183,324,288,73,18056.94,18-09-2024
+SKU11484,Dell Laptop,IT Equipment,,Delhi WH,310,57,233,134,22,48082.28,12-04-2024
+SKU11485,Lenovo Tablet,office supplies,Apex Distributors,Pune WH,231,184,158,257,28,49985.36,27-03-2024
+SKU11486,Seagate Hard Drive,office supplies,NextGen Systems,Mumbai WH,383,199,482,100,22,7122.72,11-09-2024
+SKU11487,Dell Docking Station,electronics,Global Traders,Delhi WH,140,289,4,425,36,38138.16,03-03-2024
+SKU11488,LG LED Screen,IT Equipment,Global Traders,Delhi WH,355,107,300,162,67,8703.76,15-06-2025
+SKU11489,TP-Link Router,Electronics,,Pune WH,127,92,186,33,34,15372.63,02-10-2025
+SKU11490,Dell Laptop,Electronics,NextGen Systems,Mumbai WH,241,135,318,58,61,44452.14,05-02-2024
+SKU11491,Blue Yeti Microphone,IT Equipment,Global Traders,Pune WH,426,73,417,82,25,5095.75,23-12-2024
+SKU11492,Dell Mouse,IT Equipment,,Delhi WH,164,47,214,-3,28,42821.41,03-07-2025
+SKU11493,Logitech Webcam,IT Equipment,,Nagpur WH,275,68,308,35,20,6497.11,03-11-2025
+SKU11494,Cisco Switch,office supplies,Vertex Solutions,Pune WH,326,187,98,415,81,11043.63,12-05-2024
+SKU11495,Dell Mouse,office supplies,,Nagpur WH,462,73,230,305,30,44357.2,17-04-2024
+SKU11496,Logitech Webcam,Electronic,,Bengaluru WH,177,115,128,164,43,26043.85,14-08-2025
+SKU11497,Epson Projector,office supplies,Global Traders,Bengaluru WH,186,67,167,86,74,36846.88,05-02-2024
+SKU11498,JBL Headset,electronics,TechNova Pvt Ltd,Pune WH,432,197,647,-18,26,31768.07,31-08-2024
+SKU11499,Office Desk,IT Equipment,,Nagpur WH,132,203,165,170,21,9468.64,14-08-2025
+SKU11499,APC UPS,Office Supplies,Apex Distributors,Bengaluru WH,-257,231,219,-245,,22049.16,13-10-2024
+SKU11501,TP-Link Router,Electronic,NextGen Systems,Delhi WH,385,263,345,303,63,38623.19,12-04-2025
+SKU11502,Dell Docking Station,Electronic,Prime Supplies,Nagpur WH,389,49,342,96,63,21383.07,27-01-2024
+SKU11503,APC UPS,Electronics,Prime Supplies,Bengaluru WH,328,64,48,344,49,35663.5,09-05-2024
+SKU11504,Lenovo Tablet,Office Supplies,Prime Supplies,Bengaluru WH,497,177,314,360,77,9212.36,07-06-2025
+SKU11505,JBL Headset,office supplies,NextGen Systems,Bengaluru WH,149,72,113,108,22,30086.72,04-06-2024
+SKU11506,Blue Yeti Microphone,Electronic,Vertex Solutions,Bengaluru WH,338,271,537,72,26,8421.0,11-06-2024
+SKU11507,Samsung SSD,office supplies,Global Traders,Bengaluru WH,101,84,162,23,99,47115.38,16-09-2025
+SKU11508,HP Scanner,Electronic,,Bengaluru WH,267,103,142,228,26,48603.24,02-05-2025
+SKU11509,Dell Laptop,Electronics,Apex Distributors,Bengaluru WH,289,164,69,384,58,33439.2,01-08-2024
+SKU11510,Canon Printer,electronics,,Pune WH,425,34,30,429,72,38253.19,05-09-2024
+SKU11511,HP Scanner,Office Supplies,Vertex Solutions,Pune WH,250,81,330,1,73,41733.02,13-03-2024
+SKU11512,Dell Mouse,office supplies,Global Traders,Pune WH,165,141,71,235,71,22224.73,19-11-2025
+SKU11513,Dell Docking Station,Electronic,Prime Supplies,Bengaluru WH,191,167,5,353,35,23608.36,07-11-2025
+SKU11514,Blue Yeti Microphone,office supplies,,Pune WH,274,152,420,6,35,3613.1,15-12-2024
+SKU11515,Seagate Hard Drive,Electronics,,Delhi WH,498,139,41,596,68,29290.43,27-12-2025
+SKU11516,Dell Docking Station,Electronics,Prime Supplies,Bengaluru WH,404,249,298,355,48,47990.75,06-01-2025
+SKU11517,Lenovo Tablet,Electronics,Prime Supplies,Nagpur WH,173,253,428,-2,75,42132.02,09-10-2024
+SKU11518,Seagate Hard Drive,Electronic,Prime Supplies,Mumbai WH,178,260,168,270,73,5146.44,12-05-2025
+SKU11519,Office Desk,IT Equipment,Apex Distributors,Mumbai WH,174,299,506,-33,48,49865.4,26-12-2025
+SKU11520,HP Scanner,Office Supplies,,Mumbai WH,299,287,621,-35,92,30122.95,27-08-2025
+SKU11521,Samsung SSD,Electronic,,Delhi WH,479,50,97,432,35,35942.62,10-02-2024
+SKU11522,Office Desk,Office Supplies,TechNova Pvt Ltd,Delhi WH,227,225,436,16,78,40676.72,05-10-2025
+SKU11523,JBL Headset,Office Supplies,Global Traders,Mumbai WH,431,221,685,-33,23,31563.01,02-12-2024
+SKU11524,APC UPS,Electronic,NextGen Systems,Nagpur WH,100,149,211,38,23,17683.68,11-09-2024
+SKU11525,Office Chair,IT Equipment,Apex Distributors,Pune WH,191,228,401,18,26,10548.11,14-07-2025
+SKU11526,TP-Link Router,IT Equipment,Prime Supplies,Nagpur WH,381,164,410,135,64,17655.05,05-07-2025
+SKU11527,Dell Mouse,office supplies,Prime Supplies,Delhi WH,428,116,324,220,59,15714.92,24-05-2025
+SKU11528,Seagate Hard Drive,office supplies,,Nagpur WH,377,95,391,81,45,16916.36,24-03-2025
+SKU11529,Dell Laptop,Electronics,Vertex Solutions,Bengaluru WH,235,81,86,230,61,15595.33,02-06-2025
+SKU11530,Blue Yeti Microphone,electronics,,Bengaluru WH,408,286,303,391,91,34812.24,22-07-2024
+SKU11531,HP Scanner,Electronic,Global Traders,Nagpur WH,97,46,182,-39,96,26688.1,10-02-2025
+SKU11532,LG LED Screen,Office Supplies,Prime Supplies,Nagpur WH,118,197,53,262,57,49972.0,29-03-2025
+SKU11533,Canon Printer,office supplies,Apex Distributors,Mumbai WH,472,20,251,241,90,24775.2,12-12-2025
+SKU11534,JBL Headset,electronics,TechNova Pvt Ltd,Nagpur WH,162,125,115,172,76,12259.64,22-01-2024
+SKU11535,Blue Yeti Microphone,Office Supplies,Vertex Solutions,Delhi WH,489,247,449,287,73,9384.3,15-06-2025
+SKU11536,Seagate Hard Drive,office supplies,NextGen Systems,Nagpur WH,347,204,589,-38,69,21622.6,08-01-2025
+SKU11537,Logitech Keyboard,office supplies,Global Traders,Nagpur WH,170,163,276,57,65,43011.24,20-12-2025
+SKU11538,Dell Mouse,Office Supplies,,Bengaluru WH,176,275,296,155,36,15742.89,10-09-2025
+SKU11539,Samsung SSD,IT Equipment,Apex Distributors,Bengaluru WH,166,178,367,-23,90,41847.01,16-04-2025
+SKU11540,Lenovo Tablet,Electronics,Global Traders,Mumbai WH,366,224,509,81,95,28041.94,26-07-2025
+SKU11541,Cisco Switch,office supplies,Global Traders,Mumbai WH,382,29,458,-47,64,34132.15,07-03-2024
+SKU11542,Dell Laptop,office supplies,,Delhi WH,418,141,583,-24,52,35240.47,16-05-2024
+SKU11543,Logitech Webcam,Office Supplies,Apex Distributors,Nagpur WH,252,110,338,24,77,11704.96,04-06-2025
+SKU11544,Office Chair,Electronics,TechNova Pvt Ltd,Nagpur WH,258,73,276,55,95,29413.64,13-03-2024
+SKU11545,TP-Link Router,office supplies,Vertex Solutions,Pune WH,364,32,271,125,72,48991.12,02-07-2024
+SKU11546,Dell Mouse,Electronic,Prime Supplies,Mumbai WH,477,92,30,539,83,47312.74,10-08-2025
+SKU11547,Cisco Switch,electronics,NextGen Systems,Pune WH,408,198,417,189,68,4883.58,29-12-2024
+SKU11548,Logitech Keyboard,electronics,Apex Distributors,Delhi WH,140,220,129,231,83,10110.3,25-12-2024
+SKU11549,Dell Mouse,Office Supplies,Apex Distributors,Mumbai WH,381,41,173,249,77,43977.13,03-03-2024
+SKU11550,Epson Projector,Electronics,Global Traders,Mumbai WH,335,30,349,16,,48183.63,25-06-2025
+SKU11551,Logitech Webcam,Electronics,NextGen Systems,Mumbai WH,56,2,41,17,69,47790.01,12-07-2024
+SKU11552,JBL Headset,Electronic,Prime Supplies,Pune WH,375,255,186,444,88,30025.94,10-08-2025
+SKU11553,Dell Docking Station,electronics,,Mumbai WH,140,225,361,4,42,31141.92,04-07-2025
+SKU11554,Dell Mouse,Electronic,Global Traders,Bengaluru WH,456,61,319,198,57,25972.59,12-04-2024
+SKU11555,LG LED Screen,Electronic,,Bengaluru WH,304,98,308,94,39,41605.33,03-04-2025
+SKU11556,Samsung SSD,Electronic,Global Traders,Pune WH,109,283,33,359,63,48023.31,17-05-2025
+SKU11557,HP Monitor,IT Equipment,Prime Supplies,Bengaluru WH,146,206,21,331,65,4638.58,01-11-2025
+SKU11558,JBL Headset,Electronic,NextGen Systems,Pune WH,214,269,403,80,89,22450.44,21-07-2024
+SKU11559,HP Scanner,Electronics,,Mumbai WH,199,218,206,211,75,24612.85,25-11-2024
+SKU11559,Logitech Webcam,IT Equipment,Apex Distributors,Mumbai WH,337,247,624,-40,69,26424.75,12-02-2024
+SKU11561,Office Desk,Office Supplies,Global Traders,Nagpur WH,146,45,78,113,95,36988.93,01-07-2025
+SKU11562,JBL Headset,Electronic,TechNova Pvt Ltd,Delhi WH,64,24,77,11,69,36953.15,20-06-2025
+SKU11563,HP Monitor,electronics,Prime Supplies,Delhi WH,484,91,520,55,67,47503.22,14-08-2024
+SKU11564,Cisco Switch,electronics,TechNova Pvt Ltd,Mumbai WH,414,163,74,503,46,46112.11,29-07-2024
+SKU11565,Samsung SSD,office supplies,NextGen Systems,Pune WH,402,59,297,164,20,49355.57,21-08-2024
+SKU11566,Canon Printer,Office Supplies,Vertex Solutions,Bengaluru WH,240,205,22,423,39,33459.79,08-03-2025
+SKU11567,Logitech Webcam,electronics,Apex Distributors,Delhi WH,398,292,727,-37,100,34545.03,01-03-2025
+SKU11568,JBL Headset,IT Equipment,Apex Distributors,Bengaluru WH,471,211,386,296,55,620.44,10-12-2025
+SKU11569,Samsung SSD,Electronics,Prime Supplies,Mumbai WH,252,21,229,44,36,8030.3,15-05-2025
+SKU11570,TP-Link Router,office supplies,Apex Distributors,Delhi WH,84,93,137,40,61,14311.86,20-10-2024
+SKU11571,Dell Mouse,IT Equipment,Vertex Solutions,Mumbai WH,195,291,267,219,33,27782.02,24-05-2025
+SKU11572,Cisco Switch,IT Equipment,Prime Supplies,Mumbai WH,152,65,265,-48,24,11509.39,01-02-2025
+SKU11573,Samsung SSD,IT Equipment,NextGen Systems,Delhi WH,144,42,195,-9,28,36943.48,28-03-2025
+SKU11574,JBL Headset,electronics,NextGen Systems,Mumbai WH,355,21,339,37,84,28483.19,05-06-2024
+SKU11575,APC UPS,electronics,TechNova Pvt Ltd,Delhi WH,-224,128,89,-185,64,19063.71,25-10-2024
+SKU11576,JBL Headset,Electronic,,Mumbai WH,308,32,115,225,43,43579.73,12-03-2024
+SKU11577,Logitech Webcam,Office Supplies,Global Traders,Pune WH,481,125,616,-10,87,27401.46,21-11-2024
+SKU11578,Lenovo Tablet,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,79,57,175,-39,28,36052.07,25-11-2024
+SKU11579,Samsung SSD,Electronics,,Mumbai WH,239,19,73,185,33,28179.31,31-01-2025
+SKU11580,HP Monitor,Office Supplies,Prime Supplies,Mumbai WH,443,290,122,611,48,32478.25,02-05-2025
+SKU11581,HP Scanner,IT Equipment,Vertex Solutions,Delhi WH,342,197,289,250,98,30669.16,19-12-2024
+SKU11582,APC UPS,Office Supplies,NextGen Systems,Pune WH,375,232,490,117,39,7305.93,14-10-2025
+SKU11583,TP-Link Router,Electronic,TechNova Pvt Ltd,Delhi WH,424,89,397,116,52,40291.98,27-05-2024
+SKU11584,Samsung SSD,IT Equipment,Global Traders,Nagpur WH,71,235,210,96,89,10484.24,19-02-2025
+SKU11585,APC UPS,IT Equipment,,Nagpur WH,265,213,471,7,77,16956.29,12-11-2025
+SKU11586,JBL Headset,electronics,Vertex Solutions,Pune WH,254,68,370,-48,87,28462.49,06-11-2025
+SKU11587,Lenovo Tablet,Electronic,Apex Distributors,Pune WH,451,186,474,163,90,19702.2,26-04-2025
+SKU11588,Logitech Webcam,Office Supplies,,Mumbai WH,105,277,333,49,77,10050.55,11-12-2024
+SKU11589,Dell Docking Station,IT Equipment,Global Traders,Delhi WH,332,80,337,75,69,1289.39,30-07-2024
+SKU11590,Office Desk,electronics,,Bengaluru WH,247,290,176,361,54,39114.76,21-07-2024
+SKU11591,Samsung SSD,office supplies,Global Traders,Delhi WH,127,210,162,175,79,15879.11,19-09-2025
+SKU11592,Logitech Keyboard,Electronics,TechNova Pvt Ltd,Mumbai WH,321,18,346,-7,32,46016.57,24-02-2024
+SKU11593,JBL Headset,office supplies,Global Traders,Pune WH,219,46,160,105,65,15447.34,08-03-2024
+SKU11594,Cisco Switch,Electronic,Global Traders,Nagpur WH,235,161,298,98,77,15231.7,29-07-2025
+SKU11595,Dell Mouse,Office Supplies,,Pune WH,131,77,83,125,73,28127.04,05-10-2025
+SKU11596,Dell Mouse,office supplies,Global Traders,Delhi WH,290,143,353,80,51,4943.74,10-02-2024
+SKU11597,Cisco Switch,electronics,TechNova Pvt Ltd,Bengaluru WH,119,195,242,72,68,34437.26,06-01-2025
+SKU11598,APC UPS,Electronics,,Bengaluru WH,275,299,585,-11,43,17257.06,13-12-2024
+SKU11599,Canon Printer,Office Supplies,Apex Distributors,Delhi WH,93,189,35,247,42,45846.52,23-04-2024
+SKU11600,Logitech Webcam,office supplies,Prime Supplies,Nagpur WH,454,100,328,226,,30180.35,21-05-2025
+SKU11601,Seagate Hard Drive,electronics,Apex Distributors,Bengaluru WH,58,213,86,185,66,45223.57,25-01-2024
+SKU11602,Samsung SSD,office supplies,Apex Distributors,Nagpur WH,300,163,170,293,26,22501.66,19-03-2025
+SKU11603,Logitech Keyboard,Electronic,TechNova Pvt Ltd,Pune WH,222,20,139,103,78,43614.8,01-10-2025
+SKU11604,HP Scanner,electronics,,Delhi WH,55,293,9,339,58,19481.02,12-12-2025
+SKU11605,Epson Projector,Office Supplies,,Delhi WH,394,138,384,148,62,35393.3,15-05-2024
+SKU11606,Cisco Switch,Electronic,Apex Distributors,Mumbai WH,227,133,282,78,44,45676.53,18-11-2025
+SKU11607,Dell Laptop,electronics,Prime Supplies,Pune WH,93,163,260,-4,34,3813.29,17-01-2025
+SKU11608,Logitech Keyboard,Electronics,TechNova Pvt Ltd,Mumbai WH,83,78,146,15,50,36851.53,15-12-2024
+SKU11609,APC UPS,office supplies,NextGen Systems,Mumbai WH,495,36,159,372,94,30667.0,27-02-2024
+SKU11610,TP-Link Router,Electronics,Prime Supplies,Mumbai WH,410,71,204,277,30,21705.17,03-12-2025
+SKU11611,HP Scanner,Electronic,Vertex Solutions,Delhi WH,169,107,25,251,30,40895.79,26-12-2025
+SKU11612,Office Desk,Electronics,,Pune WH,303,95,240,158,56,25428.46,22-03-2024
+SKU11613,Blue Yeti Microphone,Office Supplies,Vertex Solutions,Mumbai WH,140,101,134,107,38,35173.12,18-03-2024
+SKU11614,TP-Link Router,IT Equipment,Apex Distributors,Bengaluru WH,146,95,164,77,49,20672.87,17-10-2025
+SKU11615,Epson Projector,office supplies,Vertex Solutions,Bengaluru WH,196,111,218,89,52,448.46,30-11-2025
+SKU11616,HP Monitor,Electronics,,Nagpur WH,178,144,82,240,28,45144.4,02-03-2024
+SKU11617,Dell Laptop,office supplies,Prime Supplies,Nagpur WH,367,220,81,506,77,29448.12,05-01-2025
+SKU11618,Office Chair,IT Equipment,NextGen Systems,Delhi WH,407,33,291,149,53,18585.13,03-11-2024
+SKU11619,JBL Headset,electronics,Global Traders,Mumbai WH,440,250,320,370,89,34574.14,23-02-2025
+SKU11619,APC UPS,IT Equipment,,Pune WH,288,236,332,192,71,7189.94,29-01-2025
+SKU11621,HP Scanner,office supplies,Global Traders,Delhi WH,264,12,71,205,60,18348.93,20-03-2025
+SKU11622,TP-Link Router,electronics,Prime Supplies,Mumbai WH,455,88,154,389,95,19625.45,02-06-2024
+SKU11623,Cisco Switch,IT Equipment,Global Traders,Nagpur WH,188,172,101,259,22,41505.93,16-07-2025
+SKU11624,LG LED Screen,office supplies,,Delhi WH,192,116,97,211,82,21811.87,12-06-2024
+SKU11625,Logitech Keyboard,Electronic,,Bengaluru WH,299,30,180,149,33,14537.16,28-08-2024
+SKU11626,Cisco Switch,Electronics,Apex Distributors,Pune WH,315,253,221,347,73,16995.17,14-11-2024
+SKU11627,LG LED Screen,electronics,Apex Distributors,Nagpur WH,400,219,626,-7,35,36265.36,06-12-2025
+SKU11628,Cisco Switch,Electronics,TechNova Pvt Ltd,Delhi WH,492,65,378,179,92,18563.42,09-09-2024
+SKU11629,Office Chair,office supplies,,Nagpur WH,157,167,352,-28,49,27794.29,14-08-2025
+SKU11630,Office Chair,office supplies,Vertex Solutions,Bengaluru WH,456,169,199,426,36,30508.42,12-09-2024
+SKU11631,Office Chair,Office Supplies,Prime Supplies,Delhi WH,300,288,481,107,22,37534.6,30-09-2025
+SKU11632,APC UPS,Office Supplies,Apex Distributors,Mumbai WH,214,41,270,-15,82,22529.3,16-07-2024
+SKU11633,HP Monitor,IT Equipment,Vertex Solutions,Pune WH,455,141,146,450,66,31690.18,01-12-2024
+SKU11634,Office Chair,IT Equipment,NextGen Systems,Bengaluru WH,232,247,149,330,54,44172.35,23-07-2024
+SKU11635,Dell Mouse,Electronic,TechNova Pvt Ltd,Pune WH,471,96,611,-44,97,26222.76,31-05-2025
+SKU11636,Dell Laptop,Electronic,Apex Distributors,Pune WH,194,127,192,129,74,7288.57,26-01-2024
+SKU11637,APC UPS,electronics,,Delhi WH,64,215,40,239,67,27807.69,31-08-2025
+SKU11638,APC UPS,Electronic,Vertex Solutions,Bengaluru WH,277,160,55,382,55,22721.34,15-06-2024
+SKU11639,Dell Mouse,Electronics,NextGen Systems,Bengaluru WH,350,65,165,250,22,23907.37,25-05-2024
+SKU11640,Lenovo Tablet,office supplies,NextGen Systems,Delhi WH,211,192,281,122,23,8982.12,19-09-2025
+SKU11641,Office Desk,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,478,17,289,206,61,2887.37,31-12-2025
+SKU11642,Canon Printer,electronics,Prime Supplies,Bengaluru WH,117,254,32,339,28,8252.75,31-12-2025
+SKU11643,Office Chair,Electronics,,Nagpur WH,170,47,184,33,65,37567.45,19-05-2025
+SKU11644,Lenovo Tablet,office supplies,,Pune WH,255,279,63,471,87,27450.07,01-04-2024
+SKU11645,Dell Mouse,Electronic,Vertex Solutions,Pune WH,466,106,459,113,40,2920.06,30-11-2025
+SKU11646,Cisco Switch,Electronics,TechNova Pvt Ltd,Pune WH,335,12,26,321,48,37950.53,05-06-2024
+SKU11647,Office Chair,IT Equipment,,Mumbai WH,495,70,512,53,60,25561.32,23-10-2024
+SKU11648,Blue Yeti Microphone,Electronics,TechNova Pvt Ltd,Pune WH,302,12,342,-28,73,29524.47,01-08-2024
+SKU11649,Epson Projector,office supplies,Prime Supplies,Bengaluru WH,167,298,503,-38,20,44094.18,05-06-2025
+SKU11650,JBL Headset,electronics,TechNova Pvt Ltd,Bengaluru WH,-474,84,406,-796,,14142.72,23-07-2025
+SKU11651,JBL Headset,Office Supplies,Apex Distributors,Nagpur WH,241,261,397,105,40,9869.04,23-09-2024
+SKU11652,APC UPS,Electronics,,Bengaluru WH,251,61,333,-21,56,48389.97,18-11-2025
+SKU11653,Dell Mouse,Electronics,,Mumbai WH,312,207,209,310,43,37166.39,29-07-2024
+SKU11654,JBL Headset,Office Supplies,Apex Distributors,Nagpur WH,152,291,376,67,58,23242.61,25-10-2025
+SKU11655,Dell Docking Station,Electronics,Apex Distributors,Mumbai WH,370,117,258,229,47,10899.54,04-07-2024
+SKU11656,HP Scanner,office supplies,NextGen Systems,Delhi WH,490,170,211,449,83,49213.05,08-09-2025
+SKU11657,Blue Yeti Microphone,Office Supplies,Apex Distributors,Pune WH,435,84,503,16,81,3975.94,19-04-2024
+SKU11658,Dell Laptop,Electronic,TechNova Pvt Ltd,Nagpur WH,50,15,79,-14,26,22308.52,04-08-2025
+SKU11659,JBL Headset,office supplies,Vertex Solutions,Delhi WH,131,49,13,167,67,37118.14,16-01-2025
+SKU11660,Logitech Webcam,Electronics,Prime Supplies,Nagpur WH,88,143,213,18,22,7177.72,12-04-2025
+SKU11661,Cisco Switch,electronics,TechNova Pvt Ltd,Mumbai WH,459,104,123,440,23,4396.15,28-08-2024
+SKU11662,Seagate Hard Drive,Electronics,,Mumbai WH,283,296,570,9,54,36598.56,05-06-2024
+SKU11663,Dell Laptop,Electronics,,Delhi WH,160,33,101,92,68,41539.52,26-02-2025
+SKU11664,Logitech Keyboard,Electronic,Apex Distributors,Delhi WH,139,6,147,-2,25,10214.66,30-09-2024
+SKU11665,Samsung SSD,office supplies,,Mumbai WH,62,139,246,-45,44,49792.29,15-02-2024
+SKU11666,Cisco Switch,electronics,TechNova Pvt Ltd,Nagpur WH,497,288,445,340,91,18265.34,04-09-2025
+SKU11667,TP-Link Router,Electronic,NextGen Systems,Bengaluru WH,238,233,483,-12,89,27084.27,24-11-2024
+SKU11668,Office Desk,IT Equipment,NextGen Systems,Delhi WH,426,177,416,187,42,49177.29,26-10-2024
+SKU11669,Lenovo Tablet,Electronic,,Mumbai WH,125,253,345,33,89,30147.38,20-05-2024
+SKU11670,APC UPS,Office Supplies,Global Traders,Mumbai WH,220,183,330,73,79,17238.34,02-10-2025
+SKU11671,TP-Link Router,Office Supplies,Global Traders,Pune WH,124,174,276,22,100,41251.81,09-02-2025
+SKU11672,Blue Yeti Microphone,Electronics,Prime Supplies,Bengaluru WH,91,214,57,248,84,301.62,17-07-2025
+SKU11673,Cisco Switch,Electronics,NextGen Systems,Nagpur WH,390,84,232,242,62,27467.69,08-02-2025
+SKU11674,Epson Projector,office supplies,,Mumbai WH,317,201,224,294,93,11368.16,21-10-2025
+SKU11675,Dell Laptop,Office Supplies,Prime Supplies,Delhi WH,282,79,355,6,44,7303.34,14-03-2024
+SKU11676,Logitech Webcam,electronics,Prime Supplies,Pune WH,405,156,247,314,71,1272.93,01-02-2024
+SKU11677,Logitech Keyboard,Electronics,Apex Distributors,Delhi WH,201,61,106,156,43,47555.53,08-03-2025
+SKU11678,Logitech Webcam,Electronic,,Nagpur WH,233,206,5,434,96,10501.58,14-03-2025
+SKU11679,Office Desk,Electronics,,Mumbai WH,367,244,650,-39,98,25049.74,25-12-2024
+SKU11679,HP Scanner,Office Supplies,Prime Supplies,Delhi WH,65,130,179,16,80,34460.7,27-09-2025
+SKU11681,Dell Laptop,IT Equipment,TechNova Pvt Ltd,Delhi WH,500,179,701,-22,82,37976.57,29-03-2024
+SKU11682,Logitech Keyboard,electronics,Prime Supplies,Delhi WH,293,129,278,144,31,19054.57,11-12-2024
+SKU11683,Logitech Webcam,Office Supplies,,Pune WH,173,240,17,396,61,30724.49,07-04-2024
+SKU11684,Dell Docking Station,IT Equipment,Prime Supplies,Bengaluru WH,55,65,151,-31,23,9143.54,08-10-2024
+SKU11685,HP Monitor,Electronic,Prime Supplies,Bengaluru WH,406,289,397,298,88,24605.84,07-04-2025
+SKU11686,LG LED Screen,Electronic,,Mumbai WH,200,83,20,263,57,34371.69,19-03-2024
+SKU11687,Dell Laptop,IT Equipment,Global Traders,Delhi WH,151,246,248,149,51,2289.35,06-07-2024
+SKU11688,Cisco Switch,electronics,,Mumbai WH,164,174,349,-11,94,5166.73,22-05-2024
+SKU11689,Cisco Switch,Electronic,,Mumbai WH,117,288,12,393,76,35449.6,11-12-2025
+SKU11690,Cisco Switch,Electronics,Apex Distributors,Delhi WH,238,278,108,408,73,27908.35,08-03-2025
+SKU11691,Epson Projector,IT Equipment,,Bengaluru WH,84,33,22,95,53,45971.8,20-05-2024
+SKU11692,Office Desk,electronics,Vertex Solutions,Delhi WH,111,12,41,82,31,33027.11,13-07-2025
+SKU11693,Logitech Keyboard,office supplies,Global Traders,Bengaluru WH,241,285,269,257,81,20721.46,27-07-2025
+SKU11694,Logitech Webcam,electronics,,Mumbai WH,70,118,51,137,38,18655.74,06-06-2025
+SKU11695,Seagate Hard Drive,Office Supplies,TechNova Pvt Ltd,Nagpur WH,453,6,57,402,87,44031.19,20-05-2024
+SKU11696,JBL Headset,office supplies,,Delhi WH,213,124,245,92,47,23988.84,11-04-2024
+SKU11697,Blue Yeti Microphone,Electronics,Global Traders,Pune WH,138,198,283,53,100,42906.5,28-05-2024
+SKU11698,Logitech Keyboard,Office Supplies,Global Traders,Pune WH,490,34,489,35,85,31384.35,27-02-2025
+SKU11699,Lenovo Tablet,Electronics,,Mumbai WH,479,185,230,434,53,43546.37,08-02-2025
+SKU11700,Epson Projector,IT Equipment,,Bengaluru WH,64,98,171,-9,,41834.98,18-08-2024
+SKU11701,Dell Docking Station,IT Equipment,Global Traders,Pune WH,433,65,490,8,98,29989.04,21-10-2024
+SKU11702,Dell Laptop,IT Equipment,Prime Supplies,Bengaluru WH,304,38,221,121,96,4333.65,29-05-2024
+SKU11703,HP Scanner,Electronic,,Nagpur WH,445,20,378,87,55,15244.49,02-07-2025
+SKU11704,Dell Docking Station,IT Equipment,,Bengaluru WH,359,167,315,211,80,34792.95,29-11-2025
+SKU11705,Office Chair,Electronics,,Nagpur WH,359,293,140,512,80,26683.68,23-09-2025
+SKU11706,Seagate Hard Drive,Electronic,Apex Distributors,Bengaluru WH,373,32,128,277,100,25724.54,16-11-2024
+SKU11707,Epson Projector,Electronic,Vertex Solutions,Nagpur WH,215,122,289,48,44,25931.82,25-02-2025
+SKU11708,JBL Headset,Office Supplies,Global Traders,Nagpur WH,192,135,306,21,74,9579.31,03-12-2025
+SKU11709,APC UPS,Office Supplies,Global Traders,Mumbai WH,235,277,328,184,46,36257.18,25-10-2024
+SKU11710,Office Chair,electronics,,Nagpur WH,376,126,210,292,96,12357.13,10-05-2025
+SKU11711,Blue Yeti Microphone,Electronic,Global Traders,Nagpur WH,417,138,581,-26,78,30338.59,15-09-2024
+SKU11712,Dell Laptop,Electronics,Vertex Solutions,Nagpur WH,113,192,281,24,70,46397.5,10-04-2025
+SKU11713,Office Desk,IT Equipment,Vertex Solutions,Nagpur WH,331,298,283,346,85,2644.55,13-03-2025
+SKU11714,Cisco Switch,IT Equipment,,Nagpur WH,371,250,609,12,33,6060.29,04-07-2024
+SKU11715,Logitech Keyboard,Electronic,Prime Supplies,Bengaluru WH,112,185,27,270,25,26807.61,10-05-2024
+SKU11716,HP Monitor,office supplies,TechNova Pvt Ltd,Mumbai WH,451,49,433,67,46,5660.46,01-10-2025
+SKU11717,Samsung SSD,electronics,Vertex Solutions,Bengaluru WH,418,141,291,268,75,30222.7,30-09-2024
+SKU11718,Dell Laptop,Office Supplies,NextGen Systems,Pune WH,332,181,242,271,39,8674.93,27-01-2025
+SKU11719,TP-Link Router,Electronics,Apex Distributors,Delhi WH,154,277,315,116,22,6315.71,09-09-2024
+SKU11720,APC UPS,Office Supplies,Global Traders,Pune WH,482,208,226,464,50,45889.51,13-10-2024
+SKU11721,Lenovo Tablet,Office Supplies,,Delhi WH,104,1,61,44,59,10748.05,12-04-2024
+SKU11722,APC UPS,electronics,,Bengaluru WH,483,41,418,106,76,37559.64,24-01-2024
+SKU11723,Lenovo Tablet,Office Supplies,NextGen Systems,Nagpur WH,327,139,210,256,82,1133.72,03-06-2025
+SKU11724,JBL Headset,Electronic,Global Traders,Mumbai WH,365,198,452,111,97,30087.58,16-12-2025
+SKU11725,JBL Headset,electronics,NextGen Systems,Nagpur WH,-399,193,172,-378,71,20314.6,11-09-2024
+SKU11726,LG LED Screen,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,416,148,236,328,68,12279.24,15-12-2025
+SKU11727,Office Desk,Electronic,NextGen Systems,Delhi WH,83,231,11,303,69,1122.66,22-03-2025
+SKU11728,Lenovo Tablet,Electronic,NextGen Systems,Pune WH,420,228,434,214,31,13529.17,23-09-2024
+SKU11729,Office Desk,office supplies,Vertex Solutions,Mumbai WH,295,80,86,289,48,48960.16,08-01-2025
+SKU11730,Logitech Keyboard,Office Supplies,TechNova Pvt Ltd,Nagpur WH,74,117,23,168,40,4054.84,18-09-2024
+SKU11731,Lenovo Tablet,Electronic,Global Traders,Pune WH,281,76,150,207,38,20532.27,19-06-2024
+SKU11732,LG LED Screen,Electronics,Global Traders,Nagpur WH,316,34,118,232,31,27442.13,09-03-2025
+SKU11733,LG LED Screen,office supplies,Prime Supplies,Mumbai WH,135,120,8,247,45,38664.53,02-10-2024
+SKU11734,APC UPS,Office Supplies,NextGen Systems,Pune WH,468,91,546,13,35,7720.66,10-07-2024
+SKU11735,Seagate Hard Drive,Office Supplies,TechNova Pvt Ltd,Bengaluru WH,175,4,83,96,41,25275.04,28-02-2024
+SKU11736,Cisco Switch,electronics,Global Traders,Pune WH,251,69,85,235,26,43098.25,11-01-2025
+SKU11737,APC UPS,electronics,Prime Supplies,Pune WH,343,142,473,12,51,8188.14,12-09-2025
+SKU11738,Canon Printer,Electronics,Apex Distributors,Delhi WH,436,21,34,423,68,26491.76,16-05-2025
+SKU11739,HP Scanner,Office Supplies,,Bengaluru WH,396,202,563,35,89,17761.38,12-09-2025
+SKU11739,Lenovo Tablet,electronics,,Pune WH,345,207,257,295,87,40261.45,30-07-2024
+SKU11741,LG LED Screen,IT Equipment,,Delhi WH,87,188,152,123,34,15045.95,25-01-2024
+SKU11742,JBL Headset,IT Equipment,Global Traders,Delhi WH,211,249,101,359,22,43273.34,23-05-2024
+SKU11743,Canon Printer,Electronics,Vertex Solutions,Delhi WH,382,154,405,131,51,12720.71,12-02-2025
+SKU11744,APC UPS,electronics,,Mumbai WH,288,238,380,146,46,12343.76,29-05-2024
+SKU11745,HP Monitor,Electronic,,Delhi WH,377,51,151,277,67,44363.62,19-03-2025
+SKU11746,Blue Yeti Microphone,IT Equipment,TechNova Pvt Ltd,Delhi WH,89,150,181,58,85,3481.01,05-12-2024
+SKU11747,Dell Laptop,Electronics,Global Traders,Bengaluru WH,149,158,259,48,41,13553.47,26-01-2024
+SKU11748,Epson Projector,Electronics,,Delhi WH,310,111,322,99,86,16768.64,19-09-2025
+SKU11749,Epson Projector,Electronics,Prime Supplies,Delhi WH,285,177,334,128,56,37948.77,19-03-2025
+SKU11750,Blue Yeti Microphone,office supplies,Prime Supplies,Pune WH,440,263,37,666,,46654.08,21-01-2025
+SKU11751,Canon Printer,electronics,Vertex Solutions,Mumbai WH,219,225,374,70,54,30882.03,09-10-2024
+SKU11752,Logitech Webcam,Electronics,Global Traders,Pune WH,251,112,21,342,25,20976.96,17-07-2024
+SKU11753,Office Desk,Electronic,Vertex Solutions,Mumbai WH,263,77,218,122,90,49552.22,16-06-2024
+SKU11754,Logitech Keyboard,electronics,,Pune WH,489,19,271,237,81,46248.61,20-05-2025
+SKU11755,Office Chair,Office Supplies,NextGen Systems,Delhi WH,108,40,171,-23,78,47787.85,21-09-2024
+SKU11756,Office Chair,Office Supplies,Global Traders,Bengaluru WH,345,285,561,69,62,26050.41,12-10-2024
+SKU11757,Lenovo Tablet,IT Equipment,Apex Distributors,Nagpur WH,462,125,231,356,22,47003.01,03-11-2024
+SKU11758,Logitech Webcam,Electronic,Prime Supplies,Pune WH,305,207,52,460,95,27795.2,12-08-2024
+SKU11759,Dell Mouse,office supplies,NextGen Systems,Delhi WH,500,127,475,152,39,37151.93,05-03-2025
+SKU11760,Samsung SSD,electronics,,Mumbai WH,340,169,306,203,30,38770.81,28-02-2024
+SKU11761,Lenovo Tablet,IT Equipment,TechNova Pvt Ltd,Nagpur WH,273,207,442,38,39,46885.94,01-05-2024
+SKU11762,HP Scanner,Office Supplies,Vertex Solutions,Delhi WH,207,120,249,78,82,21562.27,28-08-2024
+SKU11763,Office Chair,electronics,NextGen Systems,Bengaluru WH,196,124,312,8,41,18904.7,25-03-2024
+SKU11764,Canon Printer,Office Supplies,,Delhi WH,101,42,21,122,21,44839.41,15-12-2025
+SKU11765,Dell Laptop,IT Equipment,Global Traders,Mumbai WH,381,77,507,-49,26,6760.82,10-01-2025
+SKU11766,HP Monitor,electronics,Apex Distributors,Nagpur WH,397,182,585,-6,31,5088.57,19-08-2025
+SKU11767,JBL Headset,electronics,,Delhi WH,92,20,157,-45,20,5466.17,30-08-2025
+SKU11768,Logitech Webcam,electronics,Prime Supplies,Delhi WH,199,269,73,395,98,30347.77,23-09-2024
+SKU11769,LG LED Screen,electronics,Apex Distributors,Mumbai WH,130,263,49,344,83,19730.33,12-12-2024
+SKU11770,Epson Projector,Office Supplies,Apex Distributors,Nagpur WH,390,83,484,-11,77,32709.12,14-02-2025
+SKU11771,Office Chair,electronics,Vertex Solutions,Delhi WH,264,120,406,-22,59,7521.17,07-06-2024
+SKU11772,Dell Mouse,electronics,Prime Supplies,Delhi WH,68,40,15,93,95,6392.88,16-03-2024
+SKU11773,Office Desk,electronics,,Delhi WH,194,170,352,12,60,20553.04,21-10-2025
+SKU11774,JBL Headset,IT Equipment,TechNova Pvt Ltd,Nagpur WH,392,282,601,73,58,7910.89,15-07-2024
+SKU11775,Seagate Hard Drive,IT Equipment,Global Traders,Delhi WH,226,33,25,234,24,23228.85,11-02-2025
+SKU11776,Office Chair,office supplies,,Nagpur WH,451,165,460,156,37,47907.45,03-08-2025
+SKU11777,Seagate Hard Drive,IT Equipment,Prime Supplies,Delhi WH,494,94,7,581,41,43788.5,08-12-2024
+SKU11778,Dell Docking Station,Office Supplies,,Nagpur WH,125,21,35,111,50,45374.61,03-07-2024
+SKU11779,Epson Projector,office supplies,NextGen Systems,Bengaluru WH,263,19,4,278,100,18713.89,03-01-2024
+SKU11780,JBL Headset,electronics,Global Traders,Nagpur WH,103,247,395,-45,84,34049.75,01-06-2025
+SKU11781,Office Desk,Office Supplies,Vertex Solutions,Delhi WH,190,271,400,61,87,38508.62,10-02-2024
+SKU11782,APC UPS,Electronics,Apex Distributors,Nagpur WH,282,280,297,265,88,993.95,26-08-2025
+SKU11783,APC UPS,Office Supplies,Vertex Solutions,Nagpur WH,371,32,242,161,73,41756.63,16-08-2024
+SKU11784,Samsung SSD,office supplies,Apex Distributors,Delhi WH,280,135,153,262,24,13341.76,27-06-2025
+SKU11785,Samsung SSD,IT Equipment,TechNova Pvt Ltd,Delhi WH,167,20,56,131,77,2483.41,18-03-2024
+SKU11786,Lenovo Tablet,Electronics,Apex Distributors,Bengaluru WH,460,140,548,52,89,33199.38,23-05-2025
+SKU11787,Logitech Webcam,Electronics,Vertex Solutions,Delhi WH,347,109,273,183,90,28081.66,02-12-2024
+SKU11788,Dell Laptop,office supplies,,Mumbai WH,140,279,335,84,45,16505.86,08-09-2024
+SKU11789,Seagate Hard Drive,electronics,Apex Distributors,Nagpur WH,295,10,50,255,36,20837.22,12-03-2025
+SKU11790,Logitech Webcam,Electronic,Prime Supplies,Mumbai WH,154,83,185,52,32,49142.4,04-05-2024
+SKU11791,Seagate Hard Drive,electronics,Prime Supplies,Delhi WH,486,1,245,242,28,16942.74,27-05-2025
+SKU11792,Dell Mouse,IT Equipment,Apex Distributors,Mumbai WH,442,273,476,239,85,17877.33,04-04-2024
+SKU11793,Blue Yeti Microphone,Electronic,TechNova Pvt Ltd,Bengaluru WH,230,90,198,122,44,40238.33,29-03-2024
+SKU11794,TP-Link Router,Office Supplies,Vertex Solutions,Delhi WH,82,83,37,128,63,49556.57,08-10-2025
+SKU11795,Lenovo Tablet,Electronics,,Pune WH,229,15,174,70,69,8459.4,27-09-2025
+SKU11796,Samsung SSD,office supplies,,Bengaluru WH,376,247,600,23,28,38564.87,31-01-2025
+SKU11797,HP Monitor,IT Equipment,Vertex Solutions,Mumbai WH,214,188,101,301,25,28589.87,18-01-2024
+SKU11798,Dell Laptop,Electronic,,Mumbai WH,390,190,346,234,73,6790.57,08-04-2024
+SKU11799,Office Desk,electronics,,Delhi WH,354,266,574,46,34,27723.89,18-07-2025
+SKU11799,LG LED Screen,Electronics,NextGen Systems,Pune WH,-421,174,122,-369,,15671.7,11-03-2025
+SKU11801,Logitech Webcam,office supplies,Global Traders,Nagpur WH,200,19,54,165,27,40803.1,05-06-2024
+SKU11802,Dell Docking Station,Electronic,Prime Supplies,Delhi WH,193,174,210,157,29,15488.42,03-11-2024
+SKU11803,Office Chair,electronics,Prime Supplies,Pune WH,258,11,13,256,56,46577.37,09-09-2025
+SKU11804,Dell Mouse,Electronic,NextGen Systems,Nagpur WH,356,51,185,222,34,44431.58,06-07-2024
+SKU11805,Samsung SSD,Electronics,Apex Distributors,Nagpur WH,345,108,298,155,30,42089.21,17-07-2025
+SKU11806,Office Desk,office supplies,Apex Distributors,Bengaluru WH,436,277,81,632,90,32929.2,12-04-2024
+SKU11807,Logitech Keyboard,office supplies,NextGen Systems,Nagpur WH,256,20,159,117,73,37080.61,20-05-2024
+SKU11808,Dell Mouse,IT Equipment,TechNova Pvt Ltd,Delhi WH,85,48,150,-17,20,40494.08,19-02-2025
+SKU11809,Office Desk,Office Supplies,Vertex Solutions,Mumbai WH,327,54,135,246,40,16769.74,08-07-2024
+SKU11810,Dell Laptop,IT Equipment,Vertex Solutions,Pune WH,382,291,717,-44,33,8551.54,29-11-2025
+SKU11811,Dell Docking Station,Electronic,Vertex Solutions,Delhi WH,310,122,208,224,20,27423.43,01-03-2024
+SKU11812,JBL Headset,Office Supplies,Apex Distributors,Nagpur WH,270,108,313,65,69,6896.9,27-08-2025
+SKU11813,Samsung SSD,Office Supplies,Prime Supplies,Delhi WH,260,296,294,262,54,12824.46,11-09-2025
+SKU11814,Office Desk,electronics,Apex Distributors,Pune WH,304,0,58,246,71,28873.14,18-10-2025
+SKU11815,Canon Printer,office supplies,TechNova Pvt Ltd,Pune WH,347,61,343,65,51,49907.43,17-02-2024
+SKU11816,Canon Printer,electronics,Apex Distributors,Mumbai WH,424,36,350,110,70,28771.28,29-10-2025
+SKU11817,Dell Mouse,Electronic,Vertex Solutions,Delhi WH,157,56,7,206,72,7304.75,25-10-2025
+SKU11818,Lenovo Tablet,IT Equipment,Apex Distributors,Delhi WH,452,63,377,138,61,33189.67,12-10-2025
+SKU11819,JBL Headset,office supplies,Vertex Solutions,Delhi WH,124,105,199,30,65,24496.78,07-10-2024
+SKU11820,Lenovo Tablet,IT Equipment,Global Traders,Mumbai WH,273,25,129,169,20,39091.52,02-03-2024
+SKU11821,JBL Headset,IT Equipment,Prime Supplies,Nagpur WH,433,234,536,131,57,7120.82,13-10-2024
+SKU11822,Cisco Switch,Office Supplies,Prime Supplies,Bengaluru WH,140,218,393,-35,21,22776.01,06-11-2024
+SKU11823,Seagate Hard Drive,IT Equipment,,Nagpur WH,379,114,460,33,45,8106.87,13-08-2024
+SKU11824,Cisco Switch,IT Equipment,Vertex Solutions,Bengaluru WH,274,68,8,334,50,25533.92,28-05-2024
+SKU11825,Seagate Hard Drive,office supplies,Prime Supplies,Nagpur WH,106,137,189,54,86,43113.92,12-06-2025
+SKU11826,Logitech Keyboard,Office Supplies,Prime Supplies,Pune WH,459,158,413,204,22,44948.91,15-09-2024
+SKU11827,Office Desk,Office Supplies,Global Traders,Delhi WH,464,125,569,20,98,48874.84,04-01-2024
+SKU11828,Lenovo Tablet,Office Supplies,NextGen Systems,Mumbai WH,126,10,83,53,90,24102.86,10-07-2024
+SKU11829,Seagate Hard Drive,Office Supplies,Vertex Solutions,Delhi WH,105,156,217,44,52,33524.83,08-09-2025
+SKU11830,HP Scanner,IT Equipment,Vertex Solutions,Pune WH,339,288,365,262,32,16303.28,10-12-2024
+SKU11831,Office Chair,IT Equipment,Vertex Solutions,Delhi WH,232,241,246,227,88,47879.34,17-01-2024
+SKU11832,Canon Printer,electronics,,Mumbai WH,403,39,52,390,92,10327.47,26-02-2025
+SKU11833,APC UPS,office supplies,Global Traders,Pune WH,323,37,52,308,90,36927.42,11-08-2024
+SKU11834,Dell Laptop,Office Supplies,,Mumbai WH,239,49,18,270,52,49566.65,20-10-2025
+SKU11835,Office Chair,electronics,Prime Supplies,Mumbai WH,351,230,214,367,31,40290.25,04-09-2025
+SKU11836,Seagate Hard Drive,Office Supplies,Global Traders,Mumbai WH,324,123,22,425,80,46318.79,16-05-2025
+SKU11837,Dell Mouse,Electronics,Vertex Solutions,Bengaluru WH,468,110,421,157,62,13955.73,13-03-2025
+SKU11838,Blue Yeti Microphone,office supplies,Global Traders,Mumbai WH,406,178,365,219,77,36971.14,04-10-2025
+SKU11839,JBL Headset,electronics,Global Traders,Pune WH,342,10,341,11,55,36900.0,02-07-2024
+SKU11840,Logitech Webcam,IT Equipment,TechNova Pvt Ltd,Delhi WH,150,107,101,156,36,11358.7,17-05-2024
+SKU11841,Logitech Webcam,office supplies,,Pune WH,66,60,52,74,66,34427.06,11-06-2024
+SKU11842,Epson Projector,Electronics,Global Traders,Delhi WH,292,193,7,478,41,5515.37,10-06-2024
+SKU11843,Dell Mouse,IT Equipment,Vertex Solutions,Pune WH,158,37,39,156,73,13380.39,16-06-2025
+SKU11844,Office Desk,Office Supplies,NextGen Systems,Delhi WH,415,284,693,6,87,7954.12,31-08-2025
+SKU11845,Lenovo Tablet,electronics,,Nagpur WH,322,290,220,392,77,15854.94,12-09-2025
+SKU11846,Logitech Webcam,IT Equipment,,Mumbai WH,159,10,50,119,71,43748.76,28-04-2024
+SKU11847,Blue Yeti Microphone,Electronics,,Delhi WH,457,64,55,466,49,45475.72,17-08-2025
+SKU11848,TP-Link Router,Office Supplies,Vertex Solutions,Pune WH,414,69,54,429,86,12100.1,21-02-2024
+SKU11849,Blue Yeti Microphone,Office Supplies,Prime Supplies,Nagpur WH,310,278,75,513,50,26301.29,05-04-2024
+SKU11850,Blue Yeti Microphone,electronics,Global Traders,Mumbai WH,182,133,170,145,,21443.26,29-07-2024
+SKU11851,Canon Printer,Office Supplies,,Mumbai WH,121,112,45,188,86,21163.91,11-10-2025
+SKU11852,APC UPS,electronics,Apex Distributors,Nagpur WH,329,41,377,-7,61,1595.01,12-01-2024
+SKU11853,Logitech Keyboard,Electronic,Global Traders,Bengaluru WH,449,13,24,438,23,4145.05,05-12-2025
+SKU11854,APC UPS,Office Supplies,NextGen Systems,Mumbai WH,147,246,412,-19,32,39394.54,11-09-2025
+SKU11855,HP Scanner,office supplies,Prime Supplies,Bengaluru WH,63,76,90,49,60,32315.79,26-10-2024
+SKU11856,Canon Printer,Office Supplies,,Nagpur WH,183,81,43,221,89,24607.84,19-03-2024
+SKU11857,LG LED Screen,Electronics,NextGen Systems,Delhi WH,127,89,147,69,84,23496.83,03-06-2025
+SKU11858,LG LED Screen,Electronics,TechNova Pvt Ltd,Nagpur WH,272,239,26,485,25,44301.06,21-01-2025
+SKU11859,Dell Docking Station,Electronic,Global Traders,Delhi WH,226,174,45,355,66,18948.29,05-05-2024
+SKU11859,Dell Docking Station,electronics,NextGen Systems,Nagpur WH,170,211,76,305,54,33100.06,09-01-2025
+SKU11861,HP Monitor,Office Supplies,TechNova Pvt Ltd,Delhi WH,208,87,295,0,68,2746.53,31-07-2024
+SKU11862,Blue Yeti Microphone,IT Equipment,NextGen Systems,Mumbai WH,173,210,308,75,98,38641.09,13-10-2025
+SKU11863,Logitech Keyboard,Electronics,Apex Distributors,Mumbai WH,488,269,189,568,36,46414.12,05-02-2025
+SKU11864,Dell Docking Station,office supplies,TechNova Pvt Ltd,Nagpur WH,179,270,63,386,91,31316.36,21-09-2024
+SKU11865,Cisco Switch,electronics,Vertex Solutions,Delhi WH,488,90,560,18,80,35937.25,11-07-2024
+SKU11866,Samsung SSD,electronics,Prime Supplies,Pune WH,320,32,204,148,54,34862.56,25-09-2025
+SKU11867,Office Desk,office supplies,Apex Distributors,Delhi WH,397,151,174,374,86,14949.58,22-01-2024
+SKU11868,Epson Projector,office supplies,,Pune WH,174,214,387,1,36,5294.24,14-09-2024
+SKU11869,Logitech Webcam,office supplies,,Pune WH,92,236,20,308,69,17798.34,17-01-2025
+SKU11870,HP Scanner,electronics,NextGen Systems,Nagpur WH,437,148,43,542,43,27219.11,10-07-2024
+SKU11871,Cisco Switch,IT Equipment,Apex Distributors,Delhi WH,200,98,11,287,30,39625.48,24-10-2024
+SKU11872,Dell Laptop,electronics,Prime Supplies,Nagpur WH,312,294,543,63,84,12148.03,15-12-2025
+SKU11873,Office Chair,office supplies,Global Traders,Delhi WH,306,265,182,389,55,30543.75,14-12-2025
+SKU11874,HP Monitor,Electronic,Vertex Solutions,Pune WH,81,174,19,236,57,45832.65,01-08-2024
+SKU11875,Seagate Hard Drive,Office Supplies,NextGen Systems,Mumbai WH,-441,181,198,-458,87,19796.53,15-08-2024
+SKU11876,Dell Mouse,office supplies,,Bengaluru WH,463,72,104,431,31,23375.86,06-05-2024
+SKU11877,Samsung SSD,Office Supplies,Prime Supplies,Pune WH,328,24,310,42,45,24679.79,17-05-2024
+SKU11878,Lenovo Tablet,Electronics,Prime Supplies,Mumbai WH,257,165,115,307,25,45914.71,18-09-2025
+SKU11879,HP Scanner,Electronics,,Bengaluru WH,439,258,508,189,61,42933.09,19-07-2025
+SKU11880,TP-Link Router,electronics,TechNova Pvt Ltd,Mumbai WH,418,268,8,678,21,29345.91,08-12-2024
+SKU11881,Canon Printer,Office Supplies,TechNova Pvt Ltd,Pune WH,448,212,114,546,90,34451.0,07-12-2024
+SKU11882,LG LED Screen,Electronics,,Mumbai WH,291,254,270,275,56,44125.84,27-11-2025
+SKU11883,Epson Projector,electronics,TechNova Pvt Ltd,Mumbai WH,159,200,188,171,98,15630.27,13-03-2024
+SKU11884,Logitech Webcam,Electronics,Apex Distributors,Pune WH,463,63,538,-12,93,11644.34,26-06-2025
+SKU11885,Canon Printer,IT Equipment,Vertex Solutions,Pune WH,294,175,27,442,95,40765.83,10-06-2024
+SKU11886,Samsung SSD,IT Equipment,Apex Distributors,Nagpur WH,160,258,75,343,29,16950.96,19-03-2024
+SKU11887,Canon Printer,Office Supplies,,Mumbai WH,97,130,18,209,57,41496.2,07-10-2025
+SKU11888,HP Scanner,IT Equipment,,Mumbai WH,60,172,121,111,83,26015.03,08-04-2024
+SKU11889,HP Monitor,electronics,TechNova Pvt Ltd,Bengaluru WH,109,65,109,65,22,44258.37,04-01-2025
+SKU11890,Logitech Keyboard,Electronics,,Pune WH,249,203,452,0,97,34276.91,15-03-2024
+SKU11891,JBL Headset,Electronic,NextGen Systems,Nagpur WH,214,108,51,271,42,2697.4,16-03-2025
+SKU11892,Office Desk,Electronics,,Delhi WH,310,281,187,404,75,21281.23,28-07-2025
+SKU11893,Dell Docking Station,Electronic,Apex Distributors,Mumbai WH,379,73,318,134,46,5879.85,07-11-2024
+SKU11894,JBL Headset,Electronic,Apex Distributors,Pune WH,333,2,270,65,77,23896.66,14-11-2025
+SKU11895,HP Monitor,electronics,Vertex Solutions,Nagpur WH,331,270,139,462,72,30763.98,07-05-2024
+SKU11896,APC UPS,office supplies,TechNova Pvt Ltd,Bengaluru WH,77,52,170,-41,67,41130.62,03-06-2025
+SKU11897,Logitech Webcam,Office Supplies,Global Traders,Mumbai WH,238,289,66,461,57,35761.17,08-04-2025
+SKU11898,LG LED Screen,office supplies,,Bengaluru WH,180,298,169,309,71,28678.49,19-01-2025
+SKU11899,LG LED Screen,office supplies,,Mumbai WH,495,151,565,81,97,44468.65,29-10-2024
+SKU11900,Epson Projector,Office Supplies,,Bengaluru WH,124,274,401,-3,,12485.22,04-12-2024
+SKU11901,Dell Docking Station,Electronic,Vertex Solutions,Pune WH,339,52,150,241,22,44537.93,20-04-2024
+SKU11902,Lenovo Tablet,IT Equipment,TechNova Pvt Ltd,Delhi WH,144,114,150,108,38,31148.67,24-01-2024
+SKU11903,Dell Mouse,IT Equipment,,Mumbai WH,335,242,158,419,70,32132.6,27-06-2024
+SKU11904,Samsung SSD,Office Supplies,Vertex Solutions,Nagpur WH,433,110,316,227,91,33540.31,08-09-2025
+SKU11905,Blue Yeti Microphone,Electronics,Apex Distributors,Mumbai WH,235,124,266,93,37,44872.81,21-02-2025
+SKU11906,LG LED Screen,IT Equipment,NextGen Systems,Mumbai WH,389,60,72,377,92,27507.68,30-05-2024
+SKU11907,Lenovo Tablet,office supplies,Apex Distributors,Mumbai WH,257,183,278,162,38,39201.68,26-01-2025
+SKU11908,Logitech Keyboard,electronics,TechNova Pvt Ltd,Bengaluru WH,343,193,352,184,72,24148.26,12-03-2025
+SKU11909,Dell Docking Station,Electronic,NextGen Systems,Mumbai WH,100,74,196,-22,44,12671.33,15-07-2024
+SKU11910,Canon Printer,electronics,Apex Distributors,Bengaluru WH,447,136,408,175,89,13667.88,11-02-2024
+SKU11911,Samsung SSD,Electronics,TechNova Pvt Ltd,Bengaluru WH,487,15,168,334,81,21768.98,04-02-2025
+SKU11912,HP Scanner,Office Supplies,Vertex Solutions,Mumbai WH,249,32,28,253,34,4152.58,16-07-2024
+SKU11913,Logitech Keyboard,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,466,171,26,611,26,32449.43,23-03-2024
+SKU11914,APC UPS,IT Equipment,Global Traders,Bengaluru WH,200,37,164,73,26,9875.39,19-08-2025
+SKU11915,Epson Projector,electronics,Apex Distributors,Nagpur WH,276,210,147,339,26,939.21,22-05-2025
+SKU11916,TP-Link Router,Electronics,,Pune WH,275,226,288,213,70,36328.46,25-02-2025
+SKU11917,Epson Projector,Electronics,Prime Supplies,Delhi WH,393,66,305,154,37,36276.91,30-04-2025
+SKU11918,LG LED Screen,Electronics,Apex Distributors,Mumbai WH,246,24,82,188,92,19924.22,20-06-2025
+SKU11919,JBL Headset,electronics,Vertex Solutions,Delhi WH,395,273,269,399,28,11682.44,15-05-2024
+SKU11919,JBL Headset,Electronic,,Mumbai WH,210,183,366,27,41,23412.92,22-03-2024
+SKU11921,Dell Mouse,Electronics,Global Traders,Mumbai WH,287,5,104,188,41,19053.49,12-08-2024
+SKU11922,Office Chair,electronics,,Delhi WH,434,216,243,407,85,27351.03,19-12-2024
+SKU11923,APC UPS,Electronics,Apex Distributors,Nagpur WH,242,62,97,207,47,13303.47,20-02-2024
+SKU11924,Canon Printer,IT Equipment,Apex Distributors,Bengaluru WH,421,86,330,177,26,2245.76,06-04-2024
+SKU11925,Samsung SSD,IT Equipment,Vertex Solutions,Nagpur WH,270,141,145,266,26,41616.82,11-02-2025
+SKU11926,APC UPS,office supplies,,Bengaluru WH,290,273,110,453,38,8598.88,10-07-2024
+SKU11927,Cisco Switch,Office Supplies,Global Traders,Mumbai WH,88,7,41,54,31,31450.45,24-09-2024
+SKU11928,Blue Yeti Microphone,Electronic,,Bengaluru WH,315,214,175,354,93,21952.76,12-03-2025
+SKU11929,Dell Mouse,Office Supplies,Global Traders,Bengaluru WH,493,118,552,59,51,34108.43,22-11-2024
+SKU11930,Office Desk,IT Equipment,TechNova Pvt Ltd,Delhi WH,259,14,173,100,49,39301.82,25-08-2025
+SKU11931,APC UPS,IT Equipment,TechNova Pvt Ltd,Delhi WH,328,219,412,135,35,43059.11,23-05-2025
+SKU11932,Dell Laptop,Electronic,TechNova Pvt Ltd,Delhi WH,170,207,265,112,38,27076.97,27-03-2024
+SKU11933,Epson Projector,Electronic,Global Traders,Mumbai WH,387,87,184,290,48,49608.32,26-11-2025
+SKU11934,Blue Yeti Microphone,IT Equipment,Prime Supplies,Nagpur WH,497,187,15,669,62,20306.24,02-06-2024
+SKU11935,Office Desk,electronics,NextGen Systems,Bengaluru WH,425,37,178,284,29,19956.73,12-04-2025
+SKU11936,Blue Yeti Microphone,office supplies,Apex Distributors,Pune WH,436,20,285,171,95,21555.06,15-09-2025
+SKU11937,Canon Printer,Electronics,NextGen Systems,Mumbai WH,327,147,16,458,40,47574.86,09-12-2025
+SKU11938,LG LED Screen,office supplies,Apex Distributors,Bengaluru WH,423,117,555,-15,75,48456.37,25-10-2025
+SKU11939,LG LED Screen,Office Supplies,Prime Supplies,Mumbai WH,116,152,310,-42,63,14249.94,07-04-2025
+SKU11940,HP Monitor,office supplies,,Mumbai WH,370,279,519,130,78,17911.2,02-07-2024
+SKU11941,HP Scanner,IT Equipment,Vertex Solutions,Bengaluru WH,170,278,205,243,77,38478.45,03-11-2025
+SKU11942,Seagate Hard Drive,IT Equipment,Prime Supplies,Bengaluru WH,145,13,157,1,77,3267.71,04-10-2025
+SKU11943,Blue Yeti Microphone,IT Equipment,,Bengaluru WH,389,236,506,119,98,7580.86,30-09-2025
+SKU11944,Canon Printer,electronics,NextGen Systems,Bengaluru WH,344,223,517,50,83,28882.53,20-05-2025
+SKU11945,Office Chair,office supplies,TechNova Pvt Ltd,Delhi WH,433,19,404,48,88,32213.12,29-11-2025
+SKU11946,Seagate Hard Drive,Electronics,NextGen Systems,Delhi WH,370,121,377,114,26,19108.87,26-09-2025
+SKU11947,Dell Laptop,office supplies,Prime Supplies,Pune WH,219,233,291,161,24,14051.89,08-07-2025
+SKU11948,Seagate Hard Drive,electronics,,Delhi WH,140,175,191,124,54,29720.39,19-07-2024
+SKU11949,TP-Link Router,office supplies,Vertex Solutions,Pune WH,121,180,313,-12,57,34207.93,12-08-2025
+SKU11950,Samsung SSD,electronics,Prime Supplies,Nagpur WH,-483,137,400,-746,,20304.56,23-09-2024
+SKU11951,Office Chair,office supplies,,Pune WH,90,167,95,162,88,45706.3,17-12-2024
+SKU11952,HP Scanner,Office Supplies,Vertex Solutions,Pune WH,249,85,294,40,41,17231.92,14-09-2025
+SKU11953,Dell Docking Station,Electronics,,Nagpur WH,450,189,104,535,48,18353.63,23-10-2025
+SKU11954,Blue Yeti Microphone,Electronic,TechNova Pvt Ltd,Bengaluru WH,300,265,269,296,69,16090.03,14-05-2025
+SKU11955,Dell Laptop,electronics,Apex Distributors,Bengaluru WH,445,147,267,325,48,6086.89,22-11-2025
+SKU11956,Cisco Switch,Office Supplies,,Pune WH,312,295,76,531,34,2439.8,18-06-2025
+SKU11957,Seagate Hard Drive,Electronics,Prime Supplies,Nagpur WH,476,170,595,51,50,10588.27,10-11-2024
+SKU11958,Dell Mouse,Electronic,NextGen Systems,Pune WH,95,166,150,111,78,5450.39,26-06-2024
+SKU11959,Dell Docking Station,Electronics,Vertex Solutions,Delhi WH,237,109,214,132,80,22421.61,20-11-2024
+SKU11960,Dell Mouse,Electronic,Prime Supplies,Mumbai WH,73,8,68,13,39,38839.05,30-06-2024
+SKU11961,Dell Docking Station,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,283,196,124,355,95,36651.84,14-05-2024
+SKU11962,Epson Projector,electronics,Vertex Solutions,Bengaluru WH,437,244,6,675,54,26386.48,22-12-2024
+SKU11963,Blue Yeti Microphone,IT Equipment,,Mumbai WH,255,83,70,268,62,47781.75,20-08-2025
+SKU11964,APC UPS,Electronic,Apex Distributors,Pune WH,309,212,460,61,88,6997.13,24-12-2025
+SKU11965,Blue Yeti Microphone,office supplies,NextGen Systems,Bengaluru WH,222,261,345,138,55,21156.03,07-01-2025
+SKU11966,TP-Link Router,Office Supplies,Global Traders,Nagpur WH,457,162,628,-9,56,47904.46,01-05-2024
+SKU11967,Canon Printer,Electronics,TechNova Pvt Ltd,Mumbai WH,92,219,170,141,23,7881.56,10-11-2024
+SKU11968,Logitech Keyboard,electronics,Global Traders,Mumbai WH,240,117,300,57,49,39985.67,20-11-2024
+SKU11969,Office Chair,IT Equipment,TechNova Pvt Ltd,Bengaluru WH,85,106,1,190,61,10284.15,10-10-2025
+SKU11970,Logitech Webcam,Electronic,Apex Distributors,Bengaluru WH,267,284,186,365,32,26287.12,27-01-2025
+SKU11971,Cisco Switch,office supplies,Vertex Solutions,Delhi WH,247,300,502,45,38,22505.32,14-10-2025
+SKU11972,Canon Printer,office supplies,TechNova Pvt Ltd,Pune WH,453,225,299,379,72,18378.08,11-06-2025
+SKU11973,JBL Headset,Electronics,Vertex Solutions,Pune WH,428,85,377,136,56,35407.53,18-04-2024
+SKU11974,Canon Printer,electronics,Global Traders,Mumbai WH,427,68,194,301,28,31382.91,01-10-2025
+SKU11975,Logitech Keyboard,Office Supplies,Vertex Solutions,Delhi WH,97,30,96,31,21,13193.28,12-06-2024
+SKU11976,Dell Laptop,Office Supplies,Global Traders,Delhi WH,154,283,237,200,64,20260.87,24-12-2025
+SKU11977,Epson Projector,IT Equipment,,Nagpur WH,94,233,90,237,43,13091.0,06-01-2025
+SKU11978,HP Scanner,electronics,TechNova Pvt Ltd,Nagpur WH,337,136,495,-22,37,7208.04,02-04-2024
+SKU11979,Samsung SSD,office supplies,Prime Supplies,Delhi WH,311,232,391,152,90,2749.51,05-07-2024
+SKU11979,TP-Link Router,Electronics,,Pune WH,417,225,123,519,80,9996.23,10-08-2024
+SKU11981,Office Chair,electronics,Global Traders,Pune WH,339,298,190,447,23,28874.74,03-08-2025
+SKU11982,Dell Mouse,office supplies,,Nagpur WH,364,109,421,52,41,32896.63,22-08-2025
+SKU11983,Blue Yeti Microphone,electronics,Vertex Solutions,Pune WH,88,155,120,123,90,16322.62,07-01-2025
+SKU11984,Office Chair,Office Supplies,Apex Distributors,Nagpur WH,409,125,553,-19,46,20951.98,15-05-2025
+SKU11985,TP-Link Router,IT Equipment,Apex Distributors,Pune WH,421,237,504,154,48,47100.73,07-08-2025
+SKU11986,Cisco Switch,Office Supplies,Prime Supplies,Pune WH,220,133,129,224,93,44674.27,10-09-2025
+SKU11987,TP-Link Router,Office Supplies,Global Traders,Delhi WH,472,298,449,321,20,3587.14,26-02-2024
+SKU11988,APC UPS,Office Supplies,,Mumbai WH,219,126,341,4,96,10790.44,25-12-2025
+SKU11989,Blue Yeti Microphone,Office Supplies,Vertex Solutions,Pune WH,468,167,141,494,94,7547.05,22-11-2025
+SKU11990,HP Scanner,office supplies,TechNova Pvt Ltd,Bengaluru WH,435,50,137,348,66,9503.18,08-02-2024
+SKU11991,APC UPS,Office Supplies,,Nagpur WH,72,135,250,-43,97,34211.51,10-12-2025
+SKU11992,TP-Link Router,electronics,,Mumbai WH,428,190,526,92,65,39954.73,11-02-2024
+SKU11993,Samsung SSD,IT Equipment,Prime Supplies,Bengaluru WH,153,8,71,90,58,42773.76,10-08-2025
+SKU11994,Epson Projector,electronics,Vertex Solutions,Bengaluru WH,214,56,235,35,28,44937.13,05-04-2024
+SKU11995,TP-Link Router,office supplies,NextGen Systems,Mumbai WH,61,76,164,-27,93,4714.51,22-07-2024
+SKU11996,JBL Headset,Electronics,Vertex Solutions,Mumbai WH,294,141,334,101,85,28869.8,26-04-2025
+SKU11997,Cisco Switch,Electronics,Prime Supplies,Pune WH,92,107,175,24,95,19951.19,10-10-2025
+SKU11998,TP-Link Router,Electronics,,Delhi WH,127,77,29,175,46,23380.99,07-11-2025
+SKU11999,Logitech Keyboard,Electronics,Prime Supplies,Delhi WH,121,27,29,119,97,20194.54,12-05-2024
